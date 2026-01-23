@@ -10,12 +10,12 @@ class BagianSeeder extends Seeder
     public function run(): void
     {
         $data = [
-            ['id' => 1, 'nama_bagian' => 'Bagian Tata Usaha'],
-            ['id' => 2, 'nama_bagian' => 'Bidang Survei dan Pemetaan'],
-            ['id' => 3, 'nama_bagian' => 'Bidang Penetapan Hak dan Pendaftaran'],
-            ['id' => 4, 'nama_bagian' => 'Bidang Penataan dan Pemberdayaan'],
-            ['id' => 5, 'nama_bagian' => 'Bidang Pengadaan Tanah dan Pengembangan'],
-            ['id' => 6, 'nama_bagian' => 'Bidang Pengendalian dan Penanganan Sengketa'],
+            ['id' => 1, 'nama_bagian' => 'Tata Usaha'],
+            ['id' => 2, 'nama_bagian' => 'Survei dan Pemetaan'],
+            ['id' => 3, 'nama_bagian' => 'Penetapan Hak dan Pendaftaran'],
+            ['id' => 4, 'nama_bagian' => 'Penataan dan Pemberdayaan'],
+            ['id' => 5, 'nama_bagian' => 'Pengadaan Tanah dan Pengembangan'],
+            ['id' => 6, 'nama_bagian' => 'Pengendalian dan Penanganan Sengketa'],
         ];
 
         foreach ($data as $item) {
