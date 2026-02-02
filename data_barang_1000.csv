@@ -1,1001 +1,1001 @@
 kode_barang,nama_barang,stok,nama_bagian
-BRG-0001,"Barang Contoh Ke-1",137,"Penetapan Hak dan Pendaftaran"
-BRG-0002,"Barang Contoh Ke-2",298,"Pengendalian dan Penanganan Sengketa"
-BRG-0003,"Barang Contoh Ke-3",307,"Pengendalian dan Penanganan Sengketa"
-BRG-0004,"Barang Contoh Ke-4",173,"Pengadaan Tanah dan Pengembangan"
-BRG-0005,"Barang Contoh Ke-5",190,"Pengendalian dan Penanganan Sengketa"
-BRG-0006,"Barang Contoh Ke-6",492,"Tata Usaha"
-BRG-0007,"Barang Contoh Ke-7",382,"Tata Usaha"
-BRG-0008,"Barang Contoh Ke-8",452,"Survei dan Pemetaan"
-BRG-0009,"Barang Contoh Ke-9",339,"Pengendalian dan Penanganan Sengketa"
-BRG-0010,"Barang Contoh Ke-10",494,"Penetapan Hak dan Pendaftaran"
-BRG-0011,"Barang Contoh Ke-11",367,"Survei dan Pemetaan"
-BRG-0012,"Barang Contoh Ke-12",369,"Penataan dan Pemberdayaan"
-BRG-0013,"Barang Contoh Ke-13",27,"Penetapan Hak dan Pendaftaran"
-BRG-0014,"Barang Contoh Ke-14",16,"Penetapan Hak dan Pendaftaran"
-BRG-0015,"Barang Contoh Ke-15",72,"Survei dan Pemetaan"
-BRG-0016,"Barang Contoh Ke-16",34,"Survei dan Pemetaan"
-BRG-0017,"Barang Contoh Ke-17",300,"Penetapan Hak dan Pendaftaran"
-BRG-0018,"Barang Contoh Ke-18",343,"Tata Usaha"
-BRG-0019,"Barang Contoh Ke-19",234,"Penataan dan Pemberdayaan"
-BRG-0020,"Barang Contoh Ke-20",15,"Survei dan Pemetaan"
-BRG-0021,"Barang Contoh Ke-21",384,"Tata Usaha"
-BRG-0022,"Barang Contoh Ke-22",413,"Pengadaan Tanah dan Pengembangan"
-BRG-0023,"Barang Contoh Ke-23",82,"Survei dan Pemetaan"
-BRG-0024,"Barang Contoh Ke-24",203,"Pengadaan Tanah dan Pengembangan"
-BRG-0025,"Barang Contoh Ke-25",204,"Pengendalian dan Penanganan Sengketa"
-BRG-0026,"Barang Contoh Ke-26",189,"Survei dan Pemetaan"
-BRG-0027,"Barang Contoh Ke-27",25,"Penataan dan Pemberdayaan"
-BRG-0028,"Barang Contoh Ke-28",389,"Penetapan Hak dan Pendaftaran"
-BRG-0029,"Barang Contoh Ke-29",44,"Penataan dan Pemberdayaan"
-BRG-0030,"Barang Contoh Ke-30",396,"Survei dan Pemetaan"
-BRG-0031,"Barang Contoh Ke-31",12,"Penetapan Hak dan Pendaftaran"
-BRG-0032,"Barang Contoh Ke-32",359,"Penataan dan Pemberdayaan"
-BRG-0033,"Barang Contoh Ke-33",189,"Penetapan Hak dan Pendaftaran"
-BRG-0034,"Barang Contoh Ke-34",122,"Pengadaan Tanah dan Pengembangan"
-BRG-0035,"Barang Contoh Ke-35",56,"Pengadaan Tanah dan Pengembangan"
-BRG-0036,"Barang Contoh Ke-36",230,"Pengadaan Tanah dan Pengembangan"
-BRG-0037,"Barang Contoh Ke-37",258,"Penetapan Hak dan Pendaftaran"
-BRG-0038,"Barang Contoh Ke-38",241,"Tata Usaha"
-BRG-0039,"Barang Contoh Ke-39",22,"Penetapan Hak dan Pendaftaran"
-BRG-0040,"Barang Contoh Ke-40",82,"Pengadaan Tanah dan Pengembangan"
-BRG-0041,"Barang Contoh Ke-41",199,"Survei dan Pemetaan"
-BRG-0042,"Barang Contoh Ke-42",259,"Pengendalian dan Penanganan Sengketa"
-BRG-0043,"Barang Contoh Ke-43",81,"Pengendalian dan Penanganan Sengketa"
-BRG-0044,"Barang Contoh Ke-44",470,"Penataan dan Pemberdayaan"
-BRG-0045,"Barang Contoh Ke-45",27,"Penetapan Hak dan Pendaftaran"
-BRG-0046,"Barang Contoh Ke-46",27,"Survei dan Pemetaan"
-BRG-0047,"Barang Contoh Ke-47",232,"Survei dan Pemetaan"
-BRG-0048,"Barang Contoh Ke-48",312,"Penetapan Hak dan Pendaftaran"
-BRG-0049,"Barang Contoh Ke-49",13,"Pengadaan Tanah dan Pengembangan"
-BRG-0050,"Barang Contoh Ke-50",35,"Pengendalian dan Penanganan Sengketa"
-BRG-0051,"Barang Contoh Ke-51",154,"Tata Usaha"
-BRG-0052,"Barang Contoh Ke-52",397,"Penetapan Hak dan Pendaftaran"
-BRG-0053,"Barang Contoh Ke-53",240,"Penetapan Hak dan Pendaftaran"
-BRG-0054,"Barang Contoh Ke-54",171,"Penetapan Hak dan Pendaftaran"
-BRG-0055,"Barang Contoh Ke-55",36,"Penetapan Hak dan Pendaftaran"
-BRG-0056,"Barang Contoh Ke-56",212,"Penetapan Hak dan Pendaftaran"
-BRG-0057,"Barang Contoh Ke-57",437,"Pengadaan Tanah dan Pengembangan"
-BRG-0058,"Barang Contoh Ke-58",495,"Survei dan Pemetaan"
-BRG-0059,"Barang Contoh Ke-59",334,"Survei dan Pemetaan"
-BRG-0060,"Barang Contoh Ke-60",416,"Survei dan Pemetaan"
-BRG-0061,"Barang Contoh Ke-61",169,"Pengadaan Tanah dan Pengembangan"
-BRG-0062,"Barang Contoh Ke-62",137,"Penataan dan Pemberdayaan"
-BRG-0063,"Barang Contoh Ke-63",186,"Penetapan Hak dan Pendaftaran"
-BRG-0064,"Barang Contoh Ke-64",277,"Survei dan Pemetaan"
-BRG-0065,"Barang Contoh Ke-65",209,"Pengendalian dan Penanganan Sengketa"
-BRG-0066,"Barang Contoh Ke-66",420,"Penetapan Hak dan Pendaftaran"
-BRG-0067,"Barang Contoh Ke-67",335,"Pengendalian dan Penanganan Sengketa"
-BRG-0068,"Barang Contoh Ke-68",299,"Survei dan Pemetaan"
-BRG-0069,"Barang Contoh Ke-69",367,"Tata Usaha"
-BRG-0070,"Barang Contoh Ke-70",170,"Tata Usaha"
-BRG-0071,"Barang Contoh Ke-71",395,"Pengadaan Tanah dan Pengembangan"
-BRG-0072,"Barang Contoh Ke-72",386,"Tata Usaha"
-BRG-0073,"Barang Contoh Ke-73",462,"Penataan dan Pemberdayaan"
-BRG-0074,"Barang Contoh Ke-74",478,"Tata Usaha"
-BRG-0075,"Barang Contoh Ke-75",353,"Tata Usaha"
-BRG-0076,"Barang Contoh Ke-76",336,"Survei dan Pemetaan"
-BRG-0077,"Barang Contoh Ke-77",133,"Penataan dan Pemberdayaan"
-BRG-0078,"Barang Contoh Ke-78",148,"Pengendalian dan Penanganan Sengketa"
-BRG-0079,"Barang Contoh Ke-79",17,"Pengendalian dan Penanganan Sengketa"
-BRG-0080,"Barang Contoh Ke-80",386,"Penetapan Hak dan Pendaftaran"
-BRG-0081,"Barang Contoh Ke-81",337,"Survei dan Pemetaan"
-BRG-0082,"Barang Contoh Ke-82",60,"Survei dan Pemetaan"
-BRG-0083,"Barang Contoh Ke-83",58,"Pengendalian dan Penanganan Sengketa"
-BRG-0084,"Barang Contoh Ke-84",315,"Penetapan Hak dan Pendaftaran"
-BRG-0085,"Barang Contoh Ke-85",178,"Penataan dan Pemberdayaan"
-BRG-0086,"Barang Contoh Ke-86",188,"Penataan dan Pemberdayaan"
-BRG-0087,"Barang Contoh Ke-87",418,"Penataan dan Pemberdayaan"
-BRG-0088,"Barang Contoh Ke-88",45,"Tata Usaha"
-BRG-0089,"Barang Contoh Ke-89",285,"Tata Usaha"
-BRG-0090,"Barang Contoh Ke-90",377,"Pengadaan Tanah dan Pengembangan"
-BRG-0091,"Barang Contoh Ke-91",217,"Pengendalian dan Penanganan Sengketa"
-BRG-0092,"Barang Contoh Ke-92",377,"Tata Usaha"
-BRG-0093,"Barang Contoh Ke-93",422,"Penataan dan Pemberdayaan"
-BRG-0094,"Barang Contoh Ke-94",250,"Tata Usaha"
-BRG-0095,"Barang Contoh Ke-95",468,"Survei dan Pemetaan"
-BRG-0096,"Barang Contoh Ke-96",353,"Penataan dan Pemberdayaan"
-BRG-0097,"Barang Contoh Ke-97",27,"Survei dan Pemetaan"
-BRG-0098,"Barang Contoh Ke-98",85,"Survei dan Pemetaan"
-BRG-0099,"Barang Contoh Ke-99",252,"Pengadaan Tanah dan Pengembangan"
-BRG-0100,"Barang Contoh Ke-100",302,"Penetapan Hak dan Pendaftaran"
-BRG-0101,"Barang Contoh Ke-101",209,"Tata Usaha"
-BRG-0102,"Barang Contoh Ke-102",480,"Survei dan Pemetaan"
-BRG-0103,"Barang Contoh Ke-103",337,"Survei dan Pemetaan"
-BRG-0104,"Barang Contoh Ke-104",33,"Tata Usaha"
-BRG-0105,"Barang Contoh Ke-105",411,"Penetapan Hak dan Pendaftaran"
-BRG-0106,"Barang Contoh Ke-106",327,"Penetapan Hak dan Pendaftaran"
-BRG-0107,"Barang Contoh Ke-107",426,"Pengadaan Tanah dan Pengembangan"
-BRG-0108,"Barang Contoh Ke-108",400,"Tata Usaha"
-BRG-0109,"Barang Contoh Ke-109",67,"Survei dan Pemetaan"
-BRG-0110,"Barang Contoh Ke-110",99,"Penetapan Hak dan Pendaftaran"
-BRG-0111,"Barang Contoh Ke-111",398,"Tata Usaha"
-BRG-0112,"Barang Contoh Ke-112",93,"Pengendalian dan Penanganan Sengketa"
-BRG-0113,"Barang Contoh Ke-113",391,"Penetapan Hak dan Pendaftaran"
-BRG-0114,"Barang Contoh Ke-114",281,"Pengendalian dan Penanganan Sengketa"
-BRG-0115,"Barang Contoh Ke-115",84,"Penetapan Hak dan Pendaftaran"
-BRG-0116,"Barang Contoh Ke-116",211,"Survei dan Pemetaan"
-BRG-0117,"Barang Contoh Ke-117",199,"Pengendalian dan Penanganan Sengketa"
-BRG-0118,"Barang Contoh Ke-118",252,"Pengadaan Tanah dan Pengembangan"
-BRG-0119,"Barang Contoh Ke-119",280,"Survei dan Pemetaan"
-BRG-0120,"Barang Contoh Ke-120",20,"Tata Usaha"
-BRG-0121,"Barang Contoh Ke-121",16,"Pengadaan Tanah dan Pengembangan"
-BRG-0122,"Barang Contoh Ke-122",170,"Penetapan Hak dan Pendaftaran"
-BRG-0123,"Barang Contoh Ke-123",236,"Pengadaan Tanah dan Pengembangan"
-BRG-0124,"Barang Contoh Ke-124",253,"Penataan dan Pemberdayaan"
-BRG-0125,"Barang Contoh Ke-125",121,"Tata Usaha"
-BRG-0126,"Barang Contoh Ke-126",206,"Survei dan Pemetaan"
-BRG-0127,"Barang Contoh Ke-127",352,"Pengadaan Tanah dan Pengembangan"
-BRG-0128,"Barang Contoh Ke-128",168,"Pengendalian dan Penanganan Sengketa"
-BRG-0129,"Barang Contoh Ke-129",146,"Penetapan Hak dan Pendaftaran"
-BRG-0130,"Barang Contoh Ke-130",58,"Penataan dan Pemberdayaan"
-BRG-0131,"Barang Contoh Ke-131",345,"Survei dan Pemetaan"
-BRG-0132,"Barang Contoh Ke-132",171,"Survei dan Pemetaan"
-BRG-0133,"Barang Contoh Ke-133",21,"Penetapan Hak dan Pendaftaran"
-BRG-0134,"Barang Contoh Ke-134",39,"Tata Usaha"
-BRG-0135,"Barang Contoh Ke-135",184,"Survei dan Pemetaan"
-BRG-0136,"Barang Contoh Ke-136",246,"Pengendalian dan Penanganan Sengketa"
-BRG-0137,"Barang Contoh Ke-137",328,"Survei dan Pemetaan"
-BRG-0138,"Barang Contoh Ke-138",356,"Survei dan Pemetaan"
-BRG-0139,"Barang Contoh Ke-139",113,"Penataan dan Pemberdayaan"
-BRG-0140,"Barang Contoh Ke-140",324,"Penetapan Hak dan Pendaftaran"
-BRG-0141,"Barang Contoh Ke-141",87,"Pengadaan Tanah dan Pengembangan"
-BRG-0142,"Barang Contoh Ke-142",92,"Tata Usaha"
-BRG-0143,"Barang Contoh Ke-143",24,"Pengadaan Tanah dan Pengembangan"
-BRG-0144,"Barang Contoh Ke-144",77,"Pengadaan Tanah dan Pengembangan"
-BRG-0145,"Barang Contoh Ke-145",455,"Tata Usaha"
-BRG-0146,"Barang Contoh Ke-146",241,"Penetapan Hak dan Pendaftaran"
-BRG-0147,"Barang Contoh Ke-147",350,"Survei dan Pemetaan"
-BRG-0148,"Barang Contoh Ke-148",489,"Penetapan Hak dan Pendaftaran"
-BRG-0149,"Barang Contoh Ke-149",239,"Tata Usaha"
-BRG-0150,"Barang Contoh Ke-150",390,"Pengendalian dan Penanganan Sengketa"
-BRG-0151,"Barang Contoh Ke-151",141,"Pengendalian dan Penanganan Sengketa"
-BRG-0152,"Barang Contoh Ke-152",419,"Penataan dan Pemberdayaan"
-BRG-0153,"Barang Contoh Ke-153",115,"Survei dan Pemetaan"
-BRG-0154,"Barang Contoh Ke-154",480,"Penataan dan Pemberdayaan"
-BRG-0155,"Barang Contoh Ke-155",41,"Tata Usaha"
-BRG-0156,"Barang Contoh Ke-156",326,"Survei dan Pemetaan"
-BRG-0157,"Barang Contoh Ke-157",158,"Survei dan Pemetaan"
-BRG-0158,"Barang Contoh Ke-158",349,"Tata Usaha"
-BRG-0159,"Barang Contoh Ke-159",195,"Penetapan Hak dan Pendaftaran"
-BRG-0160,"Barang Contoh Ke-160",23,"Penetapan Hak dan Pendaftaran"
-BRG-0161,"Barang Contoh Ke-161",46,"Penataan dan Pemberdayaan"
-BRG-0162,"Barang Contoh Ke-162",451,"Tata Usaha"
-BRG-0163,"Barang Contoh Ke-163",457,"Penataan dan Pemberdayaan"
-BRG-0164,"Barang Contoh Ke-164",76,"Survei dan Pemetaan"
-BRG-0165,"Barang Contoh Ke-165",310,"Penataan dan Pemberdayaan"
-BRG-0166,"Barang Contoh Ke-166",427,"Tata Usaha"
-BRG-0167,"Barang Contoh Ke-167",354,"Survei dan Pemetaan"
-BRG-0168,"Barang Contoh Ke-168",169,"Pengadaan Tanah dan Pengembangan"
-BRG-0169,"Barang Contoh Ke-169",314,"Tata Usaha"
-BRG-0170,"Barang Contoh Ke-170",210,"Penataan dan Pemberdayaan"
-BRG-0171,"Barang Contoh Ke-171",449,"Penetapan Hak dan Pendaftaran"
-BRG-0172,"Barang Contoh Ke-172",148,"Tata Usaha"
-BRG-0173,"Barang Contoh Ke-173",400,"Penataan dan Pemberdayaan"
-BRG-0174,"Barang Contoh Ke-174",29,"Pengendalian dan Penanganan Sengketa"
-BRG-0175,"Barang Contoh Ke-175",497,"Tata Usaha"
-BRG-0176,"Barang Contoh Ke-176",454,"Penataan dan Pemberdayaan"
-BRG-0177,"Barang Contoh Ke-177",19,"Tata Usaha"
-BRG-0178,"Barang Contoh Ke-178",232,"Tata Usaha"
-BRG-0179,"Barang Contoh Ke-179",268,"Penataan dan Pemberdayaan"
-BRG-0180,"Barang Contoh Ke-180",42,"Penetapan Hak dan Pendaftaran"
-BRG-0181,"Barang Contoh Ke-181",57,"Penataan dan Pemberdayaan"
-BRG-0182,"Barang Contoh Ke-182",452,"Tata Usaha"
-BRG-0183,"Barang Contoh Ke-183",46,"Pengadaan Tanah dan Pengembangan"
-BRG-0184,"Barang Contoh Ke-184",141,"Survei dan Pemetaan"
-BRG-0185,"Barang Contoh Ke-185",150,"Pengendalian dan Penanganan Sengketa"
-BRG-0186,"Barang Contoh Ke-186",485,"Pengendalian dan Penanganan Sengketa"
-BRG-0187,"Barang Contoh Ke-187",345,"Pengendalian dan Penanganan Sengketa"
-BRG-0188,"Barang Contoh Ke-188",325,"Penetapan Hak dan Pendaftaran"
-BRG-0189,"Barang Contoh Ke-189",460,"Tata Usaha"
-BRG-0190,"Barang Contoh Ke-190",141,"Penataan dan Pemberdayaan"
-BRG-0191,"Barang Contoh Ke-191",133,"Penetapan Hak dan Pendaftaran"
-BRG-0192,"Barang Contoh Ke-192",330,"Penetapan Hak dan Pendaftaran"
-BRG-0193,"Barang Contoh Ke-193",484,"Pengendalian dan Penanganan Sengketa"
-BRG-0194,"Barang Contoh Ke-194",259,"Tata Usaha"
-BRG-0195,"Barang Contoh Ke-195",117,"Survei dan Pemetaan"
-BRG-0196,"Barang Contoh Ke-196",247,"Penetapan Hak dan Pendaftaran"
-BRG-0197,"Barang Contoh Ke-197",145,"Survei dan Pemetaan"
-BRG-0198,"Barang Contoh Ke-198",24,"Penataan dan Pemberdayaan"
-BRG-0199,"Barang Contoh Ke-199",177,"Survei dan Pemetaan"
-BRG-0200,"Barang Contoh Ke-200",134,"Tata Usaha"
-BRG-0201,"Barang Contoh Ke-201",183,"Pengadaan Tanah dan Pengembangan"
-BRG-0202,"Barang Contoh Ke-202",207,"Pengadaan Tanah dan Pengembangan"
-BRG-0203,"Barang Contoh Ke-203",165,"Pengadaan Tanah dan Pengembangan"
-BRG-0204,"Barang Contoh Ke-204",16,"Survei dan Pemetaan"
-BRG-0205,"Barang Contoh Ke-205",11,"Penataan dan Pemberdayaan"
-BRG-0206,"Barang Contoh Ke-206",55,"Pengendalian dan Penanganan Sengketa"
-BRG-0207,"Barang Contoh Ke-207",484,"Pengadaan Tanah dan Pengembangan"
-BRG-0208,"Barang Contoh Ke-208",30,"Pengendalian dan Penanganan Sengketa"
-BRG-0209,"Barang Contoh Ke-209",226,"Penetapan Hak dan Pendaftaran"
-BRG-0210,"Barang Contoh Ke-210",179,"Penetapan Hak dan Pendaftaran"
-BRG-0211,"Barang Contoh Ke-211",261,"Penetapan Hak dan Pendaftaran"
-BRG-0212,"Barang Contoh Ke-212",38,"Penataan dan Pemberdayaan"
-BRG-0213,"Barang Contoh Ke-213",251,"Pengadaan Tanah dan Pengembangan"
-BRG-0214,"Barang Contoh Ke-214",234,"Pengendalian dan Penanganan Sengketa"
-BRG-0215,"Barang Contoh Ke-215",248,"Penataan dan Pemberdayaan"
-BRG-0216,"Barang Contoh Ke-216",476,"Survei dan Pemetaan"
-BRG-0217,"Barang Contoh Ke-217",248,"Pengendalian dan Penanganan Sengketa"
-BRG-0218,"Barang Contoh Ke-218",276,"Pengadaan Tanah dan Pengembangan"
-BRG-0219,"Barang Contoh Ke-219",360,"Pengadaan Tanah dan Pengembangan"
-BRG-0220,"Barang Contoh Ke-220",166,"Pengendalian dan Penanganan Sengketa"
-BRG-0221,"Barang Contoh Ke-221",269,"Penataan dan Pemberdayaan"
-BRG-0222,"Barang Contoh Ke-222",387,"Survei dan Pemetaan"
-BRG-0223,"Barang Contoh Ke-223",358,"Survei dan Pemetaan"
-BRG-0224,"Barang Contoh Ke-224",27,"Pengadaan Tanah dan Pengembangan"
-BRG-0225,"Barang Contoh Ke-225",403,"Penataan dan Pemberdayaan"
-BRG-0226,"Barang Contoh Ke-226",183,"Pengendalian dan Penanganan Sengketa"
-BRG-0227,"Barang Contoh Ke-227",445,"Penetapan Hak dan Pendaftaran"
-BRG-0228,"Barang Contoh Ke-228",436,"Penetapan Hak dan Pendaftaran"
-BRG-0229,"Barang Contoh Ke-229",329,"Penataan dan Pemberdayaan"
-BRG-0230,"Barang Contoh Ke-230",163,"Penataan dan Pemberdayaan"
-BRG-0231,"Barang Contoh Ke-231",79,"Pengadaan Tanah dan Pengembangan"
-BRG-0232,"Barang Contoh Ke-232",105,"Tata Usaha"
-BRG-0233,"Barang Contoh Ke-233",290,"Tata Usaha"
-BRG-0234,"Barang Contoh Ke-234",251,"Penataan dan Pemberdayaan"
-BRG-0235,"Barang Contoh Ke-235",321,"Tata Usaha"
-BRG-0236,"Barang Contoh Ke-236",202,"Pengendalian dan Penanganan Sengketa"
-BRG-0237,"Barang Contoh Ke-237",481,"Pengadaan Tanah dan Pengembangan"
-BRG-0238,"Barang Contoh Ke-238",36,"Survei dan Pemetaan"
-BRG-0239,"Barang Contoh Ke-239",26,"Survei dan Pemetaan"
-BRG-0240,"Barang Contoh Ke-240",402,"Pengendalian dan Penanganan Sengketa"
-BRG-0241,"Barang Contoh Ke-241",176,"Penataan dan Pemberdayaan"
-BRG-0242,"Barang Contoh Ke-242",103,"Survei dan Pemetaan"
-BRG-0243,"Barang Contoh Ke-243",289,"Tata Usaha"
-BRG-0244,"Barang Contoh Ke-244",418,"Penataan dan Pemberdayaan"
-BRG-0245,"Barang Contoh Ke-245",129,"Pengadaan Tanah dan Pengembangan"
-BRG-0246,"Barang Contoh Ke-246",347,"Tata Usaha"
-BRG-0247,"Barang Contoh Ke-247",232,"Pengadaan Tanah dan Pengembangan"
-BRG-0248,"Barang Contoh Ke-248",216,"Penataan dan Pemberdayaan"
-BRG-0249,"Barang Contoh Ke-249",306,"Penetapan Hak dan Pendaftaran"
-BRG-0250,"Barang Contoh Ke-250",389,"Pengadaan Tanah dan Pengembangan"
-BRG-0251,"Barang Contoh Ke-251",472,"Penataan dan Pemberdayaan"
-BRG-0252,"Barang Contoh Ke-252",476,"Pengadaan Tanah dan Pengembangan"
-BRG-0253,"Barang Contoh Ke-253",122,"Survei dan Pemetaan"
-BRG-0254,"Barang Contoh Ke-254",293,"Pengendalian dan Penanganan Sengketa"
-BRG-0255,"Barang Contoh Ke-255",214,"Penataan dan Pemberdayaan"
-BRG-0256,"Barang Contoh Ke-256",135,"Penataan dan Pemberdayaan"
-BRG-0257,"Barang Contoh Ke-257",471,"Penataan dan Pemberdayaan"
-BRG-0258,"Barang Contoh Ke-258",370,"Penataan dan Pemberdayaan"
-BRG-0259,"Barang Contoh Ke-259",469,"Survei dan Pemetaan"
-BRG-0260,"Barang Contoh Ke-260",342,"Pengendalian dan Penanganan Sengketa"
-BRG-0261,"Barang Contoh Ke-261",331,"Survei dan Pemetaan"
-BRG-0262,"Barang Contoh Ke-262",90,"Penataan dan Pemberdayaan"
-BRG-0263,"Barang Contoh Ke-263",384,"Penetapan Hak dan Pendaftaran"
-BRG-0264,"Barang Contoh Ke-264",52,"Pengendalian dan Penanganan Sengketa"
-BRG-0265,"Barang Contoh Ke-265",418,"Survei dan Pemetaan"
-BRG-0266,"Barang Contoh Ke-266",189,"Pengadaan Tanah dan Pengembangan"
-BRG-0267,"Barang Contoh Ke-267",273,"Penataan dan Pemberdayaan"
-BRG-0268,"Barang Contoh Ke-268",455,"Penetapan Hak dan Pendaftaran"
-BRG-0269,"Barang Contoh Ke-269",215,"Tata Usaha"
-BRG-0270,"Barang Contoh Ke-270",375,"Survei dan Pemetaan"
-BRG-0271,"Barang Contoh Ke-271",363,"Penataan dan Pemberdayaan"
-BRG-0272,"Barang Contoh Ke-272",53,"Pengendalian dan Penanganan Sengketa"
-BRG-0273,"Barang Contoh Ke-273",447,"Survei dan Pemetaan"
-BRG-0274,"Barang Contoh Ke-274",75,"Tata Usaha"
-BRG-0275,"Barang Contoh Ke-275",40,"Pengadaan Tanah dan Pengembangan"
-BRG-0276,"Barang Contoh Ke-276",221,"Pengendalian dan Penanganan Sengketa"
-BRG-0277,"Barang Contoh Ke-277",242,"Pengadaan Tanah dan Pengembangan"
-BRG-0278,"Barang Contoh Ke-278",369,"Survei dan Pemetaan"
-BRG-0279,"Barang Contoh Ke-279",169,"Pengendalian dan Penanganan Sengketa"
-BRG-0280,"Barang Contoh Ke-280",63,"Pengendalian dan Penanganan Sengketa"
-BRG-0281,"Barang Contoh Ke-281",316,"Penataan dan Pemberdayaan"
-BRG-0282,"Barang Contoh Ke-282",192,"Tata Usaha"
-BRG-0283,"Barang Contoh Ke-283",20,"Survei dan Pemetaan"
-BRG-0284,"Barang Contoh Ke-284",458,"Pengendalian dan Penanganan Sengketa"
-BRG-0285,"Barang Contoh Ke-285",376,"Pengadaan Tanah dan Pengembangan"
-BRG-0286,"Barang Contoh Ke-286",379,"Pengendalian dan Penanganan Sengketa"
-BRG-0287,"Barang Contoh Ke-287",212,"Tata Usaha"
-BRG-0288,"Barang Contoh Ke-288",455,"Penataan dan Pemberdayaan"
-BRG-0289,"Barang Contoh Ke-289",180,"Penetapan Hak dan Pendaftaran"
-BRG-0290,"Barang Contoh Ke-290",373,"Penataan dan Pemberdayaan"
-BRG-0291,"Barang Contoh Ke-291",224,"Penataan dan Pemberdayaan"
-BRG-0292,"Barang Contoh Ke-292",465,"Tata Usaha"
-BRG-0293,"Barang Contoh Ke-293",225,"Tata Usaha"
-BRG-0294,"Barang Contoh Ke-294",15,"Penataan dan Pemberdayaan"
-BRG-0295,"Barang Contoh Ke-295",496,"Penetapan Hak dan Pendaftaran"
-BRG-0296,"Barang Contoh Ke-296",307,"Pengendalian dan Penanganan Sengketa"
-BRG-0297,"Barang Contoh Ke-297",414,"Pengadaan Tanah dan Pengembangan"
-BRG-0298,"Barang Contoh Ke-298",492,"Pengadaan Tanah dan Pengembangan"
-BRG-0299,"Barang Contoh Ke-299",292,"Penataan dan Pemberdayaan"
-BRG-0300,"Barang Contoh Ke-300",282,"Pengadaan Tanah dan Pengembangan"
-BRG-0301,"Barang Contoh Ke-301",428,"Survei dan Pemetaan"
-BRG-0302,"Barang Contoh Ke-302",105,"Penetapan Hak dan Pendaftaran"
-BRG-0303,"Barang Contoh Ke-303",123,"Pengadaan Tanah dan Pengembangan"
-BRG-0304,"Barang Contoh Ke-304",491,"Pengendalian dan Penanganan Sengketa"
-BRG-0305,"Barang Contoh Ke-305",236,"Pengadaan Tanah dan Pengembangan"
-BRG-0306,"Barang Contoh Ke-306",158,"Pengadaan Tanah dan Pengembangan"
-BRG-0307,"Barang Contoh Ke-307",292,"Survei dan Pemetaan"
-BRG-0308,"Barang Contoh Ke-308",27,"Penataan dan Pemberdayaan"
-BRG-0309,"Barang Contoh Ke-309",205,"Pengadaan Tanah dan Pengembangan"
-BRG-0310,"Barang Contoh Ke-310",326,"Penetapan Hak dan Pendaftaran"
-BRG-0311,"Barang Contoh Ke-311",158,"Pengadaan Tanah dan Pengembangan"
-BRG-0312,"Barang Contoh Ke-312",57,"Penataan dan Pemberdayaan"
-BRG-0313,"Barang Contoh Ke-313",495,"Survei dan Pemetaan"
-BRG-0314,"Barang Contoh Ke-314",397,"Survei dan Pemetaan"
-BRG-0315,"Barang Contoh Ke-315",412,"Tata Usaha"
-BRG-0316,"Barang Contoh Ke-316",129,"Penetapan Hak dan Pendaftaran"
-BRG-0317,"Barang Contoh Ke-317",50,"Survei dan Pemetaan"
-BRG-0318,"Barang Contoh Ke-318",60,"Tata Usaha"
-BRG-0319,"Barang Contoh Ke-319",37,"Penataan dan Pemberdayaan"
-BRG-0320,"Barang Contoh Ke-320",239,"Penetapan Hak dan Pendaftaran"
-BRG-0321,"Barang Contoh Ke-321",61,"Tata Usaha"
-BRG-0322,"Barang Contoh Ke-322",347,"Penataan dan Pemberdayaan"
-BRG-0323,"Barang Contoh Ke-323",94,"Penataan dan Pemberdayaan"
-BRG-0324,"Barang Contoh Ke-324",249,"Tata Usaha"
-BRG-0325,"Barang Contoh Ke-325",280,"Pengadaan Tanah dan Pengembangan"
-BRG-0326,"Barang Contoh Ke-326",302,"Pengadaan Tanah dan Pengembangan"
-BRG-0327,"Barang Contoh Ke-327",259,"Survei dan Pemetaan"
-BRG-0328,"Barang Contoh Ke-328",427,"Survei dan Pemetaan"
-BRG-0329,"Barang Contoh Ke-329",107,"Pengendalian dan Penanganan Sengketa"
-BRG-0330,"Barang Contoh Ke-330",496,"Pengadaan Tanah dan Pengembangan"
-BRG-0331,"Barang Contoh Ke-331",470,"Penetapan Hak dan Pendaftaran"
-BRG-0332,"Barang Contoh Ke-332",244,"Penetapan Hak dan Pendaftaran"
-BRG-0333,"Barang Contoh Ke-333",260,"Pengendalian dan Penanganan Sengketa"
-BRG-0334,"Barang Contoh Ke-334",411,"Penataan dan Pemberdayaan"
-BRG-0335,"Barang Contoh Ke-335",436,"Pengadaan Tanah dan Pengembangan"
-BRG-0336,"Barang Contoh Ke-336",77,"Pengendalian dan Penanganan Sengketa"
-BRG-0337,"Barang Contoh Ke-337",388,"Pengadaan Tanah dan Pengembangan"
-BRG-0338,"Barang Contoh Ke-338",167,"Survei dan Pemetaan"
-BRG-0339,"Barang Contoh Ke-339",363,"Pengadaan Tanah dan Pengembangan"
-BRG-0340,"Barang Contoh Ke-340",385,"Pengendalian dan Penanganan Sengketa"
-BRG-0341,"Barang Contoh Ke-341",90,"Penetapan Hak dan Pendaftaran"
-BRG-0342,"Barang Contoh Ke-342",21,"Penataan dan Pemberdayaan"
-BRG-0343,"Barang Contoh Ke-343",389,"Penataan dan Pemberdayaan"
-BRG-0344,"Barang Contoh Ke-344",389,"Penetapan Hak dan Pendaftaran"
-BRG-0345,"Barang Contoh Ke-345",214,"Penetapan Hak dan Pendaftaran"
-BRG-0346,"Barang Contoh Ke-346",258,"Pengadaan Tanah dan Pengembangan"
-BRG-0347,"Barang Contoh Ke-347",191,"Survei dan Pemetaan"
-BRG-0348,"Barang Contoh Ke-348",368,"Penataan dan Pemberdayaan"
-BRG-0349,"Barang Contoh Ke-349",438,"Penetapan Hak dan Pendaftaran"
-BRG-0350,"Barang Contoh Ke-350",114,"Tata Usaha"
-BRG-0351,"Barang Contoh Ke-351",21,"Survei dan Pemetaan"
-BRG-0352,"Barang Contoh Ke-352",38,"Penataan dan Pemberdayaan"
-BRG-0353,"Barang Contoh Ke-353",100,"Pengendalian dan Penanganan Sengketa"
-BRG-0354,"Barang Contoh Ke-354",464,"Pengadaan Tanah dan Pengembangan"
-BRG-0355,"Barang Contoh Ke-355",450,"Pengadaan Tanah dan Pengembangan"
-BRG-0356,"Barang Contoh Ke-356",343,"Penetapan Hak dan Pendaftaran"
-BRG-0357,"Barang Contoh Ke-357",284,"Penataan dan Pemberdayaan"
-BRG-0358,"Barang Contoh Ke-358",192,"Pengadaan Tanah dan Pengembangan"
-BRG-0359,"Barang Contoh Ke-359",471,"Pengendalian dan Penanganan Sengketa"
-BRG-0360,"Barang Contoh Ke-360",352,"Pengadaan Tanah dan Pengembangan"
-BRG-0361,"Barang Contoh Ke-361",316,"Penetapan Hak dan Pendaftaran"
-BRG-0362,"Barang Contoh Ke-362",444,"Tata Usaha"
-BRG-0363,"Barang Contoh Ke-363",100,"Survei dan Pemetaan"
-BRG-0364,"Barang Contoh Ke-364",365,"Penataan dan Pemberdayaan"
-BRG-0365,"Barang Contoh Ke-365",419,"Survei dan Pemetaan"
-BRG-0366,"Barang Contoh Ke-366",343,"Tata Usaha"
-BRG-0367,"Barang Contoh Ke-367",341,"Penataan dan Pemberdayaan"
-BRG-0368,"Barang Contoh Ke-368",221,"Survei dan Pemetaan"
-BRG-0369,"Barang Contoh Ke-369",158,"Pengadaan Tanah dan Pengembangan"
-BRG-0370,"Barang Contoh Ke-370",194,"Pengendalian dan Penanganan Sengketa"
-BRG-0371,"Barang Contoh Ke-371",166,"Penetapan Hak dan Pendaftaran"
-BRG-0372,"Barang Contoh Ke-372",144,"Survei dan Pemetaan"
-BRG-0373,"Barang Contoh Ke-373",300,"Penataan dan Pemberdayaan"
-BRG-0374,"Barang Contoh Ke-374",316,"Survei dan Pemetaan"
-BRG-0375,"Barang Contoh Ke-375",386,"Pengadaan Tanah dan Pengembangan"
-BRG-0376,"Barang Contoh Ke-376",431,"Survei dan Pemetaan"
-BRG-0377,"Barang Contoh Ke-377",139,"Penetapan Hak dan Pendaftaran"
-BRG-0378,"Barang Contoh Ke-378",18,"Pengendalian dan Penanganan Sengketa"
-BRG-0379,"Barang Contoh Ke-379",216,"Penetapan Hak dan Pendaftaran"
-BRG-0380,"Barang Contoh Ke-380",436,"Pengadaan Tanah dan Pengembangan"
-BRG-0381,"Barang Contoh Ke-381",332,"Survei dan Pemetaan"
-BRG-0382,"Barang Contoh Ke-382",14,"Pengendalian dan Penanganan Sengketa"
-BRG-0383,"Barang Contoh Ke-383",161,"Pengadaan Tanah dan Pengembangan"
-BRG-0384,"Barang Contoh Ke-384",324,"Pengendalian dan Penanganan Sengketa"
-BRG-0385,"Barang Contoh Ke-385",328,"Penataan dan Pemberdayaan"
-BRG-0386,"Barang Contoh Ke-386",182,"Pengendalian dan Penanganan Sengketa"
-BRG-0387,"Barang Contoh Ke-387",59,"Survei dan Pemetaan"
-BRG-0388,"Barang Contoh Ke-388",111,"Pengadaan Tanah dan Pengembangan"
-BRG-0389,"Barang Contoh Ke-389",76,"Pengendalian dan Penanganan Sengketa"
-BRG-0390,"Barang Contoh Ke-390",228,"Penataan dan Pemberdayaan"
-BRG-0391,"Barang Contoh Ke-391",424,"Survei dan Pemetaan"
-BRG-0392,"Barang Contoh Ke-392",484,"Tata Usaha"
-BRG-0393,"Barang Contoh Ke-393",148,"Tata Usaha"
-BRG-0394,"Barang Contoh Ke-394",371,"Survei dan Pemetaan"
-BRG-0395,"Barang Contoh Ke-395",368,"Survei dan Pemetaan"
-BRG-0396,"Barang Contoh Ke-396",333,"Pengendalian dan Penanganan Sengketa"
-BRG-0397,"Barang Contoh Ke-397",27,"Penetapan Hak dan Pendaftaran"
-BRG-0398,"Barang Contoh Ke-398",43,"Penataan dan Pemberdayaan"
-BRG-0399,"Barang Contoh Ke-399",288,"Penetapan Hak dan Pendaftaran"
-BRG-0400,"Barang Contoh Ke-400",290,"Pengadaan Tanah dan Pengembangan"
-BRG-0401,"Barang Contoh Ke-401",77,"Penetapan Hak dan Pendaftaran"
-BRG-0402,"Barang Contoh Ke-402",267,"Penetapan Hak dan Pendaftaran"
-BRG-0403,"Barang Contoh Ke-403",441,"Penataan dan Pemberdayaan"
-BRG-0404,"Barang Contoh Ke-404",268,"Survei dan Pemetaan"
-BRG-0405,"Barang Contoh Ke-405",464,"Pengadaan Tanah dan Pengembangan"
-BRG-0406,"Barang Contoh Ke-406",137,"Pengendalian dan Penanganan Sengketa"
-BRG-0407,"Barang Contoh Ke-407",485,"Survei dan Pemetaan"
-BRG-0408,"Barang Contoh Ke-408",102,"Pengadaan Tanah dan Pengembangan"
-BRG-0409,"Barang Contoh Ke-409",278,"Penetapan Hak dan Pendaftaran"
-BRG-0410,"Barang Contoh Ke-410",219,"Pengadaan Tanah dan Pengembangan"
-BRG-0411,"Barang Contoh Ke-411",268,"Penataan dan Pemberdayaan"
-BRG-0412,"Barang Contoh Ke-412",169,"Pengendalian dan Penanganan Sengketa"
-BRG-0413,"Barang Contoh Ke-413",363,"Penetapan Hak dan Pendaftaran"
-BRG-0414,"Barang Contoh Ke-414",294,"Survei dan Pemetaan"
-BRG-0415,"Barang Contoh Ke-415",99,"Pengendalian dan Penanganan Sengketa"
-BRG-0416,"Barang Contoh Ke-416",490,"Survei dan Pemetaan"
-BRG-0417,"Barang Contoh Ke-417",406,"Penataan dan Pemberdayaan"
-BRG-0418,"Barang Contoh Ke-418",471,"Penataan dan Pemberdayaan"
-BRG-0419,"Barang Contoh Ke-419",485,"Tata Usaha"
-BRG-0420,"Barang Contoh Ke-420",87,"Survei dan Pemetaan"
-BRG-0421,"Barang Contoh Ke-421",407,"Tata Usaha"
-BRG-0422,"Barang Contoh Ke-422",205,"Pengadaan Tanah dan Pengembangan"
-BRG-0423,"Barang Contoh Ke-423",483,"Pengendalian dan Penanganan Sengketa"
-BRG-0424,"Barang Contoh Ke-424",362,"Tata Usaha"
-BRG-0425,"Barang Contoh Ke-425",64,"Penataan dan Pemberdayaan"
-BRG-0426,"Barang Contoh Ke-426",354,"Survei dan Pemetaan"
-BRG-0427,"Barang Contoh Ke-427",429,"Penataan dan Pemberdayaan"
-BRG-0428,"Barang Contoh Ke-428",418,"Tata Usaha"
-BRG-0429,"Barang Contoh Ke-429",46,"Pengendalian dan Penanganan Sengketa"
-BRG-0430,"Barang Contoh Ke-430",479,"Survei dan Pemetaan"
-BRG-0431,"Barang Contoh Ke-431",24,"Tata Usaha"
-BRG-0432,"Barang Contoh Ke-432",46,"Survei dan Pemetaan"
-BRG-0433,"Barang Contoh Ke-433",464,"Pengadaan Tanah dan Pengembangan"
-BRG-0434,"Barang Contoh Ke-434",122,"Penetapan Hak dan Pendaftaran"
-BRG-0435,"Barang Contoh Ke-435",20,"Penataan dan Pemberdayaan"
-BRG-0436,"Barang Contoh Ke-436",79,"Penetapan Hak dan Pendaftaran"
-BRG-0437,"Barang Contoh Ke-437",291,"Tata Usaha"
-BRG-0438,"Barang Contoh Ke-438",304,"Pengendalian dan Penanganan Sengketa"
-BRG-0439,"Barang Contoh Ke-439",17,"Penataan dan Pemberdayaan"
-BRG-0440,"Barang Contoh Ke-440",301,"Pengendalian dan Penanganan Sengketa"
-BRG-0441,"Barang Contoh Ke-441",123,"Pengendalian dan Penanganan Sengketa"
-BRG-0442,"Barang Contoh Ke-442",335,"Pengadaan Tanah dan Pengembangan"
-BRG-0443,"Barang Contoh Ke-443",323,"Survei dan Pemetaan"
-BRG-0444,"Barang Contoh Ke-444",216,"Survei dan Pemetaan"
-BRG-0445,"Barang Contoh Ke-445",206,"Survei dan Pemetaan"
-BRG-0446,"Barang Contoh Ke-446",207,"Survei dan Pemetaan"
-BRG-0447,"Barang Contoh Ke-447",84,"Penetapan Hak dan Pendaftaran"
-BRG-0448,"Barang Contoh Ke-448",305,"Pengadaan Tanah dan Pengembangan"
-BRG-0449,"Barang Contoh Ke-449",458,"Tata Usaha"
-BRG-0450,"Barang Contoh Ke-450",174,"Pengendalian dan Penanganan Sengketa"
-BRG-0451,"Barang Contoh Ke-451",136,"Tata Usaha"
-BRG-0452,"Barang Contoh Ke-452",130,"Tata Usaha"
-BRG-0453,"Barang Contoh Ke-453",95,"Pengadaan Tanah dan Pengembangan"
-BRG-0454,"Barang Contoh Ke-454",70,"Penetapan Hak dan Pendaftaran"
-BRG-0455,"Barang Contoh Ke-455",20,"Penataan dan Pemberdayaan"
-BRG-0456,"Barang Contoh Ke-456",147,"Pengendalian dan Penanganan Sengketa"
-BRG-0457,"Barang Contoh Ke-457",81,"Penetapan Hak dan Pendaftaran"
-BRG-0458,"Barang Contoh Ke-458",477,"Pengendalian dan Penanganan Sengketa"
-BRG-0459,"Barang Contoh Ke-459",167,"Tata Usaha"
-BRG-0460,"Barang Contoh Ke-460",310,"Penataan dan Pemberdayaan"
-BRG-0461,"Barang Contoh Ke-461",80,"Survei dan Pemetaan"
-BRG-0462,"Barang Contoh Ke-462",68,"Penataan dan Pemberdayaan"
-BRG-0463,"Barang Contoh Ke-463",238,"Penataan dan Pemberdayaan"
-BRG-0464,"Barang Contoh Ke-464",28,"Pengendalian dan Penanganan Sengketa"
-BRG-0465,"Barang Contoh Ke-465",275,"Survei dan Pemetaan"
-BRG-0466,"Barang Contoh Ke-466",458,"Penataan dan Pemberdayaan"
-BRG-0467,"Barang Contoh Ke-467",13,"Pengadaan Tanah dan Pengembangan"
-BRG-0468,"Barang Contoh Ke-468",341,"Penetapan Hak dan Pendaftaran"
-BRG-0469,"Barang Contoh Ke-469",187,"Penetapan Hak dan Pendaftaran"
-BRG-0470,"Barang Contoh Ke-470",41,"Penataan dan Pemberdayaan"
-BRG-0471,"Barang Contoh Ke-471",111,"Survei dan Pemetaan"
-BRG-0472,"Barang Contoh Ke-472",379,"Tata Usaha"
-BRG-0473,"Barang Contoh Ke-473",206,"Survei dan Pemetaan"
-BRG-0474,"Barang Contoh Ke-474",260,"Survei dan Pemetaan"
-BRG-0475,"Barang Contoh Ke-475",216,"Penataan dan Pemberdayaan"
-BRG-0476,"Barang Contoh Ke-476",188,"Penetapan Hak dan Pendaftaran"
-BRG-0477,"Barang Contoh Ke-477",214,"Tata Usaha"
-BRG-0478,"Barang Contoh Ke-478",484,"Penataan dan Pemberdayaan"
-BRG-0479,"Barang Contoh Ke-479",347,"Penetapan Hak dan Pendaftaran"
-BRG-0480,"Barang Contoh Ke-480",498,"Pengadaan Tanah dan Pengembangan"
-BRG-0481,"Barang Contoh Ke-481",281,"Tata Usaha"
-BRG-0482,"Barang Contoh Ke-482",212,"Survei dan Pemetaan"
-BRG-0483,"Barang Contoh Ke-483",428,"Penataan dan Pemberdayaan"
-BRG-0484,"Barang Contoh Ke-484",60,"Pengendalian dan Penanganan Sengketa"
-BRG-0485,"Barang Contoh Ke-485",104,"Pengadaan Tanah dan Pengembangan"
-BRG-0486,"Barang Contoh Ke-486",119,"Tata Usaha"
-BRG-0487,"Barang Contoh Ke-487",440,"Penataan dan Pemberdayaan"
-BRG-0488,"Barang Contoh Ke-488",371,"Tata Usaha"
-BRG-0489,"Barang Contoh Ke-489",466,"Pengadaan Tanah dan Pengembangan"
-BRG-0490,"Barang Contoh Ke-490",298,"Penetapan Hak dan Pendaftaran"
-BRG-0491,"Barang Contoh Ke-491",11,"Pengadaan Tanah dan Pengembangan"
-BRG-0492,"Barang Contoh Ke-492",208,"Pengadaan Tanah dan Pengembangan"
-BRG-0493,"Barang Contoh Ke-493",454,"Penataan dan Pemberdayaan"
-BRG-0494,"Barang Contoh Ke-494",171,"Penataan dan Pemberdayaan"
-BRG-0495,"Barang Contoh Ke-495",270,"Survei dan Pemetaan"
-BRG-0496,"Barang Contoh Ke-496",330,"Pengadaan Tanah dan Pengembangan"
-BRG-0497,"Barang Contoh Ke-497",295,"Pengadaan Tanah dan Pengembangan"
-BRG-0498,"Barang Contoh Ke-498",140,"Pengendalian dan Penanganan Sengketa"
-BRG-0499,"Barang Contoh Ke-499",291,"Tata Usaha"
-BRG-0500,"Barang Contoh Ke-500",325,"Penataan dan Pemberdayaan"
-BRG-0501,"Barang Contoh Ke-501",218,"Tata Usaha"
-BRG-0502,"Barang Contoh Ke-502",97,"Pengadaan Tanah dan Pengembangan"
-BRG-0503,"Barang Contoh Ke-503",328,"Penetapan Hak dan Pendaftaran"
-BRG-0504,"Barang Contoh Ke-504",351,"Penetapan Hak dan Pendaftaran"
-BRG-0505,"Barang Contoh Ke-505",50,"Penetapan Hak dan Pendaftaran"
-BRG-0506,"Barang Contoh Ke-506",49,"Penetapan Hak dan Pendaftaran"
-BRG-0507,"Barang Contoh Ke-507",472,"Penetapan Hak dan Pendaftaran"
-BRG-0508,"Barang Contoh Ke-508",24,"Penetapan Hak dan Pendaftaran"
-BRG-0509,"Barang Contoh Ke-509",183,"Pengadaan Tanah dan Pengembangan"
-BRG-0510,"Barang Contoh Ke-510",183,"Tata Usaha"
-BRG-0511,"Barang Contoh Ke-511",128,"Survei dan Pemetaan"
-BRG-0512,"Barang Contoh Ke-512",165,"Survei dan Pemetaan"
-BRG-0513,"Barang Contoh Ke-513",73,"Survei dan Pemetaan"
-BRG-0514,"Barang Contoh Ke-514",379,"Survei dan Pemetaan"
-BRG-0515,"Barang Contoh Ke-515",469,"Penetapan Hak dan Pendaftaran"
-BRG-0516,"Barang Contoh Ke-516",29,"Pengendalian dan Penanganan Sengketa"
-BRG-0517,"Barang Contoh Ke-517",436,"Tata Usaha"
-BRG-0518,"Barang Contoh Ke-518",138,"Survei dan Pemetaan"
-BRG-0519,"Barang Contoh Ke-519",33,"Pengendalian dan Penanganan Sengketa"
-BRG-0520,"Barang Contoh Ke-520",114,"Pengadaan Tanah dan Pengembangan"
-BRG-0521,"Barang Contoh Ke-521",291,"Pengendalian dan Penanganan Sengketa"
-BRG-0522,"Barang Contoh Ke-522",499,"Penetapan Hak dan Pendaftaran"
-BRG-0523,"Barang Contoh Ke-523",40,"Pengendalian dan Penanganan Sengketa"
-BRG-0524,"Barang Contoh Ke-524",45,"Tata Usaha"
-BRG-0525,"Barang Contoh Ke-525",43,"Penetapan Hak dan Pendaftaran"
-BRG-0526,"Barang Contoh Ke-526",490,"Tata Usaha"
-BRG-0527,"Barang Contoh Ke-527",141,"Pengadaan Tanah dan Pengembangan"
-BRG-0528,"Barang Contoh Ke-528",84,"Pengadaan Tanah dan Pengembangan"
-BRG-0529,"Barang Contoh Ke-529",259,"Pengendalian dan Penanganan Sengketa"
-BRG-0530,"Barang Contoh Ke-530",250,"Tata Usaha"
-BRG-0531,"Barang Contoh Ke-531",117,"Penetapan Hak dan Pendaftaran"
-BRG-0532,"Barang Contoh Ke-532",85,"Pengadaan Tanah dan Pengembangan"
-BRG-0533,"Barang Contoh Ke-533",250,"Penetapan Hak dan Pendaftaran"
-BRG-0534,"Barang Contoh Ke-534",50,"Tata Usaha"
-BRG-0535,"Barang Contoh Ke-535",22,"Penataan dan Pemberdayaan"
-BRG-0536,"Barang Contoh Ke-536",398,"Pengendalian dan Penanganan Sengketa"
-BRG-0537,"Barang Contoh Ke-537",38,"Tata Usaha"
-BRG-0538,"Barang Contoh Ke-538",183,"Penetapan Hak dan Pendaftaran"
-BRG-0539,"Barang Contoh Ke-539",136,"Tata Usaha"
-BRG-0540,"Barang Contoh Ke-540",213,"Tata Usaha"
-BRG-0541,"Barang Contoh Ke-541",337,"Tata Usaha"
-BRG-0542,"Barang Contoh Ke-542",478,"Pengadaan Tanah dan Pengembangan"
-BRG-0543,"Barang Contoh Ke-543",435,"Pengadaan Tanah dan Pengembangan"
-BRG-0544,"Barang Contoh Ke-544",172,"Pengendalian dan Penanganan Sengketa"
-BRG-0545,"Barang Contoh Ke-545",231,"Penataan dan Pemberdayaan"
-BRG-0546,"Barang Contoh Ke-546",58,"Penetapan Hak dan Pendaftaran"
-BRG-0547,"Barang Contoh Ke-547",10,"Pengadaan Tanah dan Pengembangan"
-BRG-0548,"Barang Contoh Ke-548",14,"Penetapan Hak dan Pendaftaran"
-BRG-0549,"Barang Contoh Ke-549",317,"Pengadaan Tanah dan Pengembangan"
-BRG-0550,"Barang Contoh Ke-550",303,"Survei dan Pemetaan"
-BRG-0551,"Barang Contoh Ke-551",164,"Tata Usaha"
-BRG-0552,"Barang Contoh Ke-552",152,"Survei dan Pemetaan"
-BRG-0553,"Barang Contoh Ke-553",393,"Tata Usaha"
-BRG-0554,"Barang Contoh Ke-554",246,"Pengendalian dan Penanganan Sengketa"
-BRG-0555,"Barang Contoh Ke-555",414,"Penetapan Hak dan Pendaftaran"
-BRG-0556,"Barang Contoh Ke-556",383,"Pengadaan Tanah dan Pengembangan"
-BRG-0557,"Barang Contoh Ke-557",250,"Pengendalian dan Penanganan Sengketa"
-BRG-0558,"Barang Contoh Ke-558",20,"Pengadaan Tanah dan Pengembangan"
-BRG-0559,"Barang Contoh Ke-559",181,"Pengadaan Tanah dan Pengembangan"
-BRG-0560,"Barang Contoh Ke-560",473,"Pengendalian dan Penanganan Sengketa"
-BRG-0561,"Barang Contoh Ke-561",128,"Penataan dan Pemberdayaan"
-BRG-0562,"Barang Contoh Ke-562",332,"Pengendalian dan Penanganan Sengketa"
-BRG-0563,"Barang Contoh Ke-563",447,"Penetapan Hak dan Pendaftaran"
-BRG-0564,"Barang Contoh Ke-564",180,"Pengendalian dan Penanganan Sengketa"
-BRG-0565,"Barang Contoh Ke-565",33,"Penataan dan Pemberdayaan"
-BRG-0566,"Barang Contoh Ke-566",126,"Pengadaan Tanah dan Pengembangan"
-BRG-0567,"Barang Contoh Ke-567",491,"Penetapan Hak dan Pendaftaran"
-BRG-0568,"Barang Contoh Ke-568",58,"Penetapan Hak dan Pendaftaran"
-BRG-0569,"Barang Contoh Ke-569",279,"Tata Usaha"
-BRG-0570,"Barang Contoh Ke-570",23,"Penataan dan Pemberdayaan"
-BRG-0571,"Barang Contoh Ke-571",200,"Pengadaan Tanah dan Pengembangan"
-BRG-0572,"Barang Contoh Ke-572",366,"Tata Usaha"
-BRG-0573,"Barang Contoh Ke-573",302,"Survei dan Pemetaan"
-BRG-0574,"Barang Contoh Ke-574",208,"Pengendalian dan Penanganan Sengketa"
-BRG-0575,"Barang Contoh Ke-575",45,"Penetapan Hak dan Pendaftaran"
-BRG-0576,"Barang Contoh Ke-576",164,"Penetapan Hak dan Pendaftaran"
-BRG-0577,"Barang Contoh Ke-577",79,"Pengadaan Tanah dan Pengembangan"
-BRG-0578,"Barang Contoh Ke-578",186,"Penetapan Hak dan Pendaftaran"
-BRG-0579,"Barang Contoh Ke-579",342,"Penetapan Hak dan Pendaftaran"
-BRG-0580,"Barang Contoh Ke-580",156,"Pengendalian dan Penanganan Sengketa"
-BRG-0581,"Barang Contoh Ke-581",273,"Survei dan Pemetaan"
-BRG-0582,"Barang Contoh Ke-582",409,"Penetapan Hak dan Pendaftaran"
-BRG-0583,"Barang Contoh Ke-583",28,"Pengendalian dan Penanganan Sengketa"
-BRG-0584,"Barang Contoh Ke-584",22,"Pengadaan Tanah dan Pengembangan"
-BRG-0585,"Barang Contoh Ke-585",354,"Pengadaan Tanah dan Pengembangan"
-BRG-0586,"Barang Contoh Ke-586",487,"Penataan dan Pemberdayaan"
-BRG-0587,"Barang Contoh Ke-587",262,"Penetapan Hak dan Pendaftaran"
-BRG-0588,"Barang Contoh Ke-588",407,"Penetapan Hak dan Pendaftaran"
-BRG-0589,"Barang Contoh Ke-589",427,"Pengadaan Tanah dan Pengembangan"
-BRG-0590,"Barang Contoh Ke-590",397,"Penetapan Hak dan Pendaftaran"
-BRG-0591,"Barang Contoh Ke-591",103,"Pengendalian dan Penanganan Sengketa"
-BRG-0592,"Barang Contoh Ke-592",451,"Penetapan Hak dan Pendaftaran"
-BRG-0593,"Barang Contoh Ke-593",339,"Tata Usaha"
-BRG-0594,"Barang Contoh Ke-594",223,"Pengadaan Tanah dan Pengembangan"
-BRG-0595,"Barang Contoh Ke-595",121,"Tata Usaha"
-BRG-0596,"Barang Contoh Ke-596",79,"Pengadaan Tanah dan Pengembangan"
-BRG-0597,"Barang Contoh Ke-597",104,"Penetapan Hak dan Pendaftaran"
-BRG-0598,"Barang Contoh Ke-598",166,"Penetapan Hak dan Pendaftaran"
-BRG-0599,"Barang Contoh Ke-599",177,"Pengendalian dan Penanganan Sengketa"
-BRG-0600,"Barang Contoh Ke-600",162,"Pengendalian dan Penanganan Sengketa"
-BRG-0601,"Barang Contoh Ke-601",143,"Pengendalian dan Penanganan Sengketa"
-BRG-0602,"Barang Contoh Ke-602",91,"Penetapan Hak dan Pendaftaran"
-BRG-0603,"Barang Contoh Ke-603",274,"Penetapan Hak dan Pendaftaran"
-BRG-0604,"Barang Contoh Ke-604",233,"Penetapan Hak dan Pendaftaran"
-BRG-0605,"Barang Contoh Ke-605",99,"Pengadaan Tanah dan Pengembangan"
-BRG-0606,"Barang Contoh Ke-606",106,"Tata Usaha"
-BRG-0607,"Barang Contoh Ke-607",233,"Penataan dan Pemberdayaan"
-BRG-0608,"Barang Contoh Ke-608",442,"Penetapan Hak dan Pendaftaran"
-BRG-0609,"Barang Contoh Ke-609",287,"Tata Usaha"
-BRG-0610,"Barang Contoh Ke-610",476,"Survei dan Pemetaan"
-BRG-0611,"Barang Contoh Ke-611",275,"Pengadaan Tanah dan Pengembangan"
-BRG-0612,"Barang Contoh Ke-612",317,"Pengendalian dan Penanganan Sengketa"
-BRG-0613,"Barang Contoh Ke-613",402,"Pengadaan Tanah dan Pengembangan"
-BRG-0614,"Barang Contoh Ke-614",229,"Pengadaan Tanah dan Pengembangan"
-BRG-0615,"Barang Contoh Ke-615",419,"Pengadaan Tanah dan Pengembangan"
-BRG-0616,"Barang Contoh Ke-616",383,"Survei dan Pemetaan"
-BRG-0617,"Barang Contoh Ke-617",83,"Pengadaan Tanah dan Pengembangan"
-BRG-0618,"Barang Contoh Ke-618",366,"Survei dan Pemetaan"
-BRG-0619,"Barang Contoh Ke-619",209,"Penetapan Hak dan Pendaftaran"
-BRG-0620,"Barang Contoh Ke-620",149,"Pengendalian dan Penanganan Sengketa"
-BRG-0621,"Barang Contoh Ke-621",131,"Tata Usaha"
-BRG-0622,"Barang Contoh Ke-622",274,"Pengendalian dan Penanganan Sengketa"
-BRG-0623,"Barang Contoh Ke-623",295,"Penetapan Hak dan Pendaftaran"
-BRG-0624,"Barang Contoh Ke-624",399,"Penetapan Hak dan Pendaftaran"
-BRG-0625,"Barang Contoh Ke-625",420,"Survei dan Pemetaan"
-BRG-0626,"Barang Contoh Ke-626",53,"Survei dan Pemetaan"
-BRG-0627,"Barang Contoh Ke-627",402,"Penataan dan Pemberdayaan"
-BRG-0628,"Barang Contoh Ke-628",52,"Survei dan Pemetaan"
-BRG-0629,"Barang Contoh Ke-629",299,"Tata Usaha"
-BRG-0630,"Barang Contoh Ke-630",121,"Penataan dan Pemberdayaan"
-BRG-0631,"Barang Contoh Ke-631",348,"Pengadaan Tanah dan Pengembangan"
-BRG-0632,"Barang Contoh Ke-632",20,"Penetapan Hak dan Pendaftaran"
-BRG-0633,"Barang Contoh Ke-633",309,"Pengendalian dan Penanganan Sengketa"
-BRG-0634,"Barang Contoh Ke-634",301,"Penetapan Hak dan Pendaftaran"
-BRG-0635,"Barang Contoh Ke-635",176,"Pengendalian dan Penanganan Sengketa"
-BRG-0636,"Barang Contoh Ke-636",345,"Penataan dan Pemberdayaan"
-BRG-0637,"Barang Contoh Ke-637",489,"Tata Usaha"
-BRG-0638,"Barang Contoh Ke-638",286,"Penetapan Hak dan Pendaftaran"
-BRG-0639,"Barang Contoh Ke-639",290,"Penetapan Hak dan Pendaftaran"
-BRG-0640,"Barang Contoh Ke-640",225,"Tata Usaha"
-BRG-0641,"Barang Contoh Ke-641",289,"Survei dan Pemetaan"
-BRG-0642,"Barang Contoh Ke-642",41,"Pengendalian dan Penanganan Sengketa"
-BRG-0643,"Barang Contoh Ke-643",443,"Penataan dan Pemberdayaan"
-BRG-0644,"Barang Contoh Ke-644",39,"Pengendalian dan Penanganan Sengketa"
-BRG-0645,"Barang Contoh Ke-645",326,"Penataan dan Pemberdayaan"
-BRG-0646,"Barang Contoh Ke-646",237,"Penetapan Hak dan Pendaftaran"
-BRG-0647,"Barang Contoh Ke-647",15,"Penetapan Hak dan Pendaftaran"
-BRG-0648,"Barang Contoh Ke-648",15,"Tata Usaha"
-BRG-0649,"Barang Contoh Ke-649",454,"Penataan dan Pemberdayaan"
-BRG-0650,"Barang Contoh Ke-650",293,"Survei dan Pemetaan"
-BRG-0651,"Barang Contoh Ke-651",499,"Survei dan Pemetaan"
-BRG-0652,"Barang Contoh Ke-652",264,"Survei dan Pemetaan"
-BRG-0653,"Barang Contoh Ke-653",485,"Tata Usaha"
-BRG-0654,"Barang Contoh Ke-654",78,"Tata Usaha"
-BRG-0655,"Barang Contoh Ke-655",307,"Pengendalian dan Penanganan Sengketa"
-BRG-0656,"Barang Contoh Ke-656",199,"Survei dan Pemetaan"
-BRG-0657,"Barang Contoh Ke-657",303,"Survei dan Pemetaan"
-BRG-0658,"Barang Contoh Ke-658",17,"Pengadaan Tanah dan Pengembangan"
-BRG-0659,"Barang Contoh Ke-659",243,"Penetapan Hak dan Pendaftaran"
-BRG-0660,"Barang Contoh Ke-660",98,"Penetapan Hak dan Pendaftaran"
-BRG-0661,"Barang Contoh Ke-661",96,"Tata Usaha"
-BRG-0662,"Barang Contoh Ke-662",331,"Penataan dan Pemberdayaan"
-BRG-0663,"Barang Contoh Ke-663",441,"Penetapan Hak dan Pendaftaran"
-BRG-0664,"Barang Contoh Ke-664",263,"Tata Usaha"
-BRG-0665,"Barang Contoh Ke-665",336,"Pengadaan Tanah dan Pengembangan"
-BRG-0666,"Barang Contoh Ke-666",394,"Pengadaan Tanah dan Pengembangan"
-BRG-0667,"Barang Contoh Ke-667",232,"Penetapan Hak dan Pendaftaran"
-BRG-0668,"Barang Contoh Ke-668",452,"Penetapan Hak dan Pendaftaran"
-BRG-0669,"Barang Contoh Ke-669",411,"Penataan dan Pemberdayaan"
-BRG-0670,"Barang Contoh Ke-670",352,"Penetapan Hak dan Pendaftaran"
-BRG-0671,"Barang Contoh Ke-671",78,"Pengendalian dan Penanganan Sengketa"
-BRG-0672,"Barang Contoh Ke-672",268,"Penataan dan Pemberdayaan"
-BRG-0673,"Barang Contoh Ke-673",118,"Survei dan Pemetaan"
-BRG-0674,"Barang Contoh Ke-674",240,"Pengendalian dan Penanganan Sengketa"
-BRG-0675,"Barang Contoh Ke-675",425,"Tata Usaha"
-BRG-0676,"Barang Contoh Ke-676",200,"Penataan dan Pemberdayaan"
-BRG-0677,"Barang Contoh Ke-677",86,"Pengadaan Tanah dan Pengembangan"
-BRG-0678,"Barang Contoh Ke-678",38,"Penetapan Hak dan Pendaftaran"
-BRG-0679,"Barang Contoh Ke-679",126,"Penetapan Hak dan Pendaftaran"
-BRG-0680,"Barang Contoh Ke-680",159,"Pengendalian dan Penanganan Sengketa"
-BRG-0681,"Barang Contoh Ke-681",267,"Penetapan Hak dan Pendaftaran"
-BRG-0682,"Barang Contoh Ke-682",494,"Penataan dan Pemberdayaan"
-BRG-0683,"Barang Contoh Ke-683",140,"Survei dan Pemetaan"
-BRG-0684,"Barang Contoh Ke-684",132,"Survei dan Pemetaan"
-BRG-0685,"Barang Contoh Ke-685",281,"Tata Usaha"
-BRG-0686,"Barang Contoh Ke-686",176,"Survei dan Pemetaan"
-BRG-0687,"Barang Contoh Ke-687",148,"Penetapan Hak dan Pendaftaran"
-BRG-0688,"Barang Contoh Ke-688",311,"Tata Usaha"
-BRG-0689,"Barang Contoh Ke-689",266,"Pengendalian dan Penanganan Sengketa"
-BRG-0690,"Barang Contoh Ke-690",440,"Survei dan Pemetaan"
-BRG-0691,"Barang Contoh Ke-691",302,"Penetapan Hak dan Pendaftaran"
-BRG-0692,"Barang Contoh Ke-692",487,"Pengendalian dan Penanganan Sengketa"
-BRG-0693,"Barang Contoh Ke-693",454,"Pengendalian dan Penanganan Sengketa"
-BRG-0694,"Barang Contoh Ke-694",357,"Survei dan Pemetaan"
-BRG-0695,"Barang Contoh Ke-695",299,"Pengendalian dan Penanganan Sengketa"
-BRG-0696,"Barang Contoh Ke-696",169,"Penetapan Hak dan Pendaftaran"
-BRG-0697,"Barang Contoh Ke-697",366,"Pengadaan Tanah dan Pengembangan"
-BRG-0698,"Barang Contoh Ke-698",234,"Pengadaan Tanah dan Pengembangan"
-BRG-0699,"Barang Contoh Ke-699",442,"Penataan dan Pemberdayaan"
-BRG-0700,"Barang Contoh Ke-700",173,"Pengadaan Tanah dan Pengembangan"
-BRG-0701,"Barang Contoh Ke-701",70,"Pengadaan Tanah dan Pengembangan"
-BRG-0702,"Barang Contoh Ke-702",171,"Penetapan Hak dan Pendaftaran"
-BRG-0703,"Barang Contoh Ke-703",437,"Penetapan Hak dan Pendaftaran"
-BRG-0704,"Barang Contoh Ke-704",115,"Penetapan Hak dan Pendaftaran"
-BRG-0705,"Barang Contoh Ke-705",257,"Pengendalian dan Penanganan Sengketa"
-BRG-0706,"Barang Contoh Ke-706",452,"Tata Usaha"
-BRG-0707,"Barang Contoh Ke-707",434,"Penataan dan Pemberdayaan"
-BRG-0708,"Barang Contoh Ke-708",85,"Penetapan Hak dan Pendaftaran"
-BRG-0709,"Barang Contoh Ke-709",403,"Tata Usaha"
-BRG-0710,"Barang Contoh Ke-710",191,"Penataan dan Pemberdayaan"
-BRG-0711,"Barang Contoh Ke-711",86,"Penetapan Hak dan Pendaftaran"
-BRG-0712,"Barang Contoh Ke-712",23,"Tata Usaha"
-BRG-0713,"Barang Contoh Ke-713",52,"Pengadaan Tanah dan Pengembangan"
-BRG-0714,"Barang Contoh Ke-714",186,"Tata Usaha"
-BRG-0715,"Barang Contoh Ke-715",141,"Pengadaan Tanah dan Pengembangan"
-BRG-0716,"Barang Contoh Ke-716",160,"Tata Usaha"
-BRG-0717,"Barang Contoh Ke-717",138,"Pengadaan Tanah dan Pengembangan"
-BRG-0718,"Barang Contoh Ke-718",292,"Penataan dan Pemberdayaan"
-BRG-0719,"Barang Contoh Ke-719",398,"Pengendalian dan Penanganan Sengketa"
-BRG-0720,"Barang Contoh Ke-720",143,"Tata Usaha"
-BRG-0721,"Barang Contoh Ke-721",22,"Pengadaan Tanah dan Pengembangan"
-BRG-0722,"Barang Contoh Ke-722",218,"Penetapan Hak dan Pendaftaran"
-BRG-0723,"Barang Contoh Ke-723",480,"Penataan dan Pemberdayaan"
-BRG-0724,"Barang Contoh Ke-724",309,"Penataan dan Pemberdayaan"
-BRG-0725,"Barang Contoh Ke-725",400,"Penataan dan Pemberdayaan"
-BRG-0726,"Barang Contoh Ke-726",143,"Survei dan Pemetaan"
-BRG-0727,"Barang Contoh Ke-727",196,"Pengendalian dan Penanganan Sengketa"
-BRG-0728,"Barang Contoh Ke-728",286,"Survei dan Pemetaan"
-BRG-0729,"Barang Contoh Ke-729",448,"Pengendalian dan Penanganan Sengketa"
-BRG-0730,"Barang Contoh Ke-730",467,"Survei dan Pemetaan"
-BRG-0731,"Barang Contoh Ke-731",96,"Penataan dan Pemberdayaan"
-BRG-0732,"Barang Contoh Ke-732",303,"Pengadaan Tanah dan Pengembangan"
-BRG-0733,"Barang Contoh Ke-733",27,"Penataan dan Pemberdayaan"
-BRG-0734,"Barang Contoh Ke-734",352,"Tata Usaha"
-BRG-0735,"Barang Contoh Ke-735",180,"Survei dan Pemetaan"
-BRG-0736,"Barang Contoh Ke-736",317,"Penataan dan Pemberdayaan"
-BRG-0737,"Barang Contoh Ke-737",274,"Penataan dan Pemberdayaan"
-BRG-0738,"Barang Contoh Ke-738",31,"Penataan dan Pemberdayaan"
-BRG-0739,"Barang Contoh Ke-739",347,"Pengendalian dan Penanganan Sengketa"
-BRG-0740,"Barang Contoh Ke-740",181,"Survei dan Pemetaan"
-BRG-0741,"Barang Contoh Ke-741",397,"Tata Usaha"
-BRG-0742,"Barang Contoh Ke-742",60,"Tata Usaha"
-BRG-0743,"Barang Contoh Ke-743",271,"Pengadaan Tanah dan Pengembangan"
-BRG-0744,"Barang Contoh Ke-744",360,"Tata Usaha"
-BRG-0745,"Barang Contoh Ke-745",196,"Pengadaan Tanah dan Pengembangan"
-BRG-0746,"Barang Contoh Ke-746",448,"Pengendalian dan Penanganan Sengketa"
-BRG-0747,"Barang Contoh Ke-747",154,"Pengendalian dan Penanganan Sengketa"
-BRG-0748,"Barang Contoh Ke-748",464,"Survei dan Pemetaan"
-BRG-0749,"Barang Contoh Ke-749",343,"Tata Usaha"
-BRG-0750,"Barang Contoh Ke-750",46,"Survei dan Pemetaan"
-BRG-0751,"Barang Contoh Ke-751",26,"Pengadaan Tanah dan Pengembangan"
-BRG-0752,"Barang Contoh Ke-752",131,"Pengendalian dan Penanganan Sengketa"
-BRG-0753,"Barang Contoh Ke-753",280,"Penataan dan Pemberdayaan"
-BRG-0754,"Barang Contoh Ke-754",83,"Tata Usaha"
-BRG-0755,"Barang Contoh Ke-755",41,"Penataan dan Pemberdayaan"
-BRG-0756,"Barang Contoh Ke-756",305,"Tata Usaha"
-BRG-0757,"Barang Contoh Ke-757",489,"Tata Usaha"
-BRG-0758,"Barang Contoh Ke-758",351,"Penataan dan Pemberdayaan"
-BRG-0759,"Barang Contoh Ke-759",14,"Pengendalian dan Penanganan Sengketa"
-BRG-0760,"Barang Contoh Ke-760",468,"Tata Usaha"
-BRG-0761,"Barang Contoh Ke-761",392,"Survei dan Pemetaan"
-BRG-0762,"Barang Contoh Ke-762",265,"Penataan dan Pemberdayaan"
-BRG-0763,"Barang Contoh Ke-763",11,"Survei dan Pemetaan"
-BRG-0764,"Barang Contoh Ke-764",182,"Tata Usaha"
-BRG-0765,"Barang Contoh Ke-765",213,"Survei dan Pemetaan"
-BRG-0766,"Barang Contoh Ke-766",296,"Penetapan Hak dan Pendaftaran"
-BRG-0767,"Barang Contoh Ke-767",119,"Penataan dan Pemberdayaan"
-BRG-0768,"Barang Contoh Ke-768",353,"Penataan dan Pemberdayaan"
-BRG-0769,"Barang Contoh Ke-769",73,"Tata Usaha"
-BRG-0770,"Barang Contoh Ke-770",215,"Penataan dan Pemberdayaan"
-BRG-0771,"Barang Contoh Ke-771",136,"Penataan dan Pemberdayaan"
-BRG-0772,"Barang Contoh Ke-772",416,"Pengadaan Tanah dan Pengembangan"
-BRG-0773,"Barang Contoh Ke-773",226,"Tata Usaha"
-BRG-0774,"Barang Contoh Ke-774",140,"Pengendalian dan Penanganan Sengketa"
-BRG-0775,"Barang Contoh Ke-775",376,"Tata Usaha"
-BRG-0776,"Barang Contoh Ke-776",341,"Penetapan Hak dan Pendaftaran"
-BRG-0777,"Barang Contoh Ke-777",300,"Pengendalian dan Penanganan Sengketa"
-BRG-0778,"Barang Contoh Ke-778",289,"Pengendalian dan Penanganan Sengketa"
-BRG-0779,"Barang Contoh Ke-779",15,"Penataan dan Pemberdayaan"
-BRG-0780,"Barang Contoh Ke-780",211,"Penataan dan Pemberdayaan"
-BRG-0781,"Barang Contoh Ke-781",86,"Pengendalian dan Penanganan Sengketa"
-BRG-0782,"Barang Contoh Ke-782",462,"Penataan dan Pemberdayaan"
-BRG-0783,"Barang Contoh Ke-783",414,"Pengendalian dan Penanganan Sengketa"
-BRG-0784,"Barang Contoh Ke-784",369,"Tata Usaha"
-BRG-0785,"Barang Contoh Ke-785",188,"Penetapan Hak dan Pendaftaran"
-BRG-0786,"Barang Contoh Ke-786",195,"Penetapan Hak dan Pendaftaran"
-BRG-0787,"Barang Contoh Ke-787",27,"Penetapan Hak dan Pendaftaran"
-BRG-0788,"Barang Contoh Ke-788",202,"Penetapan Hak dan Pendaftaran"
-BRG-0789,"Barang Contoh Ke-789",120,"Tata Usaha"
-BRG-0790,"Barang Contoh Ke-790",161,"Tata Usaha"
-BRG-0791,"Barang Contoh Ke-791",457,"Pengadaan Tanah dan Pengembangan"
-BRG-0792,"Barang Contoh Ke-792",220,"Survei dan Pemetaan"
-BRG-0793,"Barang Contoh Ke-793",346,"Pengendalian dan Penanganan Sengketa"
-BRG-0794,"Barang Contoh Ke-794",447,"Survei dan Pemetaan"
-BRG-0795,"Barang Contoh Ke-795",413,"Survei dan Pemetaan"
-BRG-0796,"Barang Contoh Ke-796",45,"Survei dan Pemetaan"
-BRG-0797,"Barang Contoh Ke-797",252,"Penataan dan Pemberdayaan"
-BRG-0798,"Barang Contoh Ke-798",119,"Tata Usaha"
-BRG-0799,"Barang Contoh Ke-799",482,"Pengadaan Tanah dan Pengembangan"
-BRG-0800,"Barang Contoh Ke-800",368,"Penataan dan Pemberdayaan"
-BRG-0801,"Barang Contoh Ke-801",388,"Tata Usaha"
-BRG-0802,"Barang Contoh Ke-802",449,"Penetapan Hak dan Pendaftaran"
-BRG-0803,"Barang Contoh Ke-803",214,"Penetapan Hak dan Pendaftaran"
-BRG-0804,"Barang Contoh Ke-804",498,"Pengendalian dan Penanganan Sengketa"
-BRG-0805,"Barang Contoh Ke-805",199,"Tata Usaha"
-BRG-0806,"Barang Contoh Ke-806",311,"Penataan dan Pemberdayaan"
-BRG-0807,"Barang Contoh Ke-807",451,"Survei dan Pemetaan"
-BRG-0808,"Barang Contoh Ke-808",347,"Penetapan Hak dan Pendaftaran"
-BRG-0809,"Barang Contoh Ke-809",404,"Penataan dan Pemberdayaan"
-BRG-0810,"Barang Contoh Ke-810",75,"Pengadaan Tanah dan Pengembangan"
-BRG-0811,"Barang Contoh Ke-811",156,"Survei dan Pemetaan"
-BRG-0812,"Barang Contoh Ke-812",260,"Tata Usaha"
-BRG-0813,"Barang Contoh Ke-813",99,"Tata Usaha"
-BRG-0814,"Barang Contoh Ke-814",476,"Penetapan Hak dan Pendaftaran"
-BRG-0815,"Barang Contoh Ke-815",390,"Tata Usaha"
-BRG-0816,"Barang Contoh Ke-816",489,"Tata Usaha"
-BRG-0817,"Barang Contoh Ke-817",491,"Pengadaan Tanah dan Pengembangan"
-BRG-0818,"Barang Contoh Ke-818",85,"Penataan dan Pemberdayaan"
-BRG-0819,"Barang Contoh Ke-819",411,"Penataan dan Pemberdayaan"
-BRG-0820,"Barang Contoh Ke-820",76,"Pengendalian dan Penanganan Sengketa"
-BRG-0821,"Barang Contoh Ke-821",181,"Tata Usaha"
-BRG-0822,"Barang Contoh Ke-822",250,"Pengendalian dan Penanganan Sengketa"
-BRG-0823,"Barang Contoh Ke-823",190,"Pengadaan Tanah dan Pengembangan"
-BRG-0824,"Barang Contoh Ke-824",67,"Pengadaan Tanah dan Pengembangan"
-BRG-0825,"Barang Contoh Ke-825",131,"Survei dan Pemetaan"
-BRG-0826,"Barang Contoh Ke-826",45,"Pengadaan Tanah dan Pengembangan"
-BRG-0827,"Barang Contoh Ke-827",210,"Penetapan Hak dan Pendaftaran"
-BRG-0828,"Barang Contoh Ke-828",489,"Pengadaan Tanah dan Pengembangan"
-BRG-0829,"Barang Contoh Ke-829",421,"Tata Usaha"
-BRG-0830,"Barang Contoh Ke-830",411,"Tata Usaha"
-BRG-0831,"Barang Contoh Ke-831",44,"Pengadaan Tanah dan Pengembangan"
-BRG-0832,"Barang Contoh Ke-832",77,"Survei dan Pemetaan"
-BRG-0833,"Barang Contoh Ke-833",435,"Pengendalian dan Penanganan Sengketa"
-BRG-0834,"Barang Contoh Ke-834",352,"Tata Usaha"
-BRG-0835,"Barang Contoh Ke-835",138,"Pengendalian dan Penanganan Sengketa"
-BRG-0836,"Barang Contoh Ke-836",285,"Penetapan Hak dan Pendaftaran"
-BRG-0837,"Barang Contoh Ke-837",13,"Pengendalian dan Penanganan Sengketa"
-BRG-0838,"Barang Contoh Ke-838",274,"Survei dan Pemetaan"
-BRG-0839,"Barang Contoh Ke-839",84,"Penataan dan Pemberdayaan"
-BRG-0840,"Barang Contoh Ke-840",88,"Pengadaan Tanah dan Pengembangan"
-BRG-0841,"Barang Contoh Ke-841",146,"Pengadaan Tanah dan Pengembangan"
-BRG-0842,"Barang Contoh Ke-842",364,"Tata Usaha"
-BRG-0843,"Barang Contoh Ke-843",239,"Pengendalian dan Penanganan Sengketa"
-BRG-0844,"Barang Contoh Ke-844",497,"Penetapan Hak dan Pendaftaran"
-BRG-0845,"Barang Contoh Ke-845",16,"Survei dan Pemetaan"
-BRG-0846,"Barang Contoh Ke-846",318,"Penetapan Hak dan Pendaftaran"
-BRG-0847,"Barang Contoh Ke-847",228,"Pengendalian dan Penanganan Sengketa"
-BRG-0848,"Barang Contoh Ke-848",56,"Penataan dan Pemberdayaan"
-BRG-0849,"Barang Contoh Ke-849",411,"Survei dan Pemetaan"
-BRG-0850,"Barang Contoh Ke-850",22,"Survei dan Pemetaan"
-BRG-0851,"Barang Contoh Ke-851",357,"Tata Usaha"
-BRG-0852,"Barang Contoh Ke-852",359,"Tata Usaha"
-BRG-0853,"Barang Contoh Ke-853",424,"Pengendalian dan Penanganan Sengketa"
-BRG-0854,"Barang Contoh Ke-854",116,"Penetapan Hak dan Pendaftaran"
-BRG-0855,"Barang Contoh Ke-855",381,"Penetapan Hak dan Pendaftaran"
-BRG-0856,"Barang Contoh Ke-856",263,"Penataan dan Pemberdayaan"
-BRG-0857,"Barang Contoh Ke-857",256,"Penataan dan Pemberdayaan"
-BRG-0858,"Barang Contoh Ke-858",199,"Penetapan Hak dan Pendaftaran"
-BRG-0859,"Barang Contoh Ke-859",447,"Penataan dan Pemberdayaan"
-BRG-0860,"Barang Contoh Ke-860",205,"Tata Usaha"
-BRG-0861,"Barang Contoh Ke-861",364,"Tata Usaha"
-BRG-0862,"Barang Contoh Ke-862",383,"Tata Usaha"
-BRG-0863,"Barang Contoh Ke-863",183,"Penetapan Hak dan Pendaftaran"
-BRG-0864,"Barang Contoh Ke-864",187,"Pengendalian dan Penanganan Sengketa"
-BRG-0865,"Barang Contoh Ke-865",300,"Tata Usaha"
-BRG-0866,"Barang Contoh Ke-866",436,"Pengendalian dan Penanganan Sengketa"
-BRG-0867,"Barang Contoh Ke-867",439,"Pengendalian dan Penanganan Sengketa"
-BRG-0868,"Barang Contoh Ke-868",226,"Penataan dan Pemberdayaan"
-BRG-0869,"Barang Contoh Ke-869",451,"Pengadaan Tanah dan Pengembangan"
-BRG-0870,"Barang Contoh Ke-870",131,"Pengendalian dan Penanganan Sengketa"
-BRG-0871,"Barang Contoh Ke-871",17,"Pengendalian dan Penanganan Sengketa"
-BRG-0872,"Barang Contoh Ke-872",135,"Survei dan Pemetaan"
-BRG-0873,"Barang Contoh Ke-873",286,"Pengendalian dan Penanganan Sengketa"
-BRG-0874,"Barang Contoh Ke-874",217,"Pengendalian dan Penanganan Sengketa"
-BRG-0875,"Barang Contoh Ke-875",258,"Tata Usaha"
-BRG-0876,"Barang Contoh Ke-876",359,"Penetapan Hak dan Pendaftaran"
-BRG-0877,"Barang Contoh Ke-877",205,"Penataan dan Pemberdayaan"
-BRG-0878,"Barang Contoh Ke-878",81,"Pengendalian dan Penanganan Sengketa"
-BRG-0879,"Barang Contoh Ke-879",76,"Survei dan Pemetaan"
-BRG-0880,"Barang Contoh Ke-880",454,"Pengadaan Tanah dan Pengembangan"
-BRG-0881,"Barang Contoh Ke-881",136,"Pengendalian dan Penanganan Sengketa"
-BRG-0882,"Barang Contoh Ke-882",21,"Pengadaan Tanah dan Pengembangan"
-BRG-0883,"Barang Contoh Ke-883",478,"Tata Usaha"
-BRG-0884,"Barang Contoh Ke-884",102,"Pengendalian dan Penanganan Sengketa"
-BRG-0885,"Barang Contoh Ke-885",427,"Pengendalian dan Penanganan Sengketa"
-BRG-0886,"Barang Contoh Ke-886",302,"Penataan dan Pemberdayaan"
-BRG-0887,"Barang Contoh Ke-887",105,"Pengendalian dan Penanganan Sengketa"
-BRG-0888,"Barang Contoh Ke-888",241,"Penetapan Hak dan Pendaftaran"
-BRG-0889,"Barang Contoh Ke-889",475,"Survei dan Pemetaan"
-BRG-0890,"Barang Contoh Ke-890",184,"Penetapan Hak dan Pendaftaran"
-BRG-0891,"Barang Contoh Ke-891",419,"Pengadaan Tanah dan Pengembangan"
-BRG-0892,"Barang Contoh Ke-892",385,"Penetapan Hak dan Pendaftaran"
-BRG-0893,"Barang Contoh Ke-893",133,"Penetapan Hak dan Pendaftaran"
-BRG-0894,"Barang Contoh Ke-894",408,"Pengendalian dan Penanganan Sengketa"
-BRG-0895,"Barang Contoh Ke-895",126,"Survei dan Pemetaan"
-BRG-0896,"Barang Contoh Ke-896",300,"Penataan dan Pemberdayaan"
-BRG-0897,"Barang Contoh Ke-897",37,"Penataan dan Pemberdayaan"
-BRG-0898,"Barang Contoh Ke-898",284,"Penetapan Hak dan Pendaftaran"
-BRG-0899,"Barang Contoh Ke-899",373,"Penataan dan Pemberdayaan"
-BRG-0900,"Barang Contoh Ke-900",460,"Penataan dan Pemberdayaan"
-BRG-0901,"Barang Contoh Ke-901",475,"Pengadaan Tanah dan Pengembangan"
-BRG-0902,"Barang Contoh Ke-902",444,"Tata Usaha"
-BRG-0903,"Barang Contoh Ke-903",193,"Penetapan Hak dan Pendaftaran"
-BRG-0904,"Barang Contoh Ke-904",90,"Pengendalian dan Penanganan Sengketa"
-BRG-0905,"Barang Contoh Ke-905",294,"Penetapan Hak dan Pendaftaran"
-BRG-0906,"Barang Contoh Ke-906",306,"Penetapan Hak dan Pendaftaran"
-BRG-0907,"Barang Contoh Ke-907",167,"Penataan dan Pemberdayaan"
-BRG-0908,"Barang Contoh Ke-908",404,"Survei dan Pemetaan"
-BRG-0909,"Barang Contoh Ke-909",350,"Pengadaan Tanah dan Pengembangan"
-BRG-0910,"Barang Contoh Ke-910",169,"Pengadaan Tanah dan Pengembangan"
-BRG-0911,"Barang Contoh Ke-911",259,"Survei dan Pemetaan"
-BRG-0912,"Barang Contoh Ke-912",416,"Penataan dan Pemberdayaan"
-BRG-0913,"Barang Contoh Ke-913",210,"Pengadaan Tanah dan Pengembangan"
-BRG-0914,"Barang Contoh Ke-914",341,"Pengendalian dan Penanganan Sengketa"
-BRG-0915,"Barang Contoh Ke-915",344,"Pengendalian dan Penanganan Sengketa"
-BRG-0916,"Barang Contoh Ke-916",76,"Pengendalian dan Penanganan Sengketa"
-BRG-0917,"Barang Contoh Ke-917",106,"Penataan dan Pemberdayaan"
-BRG-0918,"Barang Contoh Ke-918",44,"Tata Usaha"
-BRG-0919,"Barang Contoh Ke-919",347,"Tata Usaha"
-BRG-0920,"Barang Contoh Ke-920",91,"Penetapan Hak dan Pendaftaran"
-BRG-0921,"Barang Contoh Ke-921",26,"Pengadaan Tanah dan Pengembangan"
-BRG-0922,"Barang Contoh Ke-922",92,"Penetapan Hak dan Pendaftaran"
-BRG-0923,"Barang Contoh Ke-923",299,"Pengadaan Tanah dan Pengembangan"
-BRG-0924,"Barang Contoh Ke-924",207,"Tata Usaha"
-BRG-0925,"Barang Contoh Ke-925",175,"Survei dan Pemetaan"
-BRG-0926,"Barang Contoh Ke-926",78,"Tata Usaha"
-BRG-0927,"Barang Contoh Ke-927",276,"Survei dan Pemetaan"
-BRG-0928,"Barang Contoh Ke-928",280,"Tata Usaha"
-BRG-0929,"Barang Contoh Ke-929",95,"Penetapan Hak dan Pendaftaran"
-BRG-0930,"Barang Contoh Ke-930",310,"Survei dan Pemetaan"
-BRG-0931,"Barang Contoh Ke-931",155,"Pengadaan Tanah dan Pengembangan"
-BRG-0932,"Barang Contoh Ke-932",346,"Penetapan Hak dan Pendaftaran"
-BRG-0933,"Barang Contoh Ke-933",133,"Survei dan Pemetaan"
-BRG-0934,"Barang Contoh Ke-934",431,"Penataan dan Pemberdayaan"
-BRG-0935,"Barang Contoh Ke-935",23,"Penataan dan Pemberdayaan"
-BRG-0936,"Barang Contoh Ke-936",317,"Pengadaan Tanah dan Pengembangan"
-BRG-0937,"Barang Contoh Ke-937",358,"Penataan dan Pemberdayaan"
-BRG-0938,"Barang Contoh Ke-938",354,"Tata Usaha"
-BRG-0939,"Barang Contoh Ke-939",364,"Survei dan Pemetaan"
-BRG-0940,"Barang Contoh Ke-940",392,"Pengendalian dan Penanganan Sengketa"
-BRG-0941,"Barang Contoh Ke-941",278,"Penetapan Hak dan Pendaftaran"
-BRG-0942,"Barang Contoh Ke-942",287,"Survei dan Pemetaan"
-BRG-0943,"Barang Contoh Ke-943",244,"Penataan dan Pemberdayaan"
-BRG-0944,"Barang Contoh Ke-944",275,"Survei dan Pemetaan"
-BRG-0945,"Barang Contoh Ke-945",414,"Pengendalian dan Penanganan Sengketa"
-BRG-0946,"Barang Contoh Ke-946",452,"Pengendalian dan Penanganan Sengketa"
-BRG-0947,"Barang Contoh Ke-947",57,"Tata Usaha"
-BRG-0948,"Barang Contoh Ke-948",473,"Penetapan Hak dan Pendaftaran"
-BRG-0949,"Barang Contoh Ke-949",178,"Tata Usaha"
-BRG-0950,"Barang Contoh Ke-950",488,"Pengadaan Tanah dan Pengembangan"
-BRG-0951,"Barang Contoh Ke-951",203,"Tata Usaha"
-BRG-0952,"Barang Contoh Ke-952",203,"Pengadaan Tanah dan Pengembangan"
-BRG-0953,"Barang Contoh Ke-953",280,"Survei dan Pemetaan"
-BRG-0954,"Barang Contoh Ke-954",489,"Tata Usaha"
-BRG-0955,"Barang Contoh Ke-955",473,"Survei dan Pemetaan"
-BRG-0956,"Barang Contoh Ke-956",203,"Survei dan Pemetaan"
-BRG-0957,"Barang Contoh Ke-957",19,"Tata Usaha"
-BRG-0958,"Barang Contoh Ke-958",337,"Pengendalian dan Penanganan Sengketa"
-BRG-0959,"Barang Contoh Ke-959",369,"Survei dan Pemetaan"
-BRG-0960,"Barang Contoh Ke-960",420,"Pengendalian dan Penanganan Sengketa"
-BRG-0961,"Barang Contoh Ke-961",449,"Pengendalian dan Penanganan Sengketa"
-BRG-0962,"Barang Contoh Ke-962",228,"Penetapan Hak dan Pendaftaran"
-BRG-0963,"Barang Contoh Ke-963",124,"Pengadaan Tanah dan Pengembangan"
-BRG-0964,"Barang Contoh Ke-964",14,"Penetapan Hak dan Pendaftaran"
-BRG-0965,"Barang Contoh Ke-965",149,"Pengendalian dan Penanganan Sengketa"
-BRG-0966,"Barang Contoh Ke-966",482,"Tata Usaha"
-BRG-0967,"Barang Contoh Ke-967",163,"Tata Usaha"
-BRG-0968,"Barang Contoh Ke-968",184,"Survei dan Pemetaan"
-BRG-0969,"Barang Contoh Ke-969",261,"Penataan dan Pemberdayaan"
-BRG-0970,"Barang Contoh Ke-970",338,"Penataan dan Pemberdayaan"
-BRG-0971,"Barang Contoh Ke-971",192,"Penataan dan Pemberdayaan"
-BRG-0972,"Barang Contoh Ke-972",209,"Penetapan Hak dan Pendaftaran"
-BRG-0973,"Barang Contoh Ke-973",490,"Penetapan Hak dan Pendaftaran"
-BRG-0974,"Barang Contoh Ke-974",348,"Pengendalian dan Penanganan Sengketa"
-BRG-0975,"Barang Contoh Ke-975",496,"Tata Usaha"
-BRG-0976,"Barang Contoh Ke-976",497,"Survei dan Pemetaan"
-BRG-0977,"Barang Contoh Ke-977",55,"Penataan dan Pemberdayaan"
-BRG-0978,"Barang Contoh Ke-978",73,"Penataan dan Pemberdayaan"
-BRG-0979,"Barang Contoh Ke-979",174,"Tata Usaha"
-BRG-0980,"Barang Contoh Ke-980",429,"Pengendalian dan Penanganan Sengketa"
-BRG-0981,"Barang Contoh Ke-981",173,"Pengadaan Tanah dan Pengembangan"
-BRG-0982,"Barang Contoh Ke-982",90,"Tata Usaha"
-BRG-0983,"Barang Contoh Ke-983",387,"Penataan dan Pemberdayaan"
-BRG-0984,"Barang Contoh Ke-984",158,"Penetapan Hak dan Pendaftaran"
-BRG-0985,"Barang Contoh Ke-985",500,"Pengendalian dan Penanganan Sengketa"
-BRG-0986,"Barang Contoh Ke-986",82,"Penataan dan Pemberdayaan"
-BRG-0987,"Barang Contoh Ke-987",272,"Tata Usaha"
-BRG-0988,"Barang Contoh Ke-988",429,"Tata Usaha"
-BRG-0989,"Barang Contoh Ke-989",397,"Pengendalian dan Penanganan Sengketa"
-BRG-0990,"Barang Contoh Ke-990",273,"Tata Usaha"
-BRG-0991,"Barang Contoh Ke-991",240,"Pengendalian dan Penanganan Sengketa"
-BRG-0992,"Barang Contoh Ke-992",112,"Penataan dan Pemberdayaan"
-BRG-0993,"Barang Contoh Ke-993",495,"Tata Usaha"
-BRG-0994,"Barang Contoh Ke-994",163,"Tata Usaha"
-BRG-0995,"Barang Contoh Ke-995",360,"Tata Usaha"
-BRG-0996,"Barang Contoh Ke-996",281,"Pengadaan Tanah dan Pengembangan"
-BRG-0997,"Barang Contoh Ke-997",193,"Tata Usaha"
-BRG-0998,"Barang Contoh Ke-998",243,"Penetapan Hak dan Pendaftaran"
-BRG-0999,"Barang Contoh Ke-999",73,"Penetapan Hak dan Pendaftaran"
-BRG-1000,"Barang Contoh Ke-1000",460,"Survei dan Pemetaan"
+BRG-0001,Barang Contoh Ke-1,137,Penetapan Hak dan Pendaftaran
+BRG-0002,Barang Contoh Ke-2,298,Pengendalian dan Penanganan Sengketa
+BRG-0003,Barang Contoh Ke-3,307,Pengendalian dan Penanganan Sengketa
+BRG-0004,Barang Contoh Ke-4,173,Pengadaan Tanah dan Pengembangan
+BRG-0005,Barang Contoh Ke-5,190,Pengendalian dan Penanganan Sengketa
+BRG-0006,Barang Contoh Ke-6,492,Tata Usaha
+BRG-0007,Barang Contoh Ke-7,382,Tata Usaha
+BRG-0008,Barang Contoh Ke-8,452,Survei dan Pemetaan
+BRG-0009,Barang Contoh Ke-9,339,Pengendalian dan Penanganan Sengketa
+BRG-0010,Barang Contoh Ke-10,494,Penetapan Hak dan Pendaftaran
+BRG-0011,Barang Contoh Ke-11,367,Survei dan Pemetaan
+BRG-0012,Barang Contoh Ke-12,369,Penataan dan Pemberdayaan
+BRG-0013,Barang Contoh Ke-13,27,Penetapan Hak dan Pendaftaran
+BRG-0014,Barang Contoh Ke-14,16,Penetapan Hak dan Pendaftaran
+BRG-0015,Barang Contoh Ke-15,72,Survei dan Pemetaan
+BRG-0016,Barang Contoh Ke-16,34,Survei dan Pemetaan
+BRG-0017,Barang Contoh Ke-17,300,Penetapan Hak dan Pendaftaran
+BRG-0018,Barang Contoh Ke-18,343,Tata Usaha
+BRG-0019,Barang Contoh Ke-19,234,Penataan dan Pemberdayaan
+BRG-0020,Barang Contoh Ke-20,15,Survei dan Pemetaan
+BRG-0021,Barang Contoh Ke-21,384,Tata Usaha
+BRG-0022,Barang Contoh Ke-22,413,Pengadaan Tanah dan Pengembangan
+BRG-0023,Barang Contoh Ke-23,82,Survei dan Pemetaan
+BRG-0024,Barang Contoh Ke-24,203,Pengadaan Tanah dan Pengembangan
+BRG-0025,Barang Contoh Ke-25,204,Pengendalian dan Penanganan Sengketa
+BRG-0026,Barang Contoh Ke-26,189,Survei dan Pemetaan
+BRG-0027,Barang Contoh Ke-27,25,Penataan dan Pemberdayaan
+BRG-0028,Barang Contoh Ke-28,389,Penetapan Hak dan Pendaftaran
+BRG-0029,Barang Contoh Ke-29,44,Penataan dan Pemberdayaan
+BRG-0030,Barang Contoh Ke-30,396,Survei dan Pemetaan
+BRG-0031,Barang Contoh Ke-31,12,Penetapan Hak dan Pendaftaran
+BRG-0032,Barang Contoh Ke-32,359,Penataan dan Pemberdayaan
+BRG-0033,Barang Contoh Ke-33,189,Penetapan Hak dan Pendaftaran
+BRG-0034,Barang Contoh Ke-34,122,Pengadaan Tanah dan Pengembangan
+BRG-0035,Barang Contoh Ke-35,56,Pengadaan Tanah dan Pengembangan
+BRG-0036,Barang Contoh Ke-36,230,Pengadaan Tanah dan Pengembangan
+BRG-0037,Barang Contoh Ke-37,258,Penetapan Hak dan Pendaftaran
+BRG-0038,Barang Contoh Ke-38,241,Tata Usaha
+BRG-0039,Barang Contoh Ke-39,22,Penetapan Hak dan Pendaftaran
+BRG-0040,Barang Contoh Ke-40,82,Pengadaan Tanah dan Pengembangan
+BRG-0041,Barang Contoh Ke-41,199,Survei dan Pemetaan
+BRG-0042,Barang Contoh Ke-42,259,Pengendalian dan Penanganan Sengketa
+BRG-0043,Barang Contoh Ke-43,81,Pengendalian dan Penanganan Sengketa
+BRG-0044,Barang Contoh Ke-44,470,Penataan dan Pemberdayaan
+BRG-0045,Barang Contoh Ke-45,27,Penetapan Hak dan Pendaftaran
+BRG-0046,Barang Contoh Ke-46,27,Survei dan Pemetaan
+BRG-0047,Barang Contoh Ke-47,232,Survei dan Pemetaan
+BRG-0048,Barang Contoh Ke-48,312,Penetapan Hak dan Pendaftaran
+BRG-0049,Barang Contoh Ke-49,13,Pengadaan Tanah dan Pengembangan
+BRG-0050,Barang Contoh Ke-50,35,Pengendalian dan Penanganan Sengketa
+BRG-0051,Barang Contoh Ke-51,154,Tata Usaha
+BRG-0052,Barang Contoh Ke-52,397,Penetapan Hak dan Pendaftaran
+BRG-0053,Barang Contoh Ke-53,240,Penetapan Hak dan Pendaftaran
+BRG-0054,Barang Contoh Ke-54,171,Penetapan Hak dan Pendaftaran
+BRG-0055,Barang Contoh Ke-55,36,Penetapan Hak dan Pendaftaran
+BRG-0056,Barang Contoh Ke-56,212,Penetapan Hak dan Pendaftaran
+BRG-0057,Barang Contoh Ke-57,437,Pengadaan Tanah dan Pengembangan
+BRG-0058,Barang Contoh Ke-58,495,Survei dan Pemetaan
+BRG-0059,Barang Contoh Ke-59,334,Survei dan Pemetaan
+BRG-0060,Barang Contoh Ke-60,416,Survei dan Pemetaan
+BRG-0061,Barang Contoh Ke-61,169,Pengadaan Tanah dan Pengembangan
+BRG-0062,Barang Contoh Ke-62,137,Penataan dan Pemberdayaan
+BRG-0063,Barang Contoh Ke-63,186,Penetapan Hak dan Pendaftaran
+BRG-0064,Barang Contoh Ke-64,277,Survei dan Pemetaan
+BRG-0065,Barang Contoh Ke-65,209,Pengendalian dan Penanganan Sengketa
+BRG-0066,Barang Contoh Ke-66,420,Penetapan Hak dan Pendaftaran
+BRG-0067,Barang Contoh Ke-67,335,Pengendalian dan Penanganan Sengketa
+BRG-0068,Barang Contoh Ke-68,299,Survei dan Pemetaan
+BRG-0069,Barang Contoh Ke-69,367,Tata Usaha
+BRG-0070,Barang Contoh Ke-70,170,Tata Usaha
+BRG-0071,Barang Contoh Ke-71,395,Pengadaan Tanah dan Pengembangan
+BRG-0072,Barang Contoh Ke-72,386,Tata Usaha
+BRG-0073,Barang Contoh Ke-73,462,Penataan dan Pemberdayaan
+BRG-0074,Barang Contoh Ke-74,478,Tata Usaha
+BRG-0075,Barang Contoh Ke-75,353,Tata Usaha
+BRG-0076,Barang Contoh Ke-76,336,Survei dan Pemetaan
+BRG-0077,Barang Contoh Ke-77,133,Penataan dan Pemberdayaan
+BRG-0078,Barang Contoh Ke-78,148,Pengendalian dan Penanganan Sengketa
+BRG-0079,Barang Contoh Ke-79,17,Pengendalian dan Penanganan Sengketa
+BRG-0080,Barang Contoh Ke-80,386,Penetapan Hak dan Pendaftaran
+BRG-0081,Barang Contoh Ke-81,337,Survei dan Pemetaan
+BRG-0082,Barang Contoh Ke-82,60,Survei dan Pemetaan
+BRG-0083,Barang Contoh Ke-83,58,Pengendalian dan Penanganan Sengketa
+BRG-0084,Barang Contoh Ke-84,315,Penetapan Hak dan Pendaftaran
+BRG-0085,Barang Contoh Ke-85,178,Penataan dan Pemberdayaan
+BRG-0086,Barang Contoh Ke-86,188,Penataan dan Pemberdayaan
+BRG-0087,Barang Contoh Ke-87,418,Penataan dan Pemberdayaan
+BRG-0088,Barang Contoh Ke-88,45,Tata Usaha
+BRG-0089,Barang Contoh Ke-89,285,Tata Usaha
+BRG-0090,Barang Contoh Ke-90,377,Pengadaan Tanah dan Pengembangan
+BRG-0091,Barang Contoh Ke-91,217,Pengendalian dan Penanganan Sengketa
+BRG-0092,Barang Contoh Ke-92,377,Tata Usaha
+BRG-0093,Barang Contoh Ke-93,422,Penataan dan Pemberdayaan
+BRG-0094,Barang Contoh Ke-94,250,Tata Usaha
+BRG-0095,Barang Contoh Ke-95,468,Survei dan Pemetaan
+BRG-0096,Barang Contoh Ke-96,353,Penataan dan Pemberdayaan
+BRG-0097,Barang Contoh Ke-97,27,Survei dan Pemetaan
+BRG-0098,Barang Contoh Ke-98,85,Survei dan Pemetaan
+BRG-0099,Barang Contoh Ke-99,252,Pengadaan Tanah dan Pengembangan
+BRG-0100,Barang Contoh Ke-100,302,Penetapan Hak dan Pendaftaran
+BRG-0101,Barang Contoh Ke-101,209,Tata Usaha
+BRG-0102,Barang Contoh Ke-102,480,Survei dan Pemetaan
+BRG-0103,Barang Contoh Ke-103,337,Survei dan Pemetaan
+BRG-0104,Barang Contoh Ke-104,33,Tata Usaha
+BRG-0105,Barang Contoh Ke-105,411,Penetapan Hak dan Pendaftaran
+BRG-0106,Barang Contoh Ke-106,327,Penetapan Hak dan Pendaftaran
+BRG-0107,Barang Contoh Ke-107,426,Pengadaan Tanah dan Pengembangan
+BRG-0108,Barang Contoh Ke-108,400,Tata Usaha
+BRG-0109,Barang Contoh Ke-109,67,Survei dan Pemetaan
+BRG-0110,Barang Contoh Ke-110,99,Penetapan Hak dan Pendaftaran
+BRG-0111,Barang Contoh Ke-111,398,Tata Usaha
+BRG-0112,Barang Contoh Ke-112,93,Pengendalian dan Penanganan Sengketa
+BRG-0113,Barang Contoh Ke-113,391,Penetapan Hak dan Pendaftaran
+BRG-0114,Barang Contoh Ke-114,281,Pengendalian dan Penanganan Sengketa
+BRG-0115,Barang Contoh Ke-115,84,Penetapan Hak dan Pendaftaran
+BRG-0116,Barang Contoh Ke-116,211,Survei dan Pemetaan
+BRG-0117,Barang Contoh Ke-117,199,Pengendalian dan Penanganan Sengketa
+BRG-0118,Barang Contoh Ke-118,252,Pengadaan Tanah dan Pengembangan
+BRG-0119,Barang Contoh Ke-119,280,Survei dan Pemetaan
+BRG-0120,Barang Contoh Ke-120,20,Tata Usaha
+BRG-0121,Barang Contoh Ke-121,16,Pengadaan Tanah dan Pengembangan
+BRG-0122,Barang Contoh Ke-122,170,Penetapan Hak dan Pendaftaran
+BRG-0123,Barang Contoh Ke-123,236,Pengadaan Tanah dan Pengembangan
+BRG-0124,Barang Contoh Ke-124,253,Penataan dan Pemberdayaan
+BRG-0125,Barang Contoh Ke-125,121,Tata Usaha
+BRG-0126,Barang Contoh Ke-126,206,Survei dan Pemetaan
+BRG-0127,Barang Contoh Ke-127,352,Pengadaan Tanah dan Pengembangan
+BRG-0128,Barang Contoh Ke-128,168,Pengendalian dan Penanganan Sengketa
+BRG-0129,Barang Contoh Ke-129,146,Penetapan Hak dan Pendaftaran
+BRG-0130,Barang Contoh Ke-130,58,Penataan dan Pemberdayaan
+BRG-0131,Barang Contoh Ke-131,345,Survei dan Pemetaan
+BRG-0132,Barang Contoh Ke-132,171,Survei dan Pemetaan
+BRG-0133,Barang Contoh Ke-133,21,Penetapan Hak dan Pendaftaran
+BRG-0134,Barang Contoh Ke-134,39,Tata Usaha
+BRG-0135,Barang Contoh Ke-135,184,Survei dan Pemetaan
+BRG-0136,Barang Contoh Ke-136,246,Pengendalian dan Penanganan Sengketa
+BRG-0137,Barang Contoh Ke-137,328,Survei dan Pemetaan
+BRG-0138,Barang Contoh Ke-138,356,Survei dan Pemetaan
+BRG-0139,Barang Contoh Ke-139,113,Penataan dan Pemberdayaan
+BRG-0140,Barang Contoh Ke-140,324,Penetapan Hak dan Pendaftaran
+BRG-0141,Barang Contoh Ke-141,87,Pengadaan Tanah dan Pengembangan
+BRG-0142,Barang Contoh Ke-142,92,Tata Usaha
+BRG-0143,Barang Contoh Ke-143,24,Pengadaan Tanah dan Pengembangan
+BRG-0144,Barang Contoh Ke-144,77,Pengadaan Tanah dan Pengembangan
+BRG-0145,Barang Contoh Ke-145,455,Tata Usaha
+BRG-0146,Barang Contoh Ke-146,241,Penetapan Hak dan Pendaftaran
+BRG-0147,Barang Contoh Ke-147,350,Survei dan Pemetaan
+BRG-0148,Barang Contoh Ke-148,489,Penetapan Hak dan Pendaftaran
+BRG-0149,Barang Contoh Ke-149,239,Tata Usaha
+BRG-0150,Barang Contoh Ke-150,390,Pengendalian dan Penanganan Sengketa
+BRG-0151,Barang Contoh Ke-151,141,Pengendalian dan Penanganan Sengketa
+BRG-0152,Barang Contoh Ke-152,419,Penataan dan Pemberdayaan
+BRG-0153,Barang Contoh Ke-153,115,Survei dan Pemetaan
+BRG-0154,Barang Contoh Ke-154,480,Penataan dan Pemberdayaan
+BRG-0155,Barang Contoh Ke-155,41,Tata Usaha
+BRG-0156,Barang Contoh Ke-156,326,Survei dan Pemetaan
+BRG-0157,Barang Contoh Ke-157,158,Survei dan Pemetaan
+BRG-0158,Barang Contoh Ke-158,349,Tata Usaha
+BRG-0159,Barang Contoh Ke-159,195,Penetapan Hak dan Pendaftaran
+BRG-0160,Barang Contoh Ke-160,23,Penetapan Hak dan Pendaftaran
+BRG-0161,Barang Contoh Ke-161,46,Penataan dan Pemberdayaan
+BRG-0162,Barang Contoh Ke-162,451,Tata Usaha
+BRG-0163,Barang Contoh Ke-163,457,Penataan dan Pemberdayaan
+BRG-0164,Barang Contoh Ke-164,76,Survei dan Pemetaan
+BRG-0165,Barang Contoh Ke-165,310,Penataan dan Pemberdayaan
+BRG-0166,Barang Contoh Ke-166,427,Tata Usaha
+BRG-0167,Barang Contoh Ke-167,354,Survei dan Pemetaan
+BRG-0168,Barang Contoh Ke-168,169,Pengadaan Tanah dan Pengembangan
+BRG-0169,Barang Contoh Ke-169,314,Tata Usaha
+BRG-0170,Barang Contoh Ke-170,210,Penataan dan Pemberdayaan
+BRG-0171,Barang Contoh Ke-171,449,Penetapan Hak dan Pendaftaran
+BRG-0172,Barang Contoh Ke-172,148,Tata Usaha
+BRG-0173,Barang Contoh Ke-173,400,Penataan dan Pemberdayaan
+BRG-0174,Barang Contoh Ke-174,29,Pengendalian dan Penanganan Sengketa
+BRG-0175,Barang Contoh Ke-175,497,Tata Usaha
+BRG-0176,Barang Contoh Ke-176,454,Penataan dan Pemberdayaan
+BRG-0177,Barang Contoh Ke-177,19,Tata Usaha
+BRG-0178,Barang Contoh Ke-178,232,Tata Usaha
+BRG-0179,Barang Contoh Ke-179,268,Penataan dan Pemberdayaan
+BRG-0180,Barang Contoh Ke-180,42,Penetapan Hak dan Pendaftaran
+BRG-0181,Barang Contoh Ke-181,57,Penataan dan Pemberdayaan
+BRG-0182,Barang Contoh Ke-182,452,Tata Usaha
+BRG-0183,Barang Contoh Ke-183,46,Pengadaan Tanah dan Pengembangan
+BRG-0184,Barang Contoh Ke-184,141,Survei dan Pemetaan
+BRG-0185,Barang Contoh Ke-185,150,Pengendalian dan Penanganan Sengketa
+BRG-0186,Barang Contoh Ke-186,485,Pengendalian dan Penanganan Sengketa
+BRG-0187,Barang Contoh Ke-187,345,Pengendalian dan Penanganan Sengketa
+BRG-0188,Barang Contoh Ke-188,325,Penetapan Hak dan Pendaftaran
+BRG-0189,Barang Contoh Ke-189,460,Tata Usaha
+BRG-0190,Barang Contoh Ke-190,141,Penataan dan Pemberdayaan
+BRG-0191,Barang Contoh Ke-191,133,Penetapan Hak dan Pendaftaran
+BRG-0192,Barang Contoh Ke-192,330,Penetapan Hak dan Pendaftaran
+BRG-0193,Barang Contoh Ke-193,484,Pengendalian dan Penanganan Sengketa
+BRG-0194,Barang Contoh Ke-194,259,Tata Usaha
+BRG-0195,Barang Contoh Ke-195,117,Survei dan Pemetaan
+BRG-0196,Barang Contoh Ke-196,247,Penetapan Hak dan Pendaftaran
+BRG-0197,Barang Contoh Ke-197,145,Survei dan Pemetaan
+BRG-0198,Barang Contoh Ke-198,24,Penataan dan Pemberdayaan
+BRG-0199,Barang Contoh Ke-199,177,Survei dan Pemetaan
+BRG-0200,Barang Contoh Ke-200,134,Tata Usaha
+BRG-0201,Barang Contoh Ke-201,183,Pengadaan Tanah dan Pengembangan
+BRG-0202,Barang Contoh Ke-202,207,Pengadaan Tanah dan Pengembangan
+BRG-0203,Barang Contoh Ke-203,165,Pengadaan Tanah dan Pengembangan
+BRG-0204,Barang Contoh Ke-204,16,Survei dan Pemetaan
+BRG-0205,Barang Contoh Ke-205,11,Penataan dan Pemberdayaan
+BRG-0206,Barang Contoh Ke-206,55,Pengendalian dan Penanganan Sengketa
+BRG-0207,Barang Contoh Ke-207,484,Pengadaan Tanah dan Pengembangan
+BRG-0208,Barang Contoh Ke-208,30,Pengendalian dan Penanganan Sengketa
+BRG-0209,Barang Contoh Ke-209,226,Penetapan Hak dan Pendaftaran
+BRG-0210,Barang Contoh Ke-210,179,Penetapan Hak dan Pendaftaran
+BRG-0211,Barang Contoh Ke-211,261,Penetapan Hak dan Pendaftaran
+BRG-0212,Barang Contoh Ke-212,38,Penataan dan Pemberdayaan
+BRG-0213,Barang Contoh Ke-213,251,Pengadaan Tanah dan Pengembangan
+BRG-0214,Barang Contoh Ke-214,234,Pengendalian dan Penanganan Sengketa
+BRG-0215,Barang Contoh Ke-215,248,Penataan dan Pemberdayaan
+BRG-0216,Barang Contoh Ke-216,476,Survei dan Pemetaan
+BRG-0217,Barang Contoh Ke-217,248,Pengendalian dan Penanganan Sengketa
+BRG-0218,Barang Contoh Ke-218,276,Pengadaan Tanah dan Pengembangan
+BRG-0219,Barang Contoh Ke-219,360,Pengadaan Tanah dan Pengembangan
+BRG-0220,Barang Contoh Ke-220,166,Pengendalian dan Penanganan Sengketa
+BRG-0221,Barang Contoh Ke-221,269,Penataan dan Pemberdayaan
+BRG-0222,Barang Contoh Ke-222,387,Survei dan Pemetaan
+BRG-0223,Barang Contoh Ke-223,358,Survei dan Pemetaan
+BRG-0224,Barang Contoh Ke-224,27,Pengadaan Tanah dan Pengembangan
+BRG-0225,Barang Contoh Ke-225,403,Penataan dan Pemberdayaan
+BRG-0226,Barang Contoh Ke-226,183,Pengendalian dan Penanganan Sengketa
+BRG-0227,Barang Contoh Ke-227,445,Penetapan Hak dan Pendaftaran
+BRG-0228,Barang Contoh Ke-228,436,Penetapan Hak dan Pendaftaran
+BRG-0229,Barang Contoh Ke-229,329,Penataan dan Pemberdayaan
+BRG-0230,Barang Contoh Ke-230,163,Penataan dan Pemberdayaan
+BRG-0231,Barang Contoh Ke-231,79,Pengadaan Tanah dan Pengembangan
+BRG-0232,Barang Contoh Ke-232,105,Tata Usaha
+BRG-0233,Barang Contoh Ke-233,290,Tata Usaha
+BRG-0234,Barang Contoh Ke-234,251,Penataan dan Pemberdayaan
+BRG-0235,Barang Contoh Ke-235,321,Tata Usaha
+BRG-0236,Barang Contoh Ke-236,202,Pengendalian dan Penanganan Sengketa
+BRG-0237,Barang Contoh Ke-237,481,Pengadaan Tanah dan Pengembangan
+BRG-0238,Barang Contoh Ke-238,36,Survei dan Pemetaan
+BRG-0239,Barang Contoh Ke-239,26,Survei dan Pemetaan
+BRG-0240,Barang Contoh Ke-240,402,Pengendalian dan Penanganan Sengketa
+BRG-0241,Barang Contoh Ke-241,176,Penataan dan Pemberdayaan
+BRG-0242,Barang Contoh Ke-242,103,Survei dan Pemetaan
+BRG-0243,Barang Contoh Ke-243,289,Tata Usaha
+BRG-0244,Barang Contoh Ke-244,418,Penataan dan Pemberdayaan
+BRG-0245,Barang Contoh Ke-245,129,Pengadaan Tanah dan Pengembangan
+BRG-0246,Barang Contoh Ke-246,347,Tata Usaha
+BRG-0247,Barang Contoh Ke-247,232,Pengadaan Tanah dan Pengembangan
+BRG-0248,Barang Contoh Ke-248,216,Penataan dan Pemberdayaan
+BRG-0249,Barang Contoh Ke-249,306,Penetapan Hak dan Pendaftaran
+BRG-0250,Barang Contoh Ke-250,389,Pengadaan Tanah dan Pengembangan
+BRG-0251,Barang Contoh Ke-251,472,Penataan dan Pemberdayaan
+BRG-0252,Barang Contoh Ke-252,476,Pengadaan Tanah dan Pengembangan
+BRG-0253,Barang Contoh Ke-253,122,Survei dan Pemetaan
+BRG-0254,Barang Contoh Ke-254,293,Pengendalian dan Penanganan Sengketa
+BRG-0255,Barang Contoh Ke-255,214,Penataan dan Pemberdayaan
+BRG-0256,Barang Contoh Ke-256,135,Penataan dan Pemberdayaan
+BRG-0257,Barang Contoh Ke-257,471,Penataan dan Pemberdayaan
+BRG-0258,Barang Contoh Ke-258,370,Penataan dan Pemberdayaan
+BRG-0259,Barang Contoh Ke-259,469,Survei dan Pemetaan
+BRG-0260,Barang Contoh Ke-260,342,Pengendalian dan Penanganan Sengketa
+BRG-0261,Barang Contoh Ke-261,331,Survei dan Pemetaan
+BRG-0262,Barang Contoh Ke-262,90,Penataan dan Pemberdayaan
+BRG-0263,Barang Contoh Ke-263,384,Penetapan Hak dan Pendaftaran
+BRG-0264,Barang Contoh Ke-264,52,Pengendalian dan Penanganan Sengketa
+BRG-0265,Barang Contoh Ke-265,418,Survei dan Pemetaan
+BRG-0266,Barang Contoh Ke-266,189,Pengadaan Tanah dan Pengembangan
+BRG-0267,Barang Contoh Ke-267,273,Penataan dan Pemberdayaan
+BRG-0268,Barang Contoh Ke-268,455,Penetapan Hak dan Pendaftaran
+BRG-0269,Barang Contoh Ke-269,215,Tata Usaha
+BRG-0270,Barang Contoh Ke-270,375,Survei dan Pemetaan
+BRG-0271,Barang Contoh Ke-271,363,Penataan dan Pemberdayaan
+BRG-0272,Barang Contoh Ke-272,53,Pengendalian dan Penanganan Sengketa
+BRG-0273,Barang Contoh Ke-273,447,Survei dan Pemetaan
+BRG-0274,Barang Contoh Ke-274,75,Tata Usaha
+BRG-0275,Barang Contoh Ke-275,40,Pengadaan Tanah dan Pengembangan
+BRG-0276,Barang Contoh Ke-276,221,Pengendalian dan Penanganan Sengketa
+BRG-0277,Barang Contoh Ke-277,242,Pengadaan Tanah dan Pengembangan
+BRG-0278,Barang Contoh Ke-278,369,Survei dan Pemetaan
+BRG-0279,Barang Contoh Ke-279,169,Pengendalian dan Penanganan Sengketa
+BRG-0280,Barang Contoh Ke-280,63,Pengendalian dan Penanganan Sengketa
+BRG-0281,Barang Contoh Ke-281,316,Penataan dan Pemberdayaan
+BRG-0282,Barang Contoh Ke-282,192,Tata Usaha
+BRG-0283,Barang Contoh Ke-283,20,Survei dan Pemetaan
+BRG-0284,Barang Contoh Ke-284,458,Pengendalian dan Penanganan Sengketa
+BRG-0285,Barang Contoh Ke-285,376,Pengadaan Tanah dan Pengembangan
+BRG-0286,Barang Contoh Ke-286,379,Pengendalian dan Penanganan Sengketa
+BRG-0287,Barang Contoh Ke-287,212,Tata Usaha
+BRG-0288,Barang Contoh Ke-288,455,Penataan dan Pemberdayaan
+BRG-0289,Barang Contoh Ke-289,180,Penetapan Hak dan Pendaftaran
+BRG-0290,Barang Contoh Ke-290,373,Penataan dan Pemberdayaan
+BRG-0291,Barang Contoh Ke-291,224,Penataan dan Pemberdayaan
+BRG-0292,Barang Contoh Ke-292,465,Tata Usaha
+BRG-0293,Barang Contoh Ke-293,225,Tata Usaha
+BRG-0294,Barang Contoh Ke-294,15,Penataan dan Pemberdayaan
+BRG-0295,Barang Contoh Ke-295,496,Penetapan Hak dan Pendaftaran
+BRG-0296,Barang Contoh Ke-296,307,Pengendalian dan Penanganan Sengketa
+BRG-0297,Barang Contoh Ke-297,414,Pengadaan Tanah dan Pengembangan
+BRG-0298,Barang Contoh Ke-298,492,Pengadaan Tanah dan Pengembangan
+BRG-0299,Barang Contoh Ke-299,292,Penataan dan Pemberdayaan
+BRG-0300,Barang Contoh Ke-300,282,Pengadaan Tanah dan Pengembangan
+BRG-0301,Barang Contoh Ke-301,428,Survei dan Pemetaan
+BRG-0302,Barang Contoh Ke-302,105,Penetapan Hak dan Pendaftaran
+BRG-0303,Barang Contoh Ke-303,123,Pengadaan Tanah dan Pengembangan
+BRG-0304,Barang Contoh Ke-304,491,Pengendalian dan Penanganan Sengketa
+BRG-0305,Barang Contoh Ke-305,236,Pengadaan Tanah dan Pengembangan
+BRG-0306,Barang Contoh Ke-306,158,Pengadaan Tanah dan Pengembangan
+BRG-0307,Barang Contoh Ke-307,292,Survei dan Pemetaan
+BRG-0308,Barang Contoh Ke-308,27,Penataan dan Pemberdayaan
+BRG-0309,Barang Contoh Ke-309,205,Pengadaan Tanah dan Pengembangan
+BRG-0310,Barang Contoh Ke-310,326,Penetapan Hak dan Pendaftaran
+BRG-0311,Barang Contoh Ke-311,158,Pengadaan Tanah dan Pengembangan
+BRG-0312,Barang Contoh Ke-312,57,Penataan dan Pemberdayaan
+BRG-0313,Barang Contoh Ke-313,495,Survei dan Pemetaan
+BRG-0314,Barang Contoh Ke-314,397,Survei dan Pemetaan
+BRG-0315,Barang Contoh Ke-315,412,Tata Usaha
+BRG-0316,Barang Contoh Ke-316,129,Penetapan Hak dan Pendaftaran
+BRG-0317,Barang Contoh Ke-317,50,Survei dan Pemetaan
+BRG-0318,Barang Contoh Ke-318,60,Tata Usaha
+BRG-0319,Barang Contoh Ke-319,37,Penataan dan Pemberdayaan
+BRG-0320,Barang Contoh Ke-320,239,Penetapan Hak dan Pendaftaran
+BRG-0321,Barang Contoh Ke-321,61,Tata Usaha
+BRG-0322,Barang Contoh Ke-322,347,Penataan dan Pemberdayaan
+BRG-0323,Barang Contoh Ke-323,94,Penataan dan Pemberdayaan
+BRG-0324,Barang Contoh Ke-324,249,Tata Usaha
+BRG-0325,Barang Contoh Ke-325,280,Pengadaan Tanah dan Pengembangan
+BRG-0326,Barang Contoh Ke-326,302,Pengadaan Tanah dan Pengembangan
+BRG-0327,Barang Contoh Ke-327,259,Survei dan Pemetaan
+BRG-0328,Barang Contoh Ke-328,427,Survei dan Pemetaan
+BRG-0329,Barang Contoh Ke-329,107,Pengendalian dan Penanganan Sengketa
+BRG-0330,Barang Contoh Ke-330,496,Pengadaan Tanah dan Pengembangan
+BRG-0331,Barang Contoh Ke-331,470,Penetapan Hak dan Pendaftaran
+BRG-0332,Barang Contoh Ke-332,244,Penetapan Hak dan Pendaftaran
+BRG-0333,Barang Contoh Ke-333,260,Pengendalian dan Penanganan Sengketa
+BRG-0334,Barang Contoh Ke-334,411,Penataan dan Pemberdayaan
+BRG-0335,Barang Contoh Ke-335,436,Pengadaan Tanah dan Pengembangan
+BRG-0336,Barang Contoh Ke-336,77,Pengendalian dan Penanganan Sengketa
+BRG-0337,Barang Contoh Ke-337,388,Pengadaan Tanah dan Pengembangan
+BRG-0338,Barang Contoh Ke-338,167,Survei dan Pemetaan
+BRG-0339,Barang Contoh Ke-339,363,Pengadaan Tanah dan Pengembangan
+BRG-0340,Barang Contoh Ke-340,385,Pengendalian dan Penanganan Sengketa
+BRG-0341,Barang Contoh Ke-341,90,Penetapan Hak dan Pendaftaran
+BRG-0342,Barang Contoh Ke-342,21,Penataan dan Pemberdayaan
+BRG-0343,Barang Contoh Ke-343,389,Penataan dan Pemberdayaan
+BRG-0344,Barang Contoh Ke-344,389,Penetapan Hak dan Pendaftaran
+BRG-0345,Barang Contoh Ke-345,214,Penetapan Hak dan Pendaftaran
+BRG-0346,Barang Contoh Ke-346,258,Pengadaan Tanah dan Pengembangan
+BRG-0347,Barang Contoh Ke-347,191,Survei dan Pemetaan
+BRG-0348,Barang Contoh Ke-348,368,Penataan dan Pemberdayaan
+BRG-0349,Barang Contoh Ke-349,438,Penetapan Hak dan Pendaftaran
+BRG-0350,Barang Contoh Ke-350,114,Tata Usaha
+BRG-0351,Barang Contoh Ke-351,21,Survei dan Pemetaan
+BRG-0352,Barang Contoh Ke-352,38,Penataan dan Pemberdayaan
+BRG-0353,Barang Contoh Ke-353,100,Pengendalian dan Penanganan Sengketa
+BRG-0354,Barang Contoh Ke-354,464,Pengadaan Tanah dan Pengembangan
+BRG-0355,Barang Contoh Ke-355,450,Pengadaan Tanah dan Pengembangan
+BRG-0356,Barang Contoh Ke-356,343,Penetapan Hak dan Pendaftaran
+BRG-0357,Barang Contoh Ke-357,284,Penataan dan Pemberdayaan
+BRG-0358,Barang Contoh Ke-358,192,Pengadaan Tanah dan Pengembangan
+BRG-0359,Barang Contoh Ke-359,471,Pengendalian dan Penanganan Sengketa
+BRG-0360,Barang Contoh Ke-360,352,Pengadaan Tanah dan Pengembangan
+BRG-0361,Barang Contoh Ke-361,316,Penetapan Hak dan Pendaftaran
+BRG-0362,Barang Contoh Ke-362,444,Tata Usaha
+BRG-0363,Barang Contoh Ke-363,100,Survei dan Pemetaan
+BRG-0364,Barang Contoh Ke-364,365,Penataan dan Pemberdayaan
+BRG-0365,Barang Contoh Ke-365,419,Survei dan Pemetaan
+BRG-0366,Barang Contoh Ke-366,343,Tata Usaha
+BRG-0367,Barang Contoh Ke-367,341,Penataan dan Pemberdayaan
+BRG-0368,Barang Contoh Ke-368,221,Survei dan Pemetaan
+BRG-0369,Barang Contoh Ke-369,158,Pengadaan Tanah dan Pengembangan
+BRG-0370,Barang Contoh Ke-370,194,Pengendalian dan Penanganan Sengketa
+BRG-0371,Barang Contoh Ke-371,166,Penetapan Hak dan Pendaftaran
+BRG-0372,Barang Contoh Ke-372,144,Survei dan Pemetaan
+BRG-0373,Barang Contoh Ke-373,300,Penataan dan Pemberdayaan
+BRG-0374,Barang Contoh Ke-374,316,Survei dan Pemetaan
+BRG-0375,Barang Contoh Ke-375,386,Pengadaan Tanah dan Pengembangan
+BRG-0376,Barang Contoh Ke-376,431,Survei dan Pemetaan
+BRG-0377,Barang Contoh Ke-377,139,Penetapan Hak dan Pendaftaran
+BRG-0378,Barang Contoh Ke-378,18,Pengendalian dan Penanganan Sengketa
+BRG-0379,Barang Contoh Ke-379,216,Penetapan Hak dan Pendaftaran
+BRG-0380,Barang Contoh Ke-380,436,Pengadaan Tanah dan Pengembangan
+BRG-0381,Barang Contoh Ke-381,332,Survei dan Pemetaan
+BRG-0382,Barang Contoh Ke-382,14,Pengendalian dan Penanganan Sengketa
+BRG-0383,Barang Contoh Ke-383,161,Pengadaan Tanah dan Pengembangan
+BRG-0384,Barang Contoh Ke-384,324,Pengendalian dan Penanganan Sengketa
+BRG-0385,Barang Contoh Ke-385,328,Penataan dan Pemberdayaan
+BRG-0386,Barang Contoh Ke-386,182,Pengendalian dan Penanganan Sengketa
+BRG-0387,Barang Contoh Ke-387,59,Survei dan Pemetaan
+BRG-0388,Barang Contoh Ke-388,111,Pengadaan Tanah dan Pengembangan
+BRG-0389,Barang Contoh Ke-389,76,Pengendalian dan Penanganan Sengketa
+BRG-0390,Barang Contoh Ke-390,228,Penataan dan Pemberdayaan
+BRG-0391,Barang Contoh Ke-391,424,Survei dan Pemetaan
+BRG-0392,Barang Contoh Ke-392,484,Tata Usaha
+BRG-0393,Barang Contoh Ke-393,148,Tata Usaha
+BRG-0394,Barang Contoh Ke-394,371,Survei dan Pemetaan
+BRG-0395,Barang Contoh Ke-395,368,Survei dan Pemetaan
+BRG-0396,Barang Contoh Ke-396,333,Pengendalian dan Penanganan Sengketa
+BRG-0397,Barang Contoh Ke-397,27,Penetapan Hak dan Pendaftaran
+BRG-0398,Barang Contoh Ke-398,43,Penataan dan Pemberdayaan
+BRG-0399,Barang Contoh Ke-399,288,Penetapan Hak dan Pendaftaran
+BRG-0400,Barang Contoh Ke-400,290,Pengadaan Tanah dan Pengembangan
+BRG-0401,Barang Contoh Ke-401,77,Penetapan Hak dan Pendaftaran
+BRG-0402,Barang Contoh Ke-402,267,Penetapan Hak dan Pendaftaran
+BRG-0403,Barang Contoh Ke-403,441,Penataan dan Pemberdayaan
+BRG-0404,Barang Contoh Ke-404,268,Survei dan Pemetaan
+BRG-0405,Barang Contoh Ke-405,464,Pengadaan Tanah dan Pengembangan
+BRG-0406,Barang Contoh Ke-406,137,Pengendalian dan Penanganan Sengketa
+BRG-0407,Barang Contoh Ke-407,485,Survei dan Pemetaan
+BRG-0408,Barang Contoh Ke-408,102,Pengadaan Tanah dan Pengembangan
+BRG-0409,Barang Contoh Ke-409,278,Penetapan Hak dan Pendaftaran
+BRG-0410,Barang Contoh Ke-410,219,Pengadaan Tanah dan Pengembangan
+BRG-0411,Barang Contoh Ke-411,268,Penataan dan Pemberdayaan
+BRG-0412,Barang Contoh Ke-412,169,Pengendalian dan Penanganan Sengketa
+BRG-0413,Barang Contoh Ke-413,363,Penetapan Hak dan Pendaftaran
+BRG-0414,Barang Contoh Ke-414,294,Survei dan Pemetaan
+BRG-0415,Barang Contoh Ke-415,99,Pengendalian dan Penanganan Sengketa
+BRG-0416,Barang Contoh Ke-416,490,Survei dan Pemetaan
+BRG-0417,Barang Contoh Ke-417,406,Penataan dan Pemberdayaan
+BRG-0418,Barang Contoh Ke-418,471,Penataan dan Pemberdayaan
+BRG-0419,Barang Contoh Ke-419,485,Tata Usaha
+BRG-0420,Barang Contoh Ke-420,87,Survei dan Pemetaan
+BRG-0421,Barang Contoh Ke-421,407,Tata Usaha
+BRG-0422,Barang Contoh Ke-422,205,Pengadaan Tanah dan Pengembangan
+BRG-0423,Barang Contoh Ke-423,483,Pengendalian dan Penanganan Sengketa
+BRG-0424,Barang Contoh Ke-424,362,Tata Usaha
+BRG-0425,Barang Contoh Ke-425,64,Penataan dan Pemberdayaan
+BRG-0426,Barang Contoh Ke-426,354,Survei dan Pemetaan
+BRG-0427,Barang Contoh Ke-427,429,Penataan dan Pemberdayaan
+BRG-0428,Barang Contoh Ke-428,418,Tata Usaha
+BRG-0429,Barang Contoh Ke-429,46,Pengendalian dan Penanganan Sengketa
+BRG-0430,Barang Contoh Ke-430,479,Survei dan Pemetaan
+BRG-0431,Barang Contoh Ke-431,24,Tata Usaha
+BRG-0432,Barang Contoh Ke-432,46,Survei dan Pemetaan
+BRG-0433,Barang Contoh Ke-433,464,Pengadaan Tanah dan Pengembangan
+BRG-0434,Barang Contoh Ke-434,122,Penetapan Hak dan Pendaftaran
+BRG-0435,Barang Contoh Ke-435,20,Penataan dan Pemberdayaan
+BRG-0436,Barang Contoh Ke-436,79,Penetapan Hak dan Pendaftaran
+BRG-0437,Barang Contoh Ke-437,291,Tata Usaha
+BRG-0438,Barang Contoh Ke-438,304,Pengendalian dan Penanganan Sengketa
+BRG-0439,Barang Contoh Ke-439,17,Penataan dan Pemberdayaan
+BRG-0440,Barang Contoh Ke-440,301,Pengendalian dan Penanganan Sengketa
+BRG-0441,Barang Contoh Ke-441,123,Pengendalian dan Penanganan Sengketa
+BRG-0442,Barang Contoh Ke-442,335,Pengadaan Tanah dan Pengembangan
+BRG-0443,Barang Contoh Ke-443,323,Survei dan Pemetaan
+BRG-0444,Barang Contoh Ke-444,216,Survei dan Pemetaan
+BRG-0445,Barang Contoh Ke-445,206,Survei dan Pemetaan
+BRG-0446,Barang Contoh Ke-446,207,Survei dan Pemetaan
+BRG-0447,Barang Contoh Ke-447,84,Penetapan Hak dan Pendaftaran
+BRG-0448,Barang Contoh Ke-448,305,Pengadaan Tanah dan Pengembangan
+BRG-0449,Barang Contoh Ke-449,458,Tata Usaha
+BRG-0450,Barang Contoh Ke-450,174,Pengendalian dan Penanganan Sengketa
+BRG-0451,Barang Contoh Ke-451,136,Tata Usaha
+BRG-0452,Barang Contoh Ke-452,130,Tata Usaha
+BRG-0453,Barang Contoh Ke-453,95,Pengadaan Tanah dan Pengembangan
+BRG-0454,Barang Contoh Ke-454,70,Penetapan Hak dan Pendaftaran
+BRG-0455,Barang Contoh Ke-455,20,Penataan dan Pemberdayaan
+BRG-0456,Barang Contoh Ke-456,147,Pengendalian dan Penanganan Sengketa
+BRG-0457,Barang Contoh Ke-457,81,Penetapan Hak dan Pendaftaran
+BRG-0458,Barang Contoh Ke-458,477,Pengendalian dan Penanganan Sengketa
+BRG-0459,Barang Contoh Ke-459,167,Tata Usaha
+BRG-0460,Barang Contoh Ke-460,310,Penataan dan Pemberdayaan
+BRG-0461,Barang Contoh Ke-461,80,Survei dan Pemetaan
+BRG-0462,Barang Contoh Ke-462,68,Penataan dan Pemberdayaan
+BRG-0463,Barang Contoh Ke-463,238,Penataan dan Pemberdayaan
+BRG-0464,Barang Contoh Ke-464,28,Pengendalian dan Penanganan Sengketa
+BRG-0465,Barang Contoh Ke-465,275,Survei dan Pemetaan
+BRG-0466,Barang Contoh Ke-466,458,Penataan dan Pemberdayaan
+BRG-0467,Barang Contoh Ke-467,13,Pengadaan Tanah dan Pengembangan
+BRG-0468,Barang Contoh Ke-468,341,Penetapan Hak dan Pendaftaran
+BRG-0469,Barang Contoh Ke-469,187,Penetapan Hak dan Pendaftaran
+BRG-0470,Barang Contoh Ke-470,41,Penataan dan Pemberdayaan
+BRG-0471,Barang Contoh Ke-471,111,Survei dan Pemetaan
+BRG-0472,Barang Contoh Ke-472,379,Tata Usaha
+BRG-0473,Barang Contoh Ke-473,206,Survei dan Pemetaan
+BRG-0474,Barang Contoh Ke-474,260,Survei dan Pemetaan
+BRG-0475,Barang Contoh Ke-475,216,Penataan dan Pemberdayaan
+BRG-0476,Barang Contoh Ke-476,188,Penetapan Hak dan Pendaftaran
+BRG-0477,Barang Contoh Ke-477,214,Tata Usaha
+BRG-0478,Barang Contoh Ke-478,484,Penataan dan Pemberdayaan
+BRG-0479,Barang Contoh Ke-479,347,Penetapan Hak dan Pendaftaran
+BRG-0480,Barang Contoh Ke-480,498,Pengadaan Tanah dan Pengembangan
+BRG-0481,Barang Contoh Ke-481,281,Tata Usaha
+BRG-0482,Barang Contoh Ke-482,212,Survei dan Pemetaan
+BRG-0483,Barang Contoh Ke-483,428,Penataan dan Pemberdayaan
+BRG-0484,Barang Contoh Ke-484,60,Pengendalian dan Penanganan Sengketa
+BRG-0485,Barang Contoh Ke-485,104,Pengadaan Tanah dan Pengembangan
+BRG-0486,Barang Contoh Ke-486,119,Tata Usaha
+BRG-0487,Barang Contoh Ke-487,440,Penataan dan Pemberdayaan
+BRG-0488,Barang Contoh Ke-488,371,Tata Usaha
+BRG-0489,Barang Contoh Ke-489,466,Pengadaan Tanah dan Pengembangan
+BRG-0490,Barang Contoh Ke-490,298,Penetapan Hak dan Pendaftaran
+BRG-0491,Barang Contoh Ke-491,11,Pengadaan Tanah dan Pengembangan
+BRG-0492,Barang Contoh Ke-492,208,Pengadaan Tanah dan Pengembangan
+BRG-0493,Barang Contoh Ke-493,454,Penataan dan Pemberdayaan
+BRG-0494,Barang Contoh Ke-494,171,Penataan dan Pemberdayaan
+BRG-0495,Barang Contoh Ke-495,270,Survei dan Pemetaan
+BRG-0496,Barang Contoh Ke-496,330,Pengadaan Tanah dan Pengembangan
+BRG-0497,Barang Contoh Ke-497,295,Pengadaan Tanah dan Pengembangan
+BRG-0498,Barang Contoh Ke-498,140,Pengendalian dan Penanganan Sengketa
+BRG-0499,Barang Contoh Ke-499,291,Tata Usaha
+BRG-0500,Barang Contoh Ke-500,325,Penataan dan Pemberdayaan
+BRG-0501,Barang Contoh Ke-501,218,Tata Usaha
+BRG-0502,Barang Contoh Ke-502,97,Pengadaan Tanah dan Pengembangan
+BRG-0503,Barang Contoh Ke-503,328,Penetapan Hak dan Pendaftaran
+BRG-0504,Barang Contoh Ke-504,351,Penetapan Hak dan Pendaftaran
+BRG-0505,Barang Contoh Ke-505,50,Penetapan Hak dan Pendaftaran
+BRG-0506,Barang Contoh Ke-506,49,Penetapan Hak dan Pendaftaran
+BRG-0507,Barang Contoh Ke-507,472,Penetapan Hak dan Pendaftaran
+BRG-0508,Barang Contoh Ke-508,24,Penetapan Hak dan Pendaftaran
+BRG-0509,Barang Contoh Ke-509,183,Pengadaan Tanah dan Pengembangan
+BRG-0510,Barang Contoh Ke-510,183,Tata Usaha
+BRG-0511,Barang Contoh Ke-511,128,Survei dan Pemetaan
+BRG-0512,Barang Contoh Ke-512,165,Survei dan Pemetaan
+BRG-0513,Barang Contoh Ke-513,73,Survei dan Pemetaan
+BRG-0514,Barang Contoh Ke-514,379,Survei dan Pemetaan
+BRG-0515,Barang Contoh Ke-515,469,Penetapan Hak dan Pendaftaran
+BRG-0516,Barang Contoh Ke-516,29,Pengendalian dan Penanganan Sengketa
+BRG-0517,Barang Contoh Ke-517,436,Tata Usaha
+BRG-0518,Barang Contoh Ke-518,138,Survei dan Pemetaan
+BRG-0519,Barang Contoh Ke-519,33,Pengendalian dan Penanganan Sengketa
+BRG-0520,Barang Contoh Ke-520,114,Pengadaan Tanah dan Pengembangan
+BRG-0521,Barang Contoh Ke-521,291,Pengendalian dan Penanganan Sengketa
+BRG-0522,Barang Contoh Ke-522,499,Penetapan Hak dan Pendaftaran
+BRG-0523,Barang Contoh Ke-523,40,Pengendalian dan Penanganan Sengketa
+BRG-0524,Barang Contoh Ke-524,45,Tata Usaha
+BRG-0525,Barang Contoh Ke-525,43,Penetapan Hak dan Pendaftaran
+BRG-0526,Barang Contoh Ke-526,490,Tata Usaha
+BRG-0527,Barang Contoh Ke-527,141,Pengadaan Tanah dan Pengembangan
+BRG-0528,Barang Contoh Ke-528,84,Pengadaan Tanah dan Pengembangan
+BRG-0529,Barang Contoh Ke-529,259,Pengendalian dan Penanganan Sengketa
+BRG-0530,Barang Contoh Ke-530,250,Tata Usaha
+BRG-0531,Barang Contoh Ke-531,117,Penetapan Hak dan Pendaftaran
+BRG-0532,Barang Contoh Ke-532,85,Pengadaan Tanah dan Pengembangan
+BRG-0533,Barang Contoh Ke-533,250,Penetapan Hak dan Pendaftaran
+BRG-0534,Barang Contoh Ke-534,50,Tata Usaha
+BRG-0535,Barang Contoh Ke-535,22,Penataan dan Pemberdayaan
+BRG-0536,Barang Contoh Ke-536,398,Pengendalian dan Penanganan Sengketa
+BRG-0537,Barang Contoh Ke-537,38,Tata Usaha
+BRG-0538,Barang Contoh Ke-538,183,Penetapan Hak dan Pendaftaran
+BRG-0539,Barang Contoh Ke-539,136,Tata Usaha
+BRG-0540,Barang Contoh Ke-540,213,Tata Usaha
+BRG-0541,Barang Contoh Ke-541,337,Tata Usaha
+BRG-0542,Barang Contoh Ke-542,478,Pengadaan Tanah dan Pengembangan
+BRG-0543,Barang Contoh Ke-543,435,Pengadaan Tanah dan Pengembangan
+BRG-0544,Barang Contoh Ke-544,172,Pengendalian dan Penanganan Sengketa
+BRG-0545,Barang Contoh Ke-545,231,Penataan dan Pemberdayaan
+BRG-0546,Barang Contoh Ke-546,58,Penetapan Hak dan Pendaftaran
+BRG-0547,Barang Contoh Ke-547,10,Pengadaan Tanah dan Pengembangan
+BRG-0548,Barang Contoh Ke-548,14,Penetapan Hak dan Pendaftaran
+BRG-0549,Barang Contoh Ke-549,317,Pengadaan Tanah dan Pengembangan
+BRG-0550,Barang Contoh Ke-550,303,Survei dan Pemetaan
+BRG-0551,Barang Contoh Ke-551,164,Tata Usaha
+BRG-0552,Barang Contoh Ke-552,152,Survei dan Pemetaan
+BRG-0553,Barang Contoh Ke-553,393,Tata Usaha
+BRG-0554,Barang Contoh Ke-554,246,Pengendalian dan Penanganan Sengketa
+BRG-0555,Barang Contoh Ke-555,414,Penetapan Hak dan Pendaftaran
+BRG-0556,Barang Contoh Ke-556,383,Pengadaan Tanah dan Pengembangan
+BRG-0557,Barang Contoh Ke-557,250,Pengendalian dan Penanganan Sengketa
+BRG-0558,Barang Contoh Ke-558,20,Pengadaan Tanah dan Pengembangan
+BRG-0559,Barang Contoh Ke-559,181,Pengadaan Tanah dan Pengembangan
+BRG-0560,Barang Contoh Ke-560,473,Pengendalian dan Penanganan Sengketa
+BRG-0561,Barang Contoh Ke-561,128,Penataan dan Pemberdayaan
+BRG-0562,Barang Contoh Ke-562,332,Pengendalian dan Penanganan Sengketa
+BRG-0563,Barang Contoh Ke-563,447,Penetapan Hak dan Pendaftaran
+BRG-0564,Barang Contoh Ke-564,180,Pengendalian dan Penanganan Sengketa
+BRG-0565,Barang Contoh Ke-565,33,Penataan dan Pemberdayaan
+BRG-0566,Barang Contoh Ke-566,126,Pengadaan Tanah dan Pengembangan
+BRG-0567,Barang Contoh Ke-567,491,Penetapan Hak dan Pendaftaran
+BRG-0568,Barang Contoh Ke-568,58,Penetapan Hak dan Pendaftaran
+BRG-0569,Barang Contoh Ke-569,279,Tata Usaha
+BRG-0570,Barang Contoh Ke-570,23,Penataan dan Pemberdayaan
+BRG-0571,Barang Contoh Ke-571,200,Pengadaan Tanah dan Pengembangan
+BRG-0572,Barang Contoh Ke-572,366,Tata Usaha
+BRG-0573,Barang Contoh Ke-573,302,Survei dan Pemetaan
+BRG-0574,Barang Contoh Ke-574,208,Pengendalian dan Penanganan Sengketa
+BRG-0575,Barang Contoh Ke-575,45,Penetapan Hak dan Pendaftaran
+BRG-0576,Barang Contoh Ke-576,164,Penetapan Hak dan Pendaftaran
+BRG-0577,Barang Contoh Ke-577,79,Pengadaan Tanah dan Pengembangan
+BRG-0578,Barang Contoh Ke-578,186,Penetapan Hak dan Pendaftaran
+BRG-0579,Barang Contoh Ke-579,342,Penetapan Hak dan Pendaftaran
+BRG-0580,Barang Contoh Ke-580,156,Pengendalian dan Penanganan Sengketa
+BRG-0581,Barang Contoh Ke-581,273,Survei dan Pemetaan
+BRG-0582,Barang Contoh Ke-582,409,Penetapan Hak dan Pendaftaran
+BRG-0583,Barang Contoh Ke-583,28,Pengendalian dan Penanganan Sengketa
+BRG-0584,Barang Contoh Ke-584,22,Pengadaan Tanah dan Pengembangan
+BRG-0585,Barang Contoh Ke-585,354,Pengadaan Tanah dan Pengembangan
+BRG-0586,Barang Contoh Ke-586,487,Penataan dan Pemberdayaan
+BRG-0587,Barang Contoh Ke-587,262,Penetapan Hak dan Pendaftaran
+BRG-0588,Barang Contoh Ke-588,407,Penetapan Hak dan Pendaftaran
+BRG-0589,Barang Contoh Ke-589,427,Pengadaan Tanah dan Pengembangan
+BRG-0590,Barang Contoh Ke-590,397,Penetapan Hak dan Pendaftaran
+BRG-0591,Barang Contoh Ke-591,103,Pengendalian dan Penanganan Sengketa
+BRG-0592,Barang Contoh Ke-592,451,Penetapan Hak dan Pendaftaran
+BRG-0593,Barang Contoh Ke-593,339,Tata Usaha
+BRG-0594,Barang Contoh Ke-594,223,Pengadaan Tanah dan Pengembangan
+BRG-0595,Barang Contoh Ke-595,121,Tata Usaha
+BRG-0596,Barang Contoh Ke-596,79,Pengadaan Tanah dan Pengembangan
+BRG-0597,Barang Contoh Ke-597,104,Penetapan Hak dan Pendaftaran
+BRG-0598,Barang Contoh Ke-598,166,Penetapan Hak dan Pendaftaran
+BRG-0599,Barang Contoh Ke-599,177,Pengendalian dan Penanganan Sengketa
+BRG-0600,Barang Contoh Ke-600,162,Pengendalian dan Penanganan Sengketa
+BRG-0601,Barang Contoh Ke-601,143,Pengendalian dan Penanganan Sengketa
+BRG-0602,Barang Contoh Ke-602,91,Penetapan Hak dan Pendaftaran
+BRG-0603,Barang Contoh Ke-603,274,Penetapan Hak dan Pendaftaran
+BRG-0604,Barang Contoh Ke-604,233,Penetapan Hak dan Pendaftaran
+BRG-0605,Barang Contoh Ke-605,99,Pengadaan Tanah dan Pengembangan
+BRG-0606,Barang Contoh Ke-606,106,Tata Usaha
+BRG-0607,Barang Contoh Ke-607,233,Penataan dan Pemberdayaan
+BRG-0608,Barang Contoh Ke-608,442,Penetapan Hak dan Pendaftaran
+BRG-0609,Barang Contoh Ke-609,287,Tata Usaha
+BRG-0610,Barang Contoh Ke-610,476,Survei dan Pemetaan
+BRG-0611,Barang Contoh Ke-611,275,Pengadaan Tanah dan Pengembangan
+BRG-0612,Barang Contoh Ke-612,317,Pengendalian dan Penanganan Sengketa
+BRG-0613,Barang Contoh Ke-613,402,Pengadaan Tanah dan Pengembangan
+BRG-0614,Barang Contoh Ke-614,229,Pengadaan Tanah dan Pengembangan
+BRG-0615,Barang Contoh Ke-615,419,Pengadaan Tanah dan Pengembangan
+BRG-0616,Barang Contoh Ke-616,383,Survei dan Pemetaan
+BRG-0617,Barang Contoh Ke-617,83,Pengadaan Tanah dan Pengembangan
+BRG-0618,Barang Contoh Ke-618,366,Survei dan Pemetaan
+BRG-0619,Barang Contoh Ke-619,209,Penetapan Hak dan Pendaftaran
+BRG-0620,Barang Contoh Ke-620,149,Pengendalian dan Penanganan Sengketa
+BRG-0621,Barang Contoh Ke-621,131,Tata Usaha
+BRG-0622,Barang Contoh Ke-622,274,Pengendalian dan Penanganan Sengketa
+BRG-0623,Barang Contoh Ke-623,295,Penetapan Hak dan Pendaftaran
+BRG-0624,Barang Contoh Ke-624,399,Penetapan Hak dan Pendaftaran
+BRG-0625,Barang Contoh Ke-625,420,Survei dan Pemetaan
+BRG-0626,Barang Contoh Ke-626,53,Survei dan Pemetaan
+BRG-0627,Barang Contoh Ke-627,402,Penataan dan Pemberdayaan
+BRG-0628,Barang Contoh Ke-628,52,Survei dan Pemetaan
+BRG-0629,Barang Contoh Ke-629,299,Tata Usaha
+BRG-0630,Barang Contoh Ke-630,121,Penataan dan Pemberdayaan
+BRG-0631,Barang Contoh Ke-631,348,Pengadaan Tanah dan Pengembangan
+BRG-0632,Barang Contoh Ke-632,20,Penetapan Hak dan Pendaftaran
+BRG-0633,Barang Contoh Ke-633,309,Pengendalian dan Penanganan Sengketa
+BRG-0634,Barang Contoh Ke-634,301,Penetapan Hak dan Pendaftaran
+BRG-0635,Barang Contoh Ke-635,176,Pengendalian dan Penanganan Sengketa
+BRG-0636,Barang Contoh Ke-636,345,Penataan dan Pemberdayaan
+BRG-0637,Barang Contoh Ke-637,489,Tata Usaha
+BRG-0638,Barang Contoh Ke-638,286,Penetapan Hak dan Pendaftaran
+BRG-0639,Barang Contoh Ke-639,290,Penetapan Hak dan Pendaftaran
+BRG-0640,Barang Contoh Ke-640,225,Tata Usaha
+BRG-0641,Barang Contoh Ke-641,289,Survei dan Pemetaan
+BRG-0642,Barang Contoh Ke-642,41,Pengendalian dan Penanganan Sengketa
+BRG-0643,Barang Contoh Ke-643,443,Penataan dan Pemberdayaan
+BRG-0644,Barang Contoh Ke-644,39,Pengendalian dan Penanganan Sengketa
+BRG-0645,Barang Contoh Ke-645,326,Penataan dan Pemberdayaan
+BRG-0646,Barang Contoh Ke-646,237,Penetapan Hak dan Pendaftaran
+BRG-0647,Barang Contoh Ke-647,15,Penetapan Hak dan Pendaftaran
+BRG-0648,Barang Contoh Ke-648,15,Tata Usaha
+BRG-0649,Barang Contoh Ke-649,454,Penataan dan Pemberdayaan
+BRG-0650,Barang Contoh Ke-650,293,Survei dan Pemetaan
+BRG-0651,Barang Contoh Ke-651,499,Survei dan Pemetaan
+BRG-0652,Barang Contoh Ke-652,264,Survei dan Pemetaan
+BRG-0653,Barang Contoh Ke-653,485,Tata Usaha
+BRG-0654,Barang Contoh Ke-654,78,Tata Usaha
+BRG-0655,Barang Contoh Ke-655,307,Pengendalian dan Penanganan Sengketa
+BRG-0656,Barang Contoh Ke-656,199,Survei dan Pemetaan
+BRG-0657,Barang Contoh Ke-657,303,Survei dan Pemetaan
+BRG-0658,Barang Contoh Ke-658,17,Pengadaan Tanah dan Pengembangan
+BRG-0659,Barang Contoh Ke-659,243,Penetapan Hak dan Pendaftaran
+BRG-0660,Barang Contoh Ke-660,98,Penetapan Hak dan Pendaftaran
+BRG-0661,Barang Contoh Ke-661,96,Tata Usaha
+BRG-0662,Barang Contoh Ke-662,331,Penataan dan Pemberdayaan
+BRG-0663,Barang Contoh Ke-663,441,Penetapan Hak dan Pendaftaran
+BRG-0664,Barang Contoh Ke-664,263,Tata Usaha
+BRG-0665,Barang Contoh Ke-665,336,Pengadaan Tanah dan Pengembangan
+BRG-0666,Barang Contoh Ke-666,394,Pengadaan Tanah dan Pengembangan
+BRG-0667,Barang Contoh Ke-667,232,Penetapan Hak dan Pendaftaran
+BRG-0668,Barang Contoh Ke-668,452,Penetapan Hak dan Pendaftaran
+BRG-0669,Barang Contoh Ke-669,411,Penataan dan Pemberdayaan
+BRG-0670,Barang Contoh Ke-670,352,Penetapan Hak dan Pendaftaran
+BRG-0671,Barang Contoh Ke-671,78,Pengendalian dan Penanganan Sengketa
+BRG-0672,Barang Contoh Ke-672,268,Penataan dan Pemberdayaan
+BRG-0673,Barang Contoh Ke-673,118,Survei dan Pemetaan
+BRG-0674,Barang Contoh Ke-674,240,Pengendalian dan Penanganan Sengketa
+BRG-0675,Barang Contoh Ke-675,425,Tata Usaha
+BRG-0676,Barang Contoh Ke-676,200,Penataan dan Pemberdayaan
+BRG-0677,Barang Contoh Ke-677,86,Pengadaan Tanah dan Pengembangan
+BRG-0678,Barang Contoh Ke-678,38,Penetapan Hak dan Pendaftaran
+BRG-0679,Barang Contoh Ke-679,126,Penetapan Hak dan Pendaftaran
+BRG-0680,Barang Contoh Ke-680,159,Pengendalian dan Penanganan Sengketa
+BRG-0681,Barang Contoh Ke-681,267,Penetapan Hak dan Pendaftaran
+BRG-0682,Barang Contoh Ke-682,494,Penataan dan Pemberdayaan
+BRG-0683,Barang Contoh Ke-683,140,Survei dan Pemetaan
+BRG-0684,Barang Contoh Ke-684,132,Survei dan Pemetaan
+BRG-0685,Barang Contoh Ke-685,281,Tata Usaha
+BRG-0686,Barang Contoh Ke-686,176,Survei dan Pemetaan
+BRG-0687,Barang Contoh Ke-687,148,Penetapan Hak dan Pendaftaran
+BRG-0688,Barang Contoh Ke-688,311,Tata Usaha
+BRG-0689,Barang Contoh Ke-689,266,Pengendalian dan Penanganan Sengketa
+BRG-0690,Barang Contoh Ke-690,440,Survei dan Pemetaan
+BRG-0691,Barang Contoh Ke-691,302,Penetapan Hak dan Pendaftaran
+BRG-0692,Barang Contoh Ke-692,487,Pengendalian dan Penanganan Sengketa
+BRG-0693,Barang Contoh Ke-693,454,Pengendalian dan Penanganan Sengketa
+BRG-0694,Barang Contoh Ke-694,357,Survei dan Pemetaan
+BRG-0695,Barang Contoh Ke-695,299,Pengendalian dan Penanganan Sengketa
+BRG-0696,Barang Contoh Ke-696,169,Penetapan Hak dan Pendaftaran
+BRG-0697,Barang Contoh Ke-697,366,Pengadaan Tanah dan Pengembangan
+BRG-0698,Barang Contoh Ke-698,234,Pengadaan Tanah dan Pengembangan
+BRG-0699,Barang Contoh Ke-699,442,Penataan dan Pemberdayaan
+BRG-0700,Barang Contoh Ke-700,173,Pengadaan Tanah dan Pengembangan
+BRG-0701,Barang Contoh Ke-701,70,Pengadaan Tanah dan Pengembangan
+BRG-0702,Barang Contoh Ke-702,171,Penetapan Hak dan Pendaftaran
+BRG-0703,Barang Contoh Ke-703,437,Penetapan Hak dan Pendaftaran
+BRG-0704,Barang Contoh Ke-704,115,Penetapan Hak dan Pendaftaran
+BRG-0705,Barang Contoh Ke-705,257,Pengendalian dan Penanganan Sengketa
+BRG-0706,Barang Contoh Ke-706,452,Tata Usaha
+BRG-0707,Barang Contoh Ke-707,434,Penataan dan Pemberdayaan
+BRG-0708,Barang Contoh Ke-708,85,Penetapan Hak dan Pendaftaran
+BRG-0709,Barang Contoh Ke-709,403,Tata Usaha
+BRG-0710,Barang Contoh Ke-710,191,Penataan dan Pemberdayaan
+BRG-0711,Barang Contoh Ke-711,86,Penetapan Hak dan Pendaftaran
+BRG-0712,Barang Contoh Ke-712,23,Tata Usaha
+BRG-0713,Barang Contoh Ke-713,52,Pengadaan Tanah dan Pengembangan
+BRG-0714,Barang Contoh Ke-714,186,Tata Usaha
+BRG-0715,Barang Contoh Ke-715,141,Pengadaan Tanah dan Pengembangan
+BRG-0716,Barang Contoh Ke-716,160,Tata Usaha
+BRG-0717,Barang Contoh Ke-717,138,Pengadaan Tanah dan Pengembangan
+BRG-0718,Barang Contoh Ke-718,292,Penataan dan Pemberdayaan
+BRG-0719,Barang Contoh Ke-719,398,Pengendalian dan Penanganan Sengketa
+BRG-0720,Barang Contoh Ke-720,143,Tata Usaha
+BRG-0721,Barang Contoh Ke-721,22,Pengadaan Tanah dan Pengembangan
+BRG-0722,Barang Contoh Ke-722,218,Penetapan Hak dan Pendaftaran
+BRG-0723,Barang Contoh Ke-723,480,Penataan dan Pemberdayaan
+BRG-0724,Barang Contoh Ke-724,309,Penataan dan Pemberdayaan
+BRG-0725,Barang Contoh Ke-725,400,Penataan dan Pemberdayaan
+BRG-0726,Barang Contoh Ke-726,143,Survei dan Pemetaan
+BRG-0727,Barang Contoh Ke-727,196,Pengendalian dan Penanganan Sengketa
+BRG-0728,Barang Contoh Ke-728,286,Survei dan Pemetaan
+BRG-0729,Barang Contoh Ke-729,448,Pengendalian dan Penanganan Sengketa
+BRG-0730,Barang Contoh Ke-730,467,Survei dan Pemetaan
+BRG-0731,Barang Contoh Ke-731,96,Penataan dan Pemberdayaan
+BRG-0732,Barang Contoh Ke-732,303,Pengadaan Tanah dan Pengembangan
+BRG-0733,Barang Contoh Ke-733,27,Penataan dan Pemberdayaan
+BRG-0734,Barang Contoh Ke-734,352,Tata Usaha
+BRG-0735,Barang Contoh Ke-735,180,Survei dan Pemetaan
+BRG-0736,Barang Contoh Ke-736,317,Penataan dan Pemberdayaan
+BRG-0737,Barang Contoh Ke-737,274,Penataan dan Pemberdayaan
+BRG-0738,Barang Contoh Ke-738,31,Penataan dan Pemberdayaan
+BRG-0739,Barang Contoh Ke-739,347,Pengendalian dan Penanganan Sengketa
+BRG-0740,Barang Contoh Ke-740,181,Survei dan Pemetaan
+BRG-0741,Barang Contoh Ke-741,397,Tata Usaha
+BRG-0742,Barang Contoh Ke-742,60,Tata Usaha
+BRG-0743,Barang Contoh Ke-743,271,Pengadaan Tanah dan Pengembangan
+BRG-0744,Barang Contoh Ke-744,360,Tata Usaha
+BRG-0745,Barang Contoh Ke-745,196,Pengadaan Tanah dan Pengembangan
+BRG-0746,Barang Contoh Ke-746,448,Pengendalian dan Penanganan Sengketa
+BRG-0747,Barang Contoh Ke-747,154,Pengendalian dan Penanganan Sengketa
+BRG-0748,Barang Contoh Ke-748,464,Survei dan Pemetaan
+BRG-0749,Barang Contoh Ke-749,343,Tata Usaha
+BRG-0750,Barang Contoh Ke-750,46,Survei dan Pemetaan
+BRG-0751,Barang Contoh Ke-751,26,Pengadaan Tanah dan Pengembangan
+BRG-0752,Barang Contoh Ke-752,131,Pengendalian dan Penanganan Sengketa
+BRG-0753,Barang Contoh Ke-753,280,Penataan dan Pemberdayaan
+BRG-0754,Barang Contoh Ke-754,83,Tata Usaha
+BRG-0755,Barang Contoh Ke-755,41,Penataan dan Pemberdayaan
+BRG-0756,Barang Contoh Ke-756,305,Tata Usaha
+BRG-0757,Barang Contoh Ke-757,489,Tata Usaha
+BRG-0758,Barang Contoh Ke-758,351,Penataan dan Pemberdayaan
+BRG-0759,Barang Contoh Ke-759,14,Pengendalian dan Penanganan Sengketa
+BRG-0760,Barang Contoh Ke-760,468,Tata Usaha
+BRG-0761,Barang Contoh Ke-761,392,Survei dan Pemetaan
+BRG-0762,Barang Contoh Ke-762,265,Penataan dan Pemberdayaan
+BRG-0763,Barang Contoh Ke-763,11,Survei dan Pemetaan
+BRG-0764,Barang Contoh Ke-764,182,Tata Usaha
+BRG-0765,Barang Contoh Ke-765,213,Survei dan Pemetaan
+BRG-0766,Barang Contoh Ke-766,296,Penetapan Hak dan Pendaftaran
+BRG-0767,Barang Contoh Ke-767,119,Penataan dan Pemberdayaan
+BRG-0768,Barang Contoh Ke-768,353,Penataan dan Pemberdayaan
+BRG-0769,Barang Contoh Ke-769,73,Tata Usaha
+BRG-0770,Barang Contoh Ke-770,215,Penataan dan Pemberdayaan
+BRG-0771,Barang Contoh Ke-771,136,Penataan dan Pemberdayaan
+BRG-0772,Barang Contoh Ke-772,416,Pengadaan Tanah dan Pengembangan
+BRG-0773,Barang Contoh Ke-773,226,Tata Usaha
+BRG-0774,Barang Contoh Ke-774,140,Pengendalian dan Penanganan Sengketa
+BRG-0775,Barang Contoh Ke-775,376,Tata Usaha
+BRG-0776,Barang Contoh Ke-776,341,Penetapan Hak dan Pendaftaran
+BRG-0777,Barang Contoh Ke-777,300,Pengendalian dan Penanganan Sengketa
+BRG-0778,Barang Contoh Ke-778,289,Pengendalian dan Penanganan Sengketa
+BRG-0779,Barang Contoh Ke-779,15,Penataan dan Pemberdayaan
+BRG-0780,Barang Contoh Ke-780,211,Penataan dan Pemberdayaan
+BRG-0781,Barang Contoh Ke-781,86,Pengendalian dan Penanganan Sengketa
+BRG-0782,Barang Contoh Ke-782,462,Penataan dan Pemberdayaan
+BRG-0783,Barang Contoh Ke-783,414,Pengendalian dan Penanganan Sengketa
+BRG-0784,Barang Contoh Ke-784,369,Tata Usaha
+BRG-0785,Barang Contoh Ke-785,188,Penetapan Hak dan Pendaftaran
+BRG-0786,Barang Contoh Ke-786,195,Penetapan Hak dan Pendaftaran
+BRG-0787,Barang Contoh Ke-787,27,Penetapan Hak dan Pendaftaran
+BRG-0788,Barang Contoh Ke-788,202,Penetapan Hak dan Pendaftaran
+BRG-0789,Barang Contoh Ke-789,120,Tata Usaha
+BRG-0790,Barang Contoh Ke-790,161,Tata Usaha
+BRG-0791,Barang Contoh Ke-791,457,Pengadaan Tanah dan Pengembangan
+BRG-0792,Barang Contoh Ke-792,220,Survei dan Pemetaan
+BRG-0793,Barang Contoh Ke-793,346,Pengendalian dan Penanganan Sengketa
+BRG-0794,Barang Contoh Ke-794,447,Survei dan Pemetaan
+BRG-0795,Barang Contoh Ke-795,413,Survei dan Pemetaan
+BRG-0796,Barang Contoh Ke-796,45,Survei dan Pemetaan
+BRG-0797,Barang Contoh Ke-797,252,Penataan dan Pemberdayaan
+BRG-0798,Barang Contoh Ke-798,119,Tata Usaha
+BRG-0799,Barang Contoh Ke-799,482,Pengadaan Tanah dan Pengembangan
+BRG-0800,Barang Contoh Ke-800,368,Penataan dan Pemberdayaan
+BRG-0801,Barang Contoh Ke-801,388,Tata Usaha
+BRG-0802,Barang Contoh Ke-802,449,Penetapan Hak dan Pendaftaran
+BRG-0803,Barang Contoh Ke-803,214,Penetapan Hak dan Pendaftaran
+BRG-0804,Barang Contoh Ke-804,498,Pengendalian dan Penanganan Sengketa
+BRG-0805,Barang Contoh Ke-805,199,Tata Usaha
+BRG-0806,Barang Contoh Ke-806,311,Penataan dan Pemberdayaan
+BRG-0807,Barang Contoh Ke-807,451,Survei dan Pemetaan
+BRG-0808,Barang Contoh Ke-808,347,Penetapan Hak dan Pendaftaran
+BRG-0809,Barang Contoh Ke-809,404,Penataan dan Pemberdayaan
+BRG-0810,Barang Contoh Ke-810,75,Pengadaan Tanah dan Pengembangan
+BRG-0811,Barang Contoh Ke-811,156,Survei dan Pemetaan
+BRG-0812,Barang Contoh Ke-812,260,Tata Usaha
+BRG-0813,Barang Contoh Ke-813,99,Tata Usaha
+BRG-0814,Barang Contoh Ke-814,476,Penetapan Hak dan Pendaftaran
+BRG-0815,Barang Contoh Ke-815,390,Tata Usaha
+BRG-0816,Barang Contoh Ke-816,489,Tata Usaha
+BRG-0817,Barang Contoh Ke-817,491,Pengadaan Tanah dan Pengembangan
+BRG-0818,Barang Contoh Ke-818,85,Penataan dan Pemberdayaan
+BRG-0819,Barang Contoh Ke-819,411,Penataan dan Pemberdayaan
+BRG-0820,Barang Contoh Ke-820,76,Pengendalian dan Penanganan Sengketa
+BRG-0821,Barang Contoh Ke-821,181,Tata Usaha
+BRG-0822,Barang Contoh Ke-822,250,Pengendalian dan Penanganan Sengketa
+BRG-0823,Barang Contoh Ke-823,190,Pengadaan Tanah dan Pengembangan
+BRG-0824,Barang Contoh Ke-824,67,Pengadaan Tanah dan Pengembangan
+BRG-0825,Barang Contoh Ke-825,131,Survei dan Pemetaan
+BRG-0826,Barang Contoh Ke-826,45,Pengadaan Tanah dan Pengembangan
+BRG-0827,Barang Contoh Ke-827,210,Penetapan Hak dan Pendaftaran
+BRG-0828,Barang Contoh Ke-828,489,Pengadaan Tanah dan Pengembangan
+BRG-0829,Barang Contoh Ke-829,421,Tata Usaha
+BRG-0830,Barang Contoh Ke-830,411,Tata Usaha
+BRG-0831,Barang Contoh Ke-831,44,Pengadaan Tanah dan Pengembangan
+BRG-0832,Barang Contoh Ke-832,77,Survei dan Pemetaan
+BRG-0833,Barang Contoh Ke-833,435,Pengendalian dan Penanganan Sengketa
+BRG-0834,Barang Contoh Ke-834,352,Tata Usaha
+BRG-0835,Barang Contoh Ke-835,138,Pengendalian dan Penanganan Sengketa
+BRG-0836,Barang Contoh Ke-836,285,Penetapan Hak dan Pendaftaran
+BRG-0837,Barang Contoh Ke-837,13,Pengendalian dan Penanganan Sengketa
+BRG-0838,Barang Contoh Ke-838,274,Survei dan Pemetaan
+BRG-0839,Barang Contoh Ke-839,84,Penataan dan Pemberdayaan
+BRG-0840,Barang Contoh Ke-840,88,Pengadaan Tanah dan Pengembangan
+BRG-0841,Barang Contoh Ke-841,146,Pengadaan Tanah dan Pengembangan
+BRG-0842,Barang Contoh Ke-842,364,Tata Usaha
+BRG-0843,Barang Contoh Ke-843,239,Pengendalian dan Penanganan Sengketa
+BRG-0844,Barang Contoh Ke-844,497,Penetapan Hak dan Pendaftaran
+BRG-0845,Barang Contoh Ke-845,16,Survei dan Pemetaan
+BRG-0846,Barang Contoh Ke-846,318,Penetapan Hak dan Pendaftaran
+BRG-0847,Barang Contoh Ke-847,228,Pengendalian dan Penanganan Sengketa
+BRG-0848,Barang Contoh Ke-848,56,Penataan dan Pemberdayaan
+BRG-0849,Barang Contoh Ke-849,411,Survei dan Pemetaan
+BRG-0850,Barang Contoh Ke-850,22,Survei dan Pemetaan
+BRG-0851,Barang Contoh Ke-851,357,Tata Usaha
+BRG-0852,Barang Contoh Ke-852,359,Tata Usaha
+BRG-0853,Barang Contoh Ke-853,424,Pengendalian dan Penanganan Sengketa
+BRG-0854,Barang Contoh Ke-854,116,Penetapan Hak dan Pendaftaran
+BRG-0855,Barang Contoh Ke-855,381,Penetapan Hak dan Pendaftaran
+BRG-0856,Barang Contoh Ke-856,263,Penataan dan Pemberdayaan
+BRG-0857,Barang Contoh Ke-857,256,Penataan dan Pemberdayaan
+BRG-0858,Barang Contoh Ke-858,199,Penetapan Hak dan Pendaftaran
+BRG-0859,Barang Contoh Ke-859,447,Penataan dan Pemberdayaan
+BRG-0860,Barang Contoh Ke-860,205,Tata Usaha
+BRG-0861,Barang Contoh Ke-861,364,Tata Usaha
+BRG-0862,Barang Contoh Ke-862,383,Tata Usaha
+BRG-0863,Barang Contoh Ke-863,183,Penetapan Hak dan Pendaftaran
+BRG-0864,Barang Contoh Ke-864,187,Pengendalian dan Penanganan Sengketa
+BRG-0865,Barang Contoh Ke-865,300,Tata Usaha
+BRG-0866,Barang Contoh Ke-866,436,Pengendalian dan Penanganan Sengketa
+BRG-0867,Barang Contoh Ke-867,439,Pengendalian dan Penanganan Sengketa
+BRG-0868,Barang Contoh Ke-868,226,Penataan dan Pemberdayaan
+BRG-0869,Barang Contoh Ke-869,451,Pengadaan Tanah dan Pengembangan
+BRG-0870,Barang Contoh Ke-870,131,Pengendalian dan Penanganan Sengketa
+BRG-0871,Barang Contoh Ke-871,17,Pengendalian dan Penanganan Sengketa
+BRG-0872,Barang Contoh Ke-872,135,Survei dan Pemetaan
+BRG-0873,Barang Contoh Ke-873,286,Pengendalian dan Penanganan Sengketa
+BRG-0874,Barang Contoh Ke-874,217,Pengendalian dan Penanganan Sengketa
+BRG-0875,Barang Contoh Ke-875,258,Tata Usaha
+BRG-0876,Barang Contoh Ke-876,359,Penetapan Hak dan Pendaftaran
+BRG-0877,Barang Contoh Ke-877,205,Penataan dan Pemberdayaan
+BRG-0878,Barang Contoh Ke-878,81,Pengendalian dan Penanganan Sengketa
+BRG-0879,Barang Contoh Ke-879,76,Survei dan Pemetaan
+BRG-0880,Barang Contoh Ke-880,454,Pengadaan Tanah dan Pengembangan
+BRG-0881,Barang Contoh Ke-881,136,Pengendalian dan Penanganan Sengketa
+BRG-0882,Barang Contoh Ke-882,21,Pengadaan Tanah dan Pengembangan
+BRG-0883,Barang Contoh Ke-883,478,Tata Usaha
+BRG-0884,Barang Contoh Ke-884,102,Pengendalian dan Penanganan Sengketa
+BRG-0885,Barang Contoh Ke-885,427,Pengendalian dan Penanganan Sengketa
+BRG-0886,Barang Contoh Ke-886,302,Penataan dan Pemberdayaan
+BRG-0887,Barang Contoh Ke-887,105,Pengendalian dan Penanganan Sengketa
+BRG-0888,Barang Contoh Ke-888,241,Penetapan Hak dan Pendaftaran
+BRG-0889,Barang Contoh Ke-889,475,Survei dan Pemetaan
+BRG-0890,Barang Contoh Ke-890,184,Penetapan Hak dan Pendaftaran
+BRG-0891,Barang Contoh Ke-891,419,Pengadaan Tanah dan Pengembangan
+BRG-0892,Barang Contoh Ke-892,385,Penetapan Hak dan Pendaftaran
+BRG-0893,Barang Contoh Ke-893,133,Penetapan Hak dan Pendaftaran
+BRG-0894,Barang Contoh Ke-894,408,Pengendalian dan Penanganan Sengketa
+BRG-0895,Barang Contoh Ke-895,126,Survei dan Pemetaan
+BRG-0896,Barang Contoh Ke-896,300,Penataan dan Pemberdayaan
+BRG-0897,Barang Contoh Ke-897,37,Penataan dan Pemberdayaan
+BRG-0898,Barang Contoh Ke-898,284,Penetapan Hak dan Pendaftaran
+BRG-0899,Barang Contoh Ke-899,373,Penataan dan Pemberdayaan
+BRG-0900,Barang Contoh Ke-900,460,Penataan dan Pemberdayaan
+BRG-0901,Barang Contoh Ke-901,475,Pengadaan Tanah dan Pengembangan
+BRG-0902,Barang Contoh Ke-902,444,Tata Usaha
+BRG-0903,Barang Contoh Ke-903,193,Penetapan Hak dan Pendaftaran
+BRG-0904,Barang Contoh Ke-904,90,Pengendalian dan Penanganan Sengketa
+BRG-0905,Barang Contoh Ke-905,294,Penetapan Hak dan Pendaftaran
+BRG-0906,Barang Contoh Ke-906,306,Penetapan Hak dan Pendaftaran
+BRG-0907,Barang Contoh Ke-907,167,Penataan dan Pemberdayaan
+BRG-0908,Barang Contoh Ke-908,404,Survei dan Pemetaan
+BRG-0909,Barang Contoh Ke-909,350,Pengadaan Tanah dan Pengembangan
+BRG-0910,Barang Contoh Ke-910,169,Pengadaan Tanah dan Pengembangan
+BRG-0911,Barang Contoh Ke-911,259,Survei dan Pemetaan
+BRG-0912,Barang Contoh Ke-912,416,Penataan dan Pemberdayaan
+BRG-0913,Barang Contoh Ke-913,210,Pengadaan Tanah dan Pengembangan
+BRG-0914,Barang Contoh Ke-914,341,Pengendalian dan Penanganan Sengketa
+BRG-0915,Barang Contoh Ke-915,344,Pengendalian dan Penanganan Sengketa
+BRG-0916,Barang Contoh Ke-916,76,Pengendalian dan Penanganan Sengketa
+BRG-0917,Barang Contoh Ke-917,106,Penataan dan Pemberdayaan
+BRG-0918,Barang Contoh Ke-918,44,Tata Usaha
+BRG-0919,Barang Contoh Ke-919,347,Tata Usaha
+BRG-0920,Barang Contoh Ke-920,91,Penetapan Hak dan Pendaftaran
+BRG-0921,Barang Contoh Ke-921,26,Pengadaan Tanah dan Pengembangan
+BRG-0922,Barang Contoh Ke-922,92,Penetapan Hak dan Pendaftaran
+BRG-0923,Barang Contoh Ke-923,299,Pengadaan Tanah dan Pengembangan
+BRG-0924,Barang Contoh Ke-924,207,Tata Usaha
+BRG-0925,Barang Contoh Ke-925,175,Survei dan Pemetaan
+BRG-0926,Barang Contoh Ke-926,78,Tata Usaha
+BRG-0927,Barang Contoh Ke-927,276,Survei dan Pemetaan
+BRG-0928,Barang Contoh Ke-928,280,Tata Usaha
+BRG-0929,Barang Contoh Ke-929,95,Penetapan Hak dan Pendaftaran
+BRG-0930,Barang Contoh Ke-930,310,Survei dan Pemetaan
+BRG-0931,Barang Contoh Ke-931,155,Pengadaan Tanah dan Pengembangan
+BRG-0932,Barang Contoh Ke-932,346,Penetapan Hak dan Pendaftaran
+BRG-0933,Barang Contoh Ke-933,133,Survei dan Pemetaan
+BRG-0934,Barang Contoh Ke-934,431,Penataan dan Pemberdayaan
+BRG-0935,Barang Contoh Ke-935,23,Penataan dan Pemberdayaan
+BRG-0936,Barang Contoh Ke-936,317,Pengadaan Tanah dan Pengembangan
+BRG-0937,Barang Contoh Ke-937,358,Penataan dan Pemberdayaan
+BRG-0938,Barang Contoh Ke-938,354,Tata Usaha
+BRG-0939,Barang Contoh Ke-939,364,Survei dan Pemetaan
+BRG-0940,Barang Contoh Ke-940,392,Pengendalian dan Penanganan Sengketa
+BRG-0941,Barang Contoh Ke-941,278,Penetapan Hak dan Pendaftaran
+BRG-0942,Barang Contoh Ke-942,287,Survei dan Pemetaan
+BRG-0943,Barang Contoh Ke-943,244,Penataan dan Pemberdayaan
+BRG-0944,Barang Contoh Ke-944,275,Survei dan Pemetaan
+BRG-0945,Barang Contoh Ke-945,414,Pengendalian dan Penanganan Sengketa
+BRG-0946,Barang Contoh Ke-946,452,Pengendalian dan Penanganan Sengketa
+BRG-0947,Barang Contoh Ke-947,57,Tata Usaha
+BRG-0948,Barang Contoh Ke-948,473,Penetapan Hak dan Pendaftaran
+BRG-0949,Barang Contoh Ke-949,178,Tata Usaha
+BRG-0950,Barang Contoh Ke-950,488,Pengadaan Tanah dan Pengembangan
+BRG-0951,Barang Contoh Ke-951,203,Tata Usaha
+BRG-0952,Barang Contoh Ke-952,203,Pengadaan Tanah dan Pengembangan
+BRG-0953,Barang Contoh Ke-953,280,Survei dan Pemetaan
+BRG-0954,Barang Contoh Ke-954,489,Tata Usaha
+BRG-0955,Barang Contoh Ke-955,473,Survei dan Pemetaan
+BRG-0956,Barang Contoh Ke-956,203,Survei dan Pemetaan
+BRG-0957,Barang Contoh Ke-957,19,Tata Usaha
+BRG-0958,Barang Contoh Ke-958,337,Pengendalian dan Penanganan Sengketa
+BRG-0959,Barang Contoh Ke-959,369,Survei dan Pemetaan
+BRG-0960,Barang Contoh Ke-960,420,Pengendalian dan Penanganan Sengketa
+BRG-0961,Barang Contoh Ke-961,449,Pengendalian dan Penanganan Sengketa
+BRG-0962,Barang Contoh Ke-962,228,Penetapan Hak dan Pendaftaran
+BRG-0963,Barang Contoh Ke-963,124,Pengadaan Tanah dan Pengembangan
+BRG-0964,Barang Contoh Ke-964,14,Penetapan Hak dan Pendaftaran
+BRG-0965,Barang Contoh Ke-965,149,Pengendalian dan Penanganan Sengketa
+BRG-0966,Barang Contoh Ke-966,482,Tata Usaha
+BRG-0967,Barang Contoh Ke-967,163,Tata Usaha
+BRG-0968,Barang Contoh Ke-968,184,Survei dan Pemetaan
+BRG-0969,Barang Contoh Ke-969,261,Penataan dan Pemberdayaan
+BRG-0970,Barang Contoh Ke-970,338,Penataan dan Pemberdayaan
+BRG-0971,Barang Contoh Ke-971,192,Penataan dan Pemberdayaan
+BRG-0972,Barang Contoh Ke-972,209,Penetapan Hak dan Pendaftaran
+BRG-0973,Barang Contoh Ke-973,490,Penetapan Hak dan Pendaftaran
+BRG-0974,Barang Contoh Ke-974,348,Pengendalian dan Penanganan Sengketa
+BRG-0975,Barang Contoh Ke-975,496,Tata Usaha
+BRG-0976,Barang Contoh Ke-976,497,Survei dan Pemetaan
+BRG-0977,Barang Contoh Ke-977,55,Penataan dan Pemberdayaan
+BRG-0978,Barang Contoh Ke-978,73,Penataan dan Pemberdayaan
+BRG-0979,Barang Contoh Ke-979,174,Tata Usaha
+BRG-0980,Barang Contoh Ke-980,429,Pengendalian dan Penanganan Sengketa
+BRG-0981,Barang Contoh Ke-981,173,Pengadaan Tanah dan Pengembangan
+BRG-0982,Barang Contoh Ke-982,90,Tata Usaha
+BRG-0983,Barang Contoh Ke-983,387,Penataan dan Pemberdayaan
+BRG-0984,Barang Contoh Ke-984,158,Penetapan Hak dan Pendaftaran
+BRG-0985,Barang Contoh Ke-985,500,Pengendalian dan Penanganan Sengketa
+BRG-0986,Barang Contoh Ke-986,82,Penataan dan Pemberdayaan
+BRG-0987,Barang Contoh Ke-987,272,Tata Usaha
+BRG-0988,Barang Contoh Ke-988,429,Tata Usaha
+BRG-0989,Barang Contoh Ke-989,397,Pengendalian dan Penanganan Sengketa
+BRG-0990,Barang Contoh Ke-990,273,Tata Usaha
+BRG-0991,Barang Contoh Ke-991,240,Pengendalian dan Penanganan Sengketa
+BRG-0992,Barang Contoh Ke-992,112,Penataan dan Pemberdayaan
+BRG-0993,Barang Contoh Ke-993,495,Tata Usaha
+BRG-0994,Barang Contoh Ke-994,163,Tata Usaha
+BRG-0995,Barang Contoh Ke-995,360,Tata Usaha
+BRG-0996,Barang Contoh Ke-996,281,Pengadaan Tanah dan Pengembangan
+BRG-0997,Barang Contoh Ke-997,193,Tata Usaha
+BRG-0998,Barang Contoh Ke-998,243,Penetapan Hak dan Pendaftaran
+BRG-0999,Barang Contoh Ke-999,73,Penetapan Hak dan Pendaftaran
+BRG-1000,Barang Contoh Ke-1000,460,Survei dan Pemetaan
