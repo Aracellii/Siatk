@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Sistem Aset dan Tata Kelola BPN DIY'),
 
     /*
     |--------------------------------------------------------------------------
