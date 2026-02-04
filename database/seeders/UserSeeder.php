@@ -11,6 +11,7 @@ class UserSeeder extends Seeder
 
     public function run(): void
     {
+        $this->command->info('👥 Seeding Users...');
 
         $user1 = User::create([
             'name' => 'Admin Keuangan',
@@ -128,5 +129,8 @@ class UserSeeder extends Seeder
             'bagian_id' => 6,
         ]);
         $user13->assignRole('user');
+        
+        $this->command->info('✅ 13 users berhasil dibuat (1 keuangan, 6 admin, 6 user)');
+        $this->command->info('   Password semua user: 12345678');
     }
 }

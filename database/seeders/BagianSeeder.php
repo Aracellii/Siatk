@@ -9,6 +9,8 @@ class BagianSeeder extends Seeder
 {
     public function run(): void
     {
+        $this->command->info('📁 Seeding Bagian/Unit Kerja...');
+        
         $data = [
             ['id' => 1, 'nama_bagian' => 'Tata Usaha'],
             ['id' => 2, 'nama_bagian' => 'Survei dan Pemetaan'],
@@ -21,5 +23,7 @@ class BagianSeeder extends Seeder
         foreach ($data as $item) {
             Bagian::create(['id' => $item['id'], 'nama_bagian' => $item['nama_bagian']]);
         }
+        
+        $this->command->info('✅ ' . count($data) . ' bagian berhasil dibuat');
     }
 }
