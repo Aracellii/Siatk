@@ -84,7 +84,7 @@ Anda akan melihat form dengan permissions dikelompokkan:
 - ☑ export_katalog_barang
 
 **Permintaan**
-- ☑ access_permintaan
+- ☑ akses_permintaan
 - ☑ view_permintaan
 - ☑ buat_permintaan
 - ☑ manage_permintaan
@@ -163,7 +163,7 @@ Permissions dikelompokkan berdasarkan fitur:
   └─ export_katalog_barang
 
 📋 Permintaan
-  ├─ access_permintaan
+  ├─ akses_permintaan
   ├─ view_permintaan
   ├─ buat_permintaan
   ├─ manage_permintaan
