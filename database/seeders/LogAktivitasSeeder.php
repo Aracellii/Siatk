@@ -21,9 +21,13 @@ class LogAktivitasSeeder extends Seeder
     {
         $this->command->info('📝 Seeding Log Aktivitas...');
 
-        $adminKeuangan = User::where('role', 'keuangan')->first();
-        $adminTU = User::where('role', 'admin')->where('bagian_id', 1)->first();
-        $userTU = User::where('role', 'user')->where('bagian_id', 1)->first();
+        $keuanganRole = \Spatie\Permission\Models\Role::where('name', 'keuangan')->first();
+        $adminRole = \Spatie\Permission\Models\Role::where('name', 'admin')->first();
+        $userRole = \Spatie\Permission\Models\Role::where('name', 'user')->first();
+
+        $adminKeuangan = User::where('role_id', $keuanganRole->id)->first();
+        $adminTU = User::where('role_id', $adminRole->id)->where('bagian_id', 1)->first();
+        $userTU = User::where('role_id', $userRole->id)->where('bagian_id', 1)->first();
 
         $logs = [];
 
@@ -116,7 +120,7 @@ class LogAktivitasSeeder extends Seeder
 
         // 5. Log Barang Keluar - Admin mengurangi stok Galon
         $gudang4 = Gudang::where('bagian_id', 3)->where('barang_id', 4)->first();
-        $adminPHP = User::where('role', 'admin')->where('bagian_id', 3)->first();
+        $adminPHP = User::where('role_id', $adminRole->id)->where('bagian_id', 3)->first();
         if ($gudang4 && $adminPHP) {
             $stokLama = $gudang4->stok + 3;
             LogAktivitas::create([
@@ -161,7 +165,7 @@ class LogAktivitasSeeder extends Seeder
 
         // 7. Log Penyesuaian - Admin mengurangi stok rusak
         $gudang6 = Gudang::where('bagian_id', 5)->where('barang_id', 6)->first();
-        $adminPTP = User::where('role', 'admin')->where('bagian_id', 5)->first();
+        $adminPTP = User::where('role_id', $adminRole->id)->where('bagian_id', 5)->first();
         if ($gudang6 && $adminPTP) {
             $stokLama = $gudang6->stok + 2;
             LogAktivitas::create([

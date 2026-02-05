@@ -5,19 +5,25 @@ namespace Database\Seeders;
 use App\Models\User;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Hash;
+use Spatie\Permission\Models\Role;
 
 class UserSeeder extends Seeder
 {
-
     public function run(): void
     {
         $this->command->info('👥 Seeding Users...');
+
+        // Ambil role IDs
+        $keuanganRole = Role::where('name', 'keuangan')->first();
+        $adminRole = Role::where('name', 'admin')->first();
+        $userRole = Role::where('name', 'user')->first();
+        $superAdminRole = Role::where('name', 'super_admin')->first();
 
         $user1 = User::create([
             'name' => 'Admin Keuangan',
             'email' => 'admin@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'keuangan',
+            'role_id' => $keuanganRole->id,
             'bagian_id' => 1,
         ]);
         $user1->assignRole('keuangan');
@@ -26,7 +32,7 @@ class UserSeeder extends Seeder
             'name' => 'Admin Gudang Tata Usaha',
             'email' => 'gudangTU@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'admin',
+            'role_id' => $adminRole->id,
             'bagian_id' => 1,
         ]);
         $user2->assignRole('admin');
@@ -35,7 +41,7 @@ class UserSeeder extends Seeder
             'name' => 'Staf Tata Usaha',
             'email' => 'userTU@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'user',
+            'role_id' => $userRole->id,
             'bagian_id' => 1,
         ]);
         $user3->assignRole('user');
@@ -44,7 +50,7 @@ class UserSeeder extends Seeder
             'name' => 'Admin Gudang Bidang Survei dan Pemetaan',
             'email' => 'gudangSP@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'admin',
+            'role_id' => $adminRole->id,
             'bagian_id' => 2,
         ]);
         $user4->assignRole('admin');
@@ -53,7 +59,7 @@ class UserSeeder extends Seeder
             'name' => 'Staf Bidang Survei dan Pemetaan',
             'email' => 'userSP@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'user',
+            'role_id' => $userRole->id,
             'bagian_id' => 2,
         ]);
         $user5->assignRole('user');
@@ -62,7 +68,7 @@ class UserSeeder extends Seeder
             'name' => 'Admin Gudang Bidang Penetapan Hak dan Pendaftaran',
             'email' => 'gudangPHP@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'admin',
+            'role_id' => $adminRole->id,
             'bagian_id' => 3,
         ]);
         $user6->assignRole('admin');
@@ -71,7 +77,7 @@ class UserSeeder extends Seeder
             'name' => 'Staf Bidang Penetapan Hak dan Pendaftaran',
             'email' => 'userPHP@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'user',
+            'role_id' => $userRole->id,
             'bagian_id' => 3,
         ]);
         $user7->assignRole('user');
@@ -80,7 +86,7 @@ class UserSeeder extends Seeder
             'name' => 'Admin Gudang Bidang Penataan dan Pemberdayaan',
             'email' => 'gudangPP@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'admin',
+            'role_id' => $adminRole->id,
             'bagian_id' => 4,
         ]);
         $user8->assignRole('admin');
@@ -89,7 +95,7 @@ class UserSeeder extends Seeder
             'name' => 'Staf Bidang Penataan dan Pemberdayaan',
             'email' => 'userPP@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'user',
+            'role_id' => $userRole->id,
             'bagian_id' => 4,
         ]);
         $user9->assignRole('user');
@@ -98,7 +104,7 @@ class UserSeeder extends Seeder
             'name' => 'Admin Gudang Bidang Pengadaan Tanah dan Pengembangan',
             'email' => 'gudangPTP@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'admin',
+            'role_id' => $adminRole->id,
             'bagian_id' => 5,
         ]);
         $user10->assignRole('admin');
@@ -107,7 +113,7 @@ class UserSeeder extends Seeder
             'name' => 'Staf Bidang Pengadaan Tanah dan Pengembangan',
             'email' => 'userPTP@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'user',
+            'role_id' => $userRole->id,
             'bagian_id' => 5,
         ]);
         $user11->assignRole('user');
@@ -116,7 +122,7 @@ class UserSeeder extends Seeder
             'name' => 'Admin Gudang Bidang Pengendalian dan Penanganan Sengketa',
             'email' => 'gudangPPS@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'admin',
+            'role_id' => $adminRole->id,
             'bagian_id' => 6,
         ]);
         $user12->assignRole('admin');
@@ -125,7 +131,7 @@ class UserSeeder extends Seeder
             'name' => 'Staf Bidang Pengendalian dan Penanganan Sengketa',
             'email' => 'userPPS@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'user',
+            'role_id' => $userRole->id,
             'bagian_id' => 6,
         ]);
         $user13->assignRole('user');
@@ -134,10 +140,9 @@ class UserSeeder extends Seeder
             'name' => 'Super Admin',
             'email' => 'superadmin@gmail.com',
             'password' => Hash::make('12345678'),
-            'role' => 'super_admin',
+            'role_id' => $superAdminRole->id,
             'bagian_id' => 1,
         ]);
         $user14->assignRole('super_admin');
-
     }
 }
