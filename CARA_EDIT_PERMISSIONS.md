@@ -71,13 +71,13 @@ Anda akan melihat form dengan permissions dikelompokkan:
 - ☑ access_dashboard
 
 **Stok Barang**
-- ☑ access_stok_barang
+- ☑ akses_stok
 - ☑ view_stok_barang
 - ☑ manage_stok_barang
 - ☑ export_stok_barang
 
 **Katalog Barang**
-- ☑ access_katalog_barang
+- ☑ buat_permintaan
 - ☑ view_katalog_barang
 - ☑ manage_katalog_barang
 - ☐ import_katalog_barang ← Uncheck jika tidak boleh import
@@ -86,7 +86,7 @@ Anda akan melihat form dengan permissions dikelompokkan:
 **Permintaan**
 - ☑ access_permintaan
 - ☑ view_permintaan
-- ☑ create_permintaan
+- ☑ buat_permintaan
 - ☑ manage_permintaan
 - ☑ approve_permintaan ← Check jika boleh approve
 - ☑ export_permintaan
@@ -150,7 +150,7 @@ Permissions dikelompokkan berdasarkan fitur:
   └─ access_dashboard
 
 📦 Stok Barang
-  ├─ access_stok_barang
+  ├─ akses_stok
   ├─ view_stok_barang
   ├─ manage_stok_barang
   └─ export_stok_barang
@@ -165,19 +165,19 @@ Permissions dikelompokkan berdasarkan fitur:
 📋 Permintaan
   ├─ access_permintaan
   ├─ view_permintaan
-  ├─ create_permintaan
+  ├─ buat_permintaan
   ├─ manage_permintaan
   ├─ approve_permintaan
   └─ export_permintaan
 
 📜 Log Aktivitas
-  ├─ access_log_aktivitas
+  ├─ akses_log
   ├─ view_log_aktivitas
   ├─ export_log_aktivitas
   └─ clear_log_aktivitas
 
 👥 Manajemen User
-  ├─ access_manajemen_user
+  ├─ akses_managemen_user
   ├─ view_manajemen_user
   ├─ manage_manajemen_user
   └─ export_manajemen_user
@@ -270,7 +270,7 @@ php artisan config:cache
 ### **Menu tidak muncul/hilang?**
 Cek permission di RoleResource:
 - `access_[nama_menu]` harus di-check
-- Contoh: `access_stok_barang` untuk menu Stok Barang
+- Contoh: `akses_stok` untuk menu Stok Barang
 
 ### **Error saat save?**
 - Pastikan minimal 1 permission ter-check

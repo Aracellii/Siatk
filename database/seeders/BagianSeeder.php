@@ -24,6 +24,5 @@ class BagianSeeder extends Seeder
             Bagian::create(['id' => $item['id'], 'nama_bagian' => $item['nama_bagian']]);
         }
         
-        $this->command->info('✅ ' . count($data) . ' bagian berhasil dibuat');
     }
 }

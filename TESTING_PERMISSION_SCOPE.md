@@ -86,7 +86,7 @@ Gudang::create([
 // Cek permission user
 $user1 = User::find(1);
 $user1->getAllPermissions()->pluck('name'); 
-// Seharusnya ada 'view_own_bagian_only'
+// Seharusnya ada 'lihat_bagian_sendiri'
 
 $user2 = User::find(2);
 $user2->getAllPermissions()->pluck('name');
@@ -163,7 +163,7 @@ $user->bagian;
 $user->roles->pluck('name');
 
 // Cek permission specific
-$user->can('view_own_bagian_only'); // true untuk user
+$user->can('lihat_bagian_sendiri'); // true untuk user
 $user->can('view_all_bagian'); // true untuk admin/keuangan
 ```
 
@@ -174,7 +174,7 @@ $user->can('view_all_bagian'); // true untuk admin/keuangan
 $user = User::find(1);
 
 // Untuk user role
-$user->givePermissionTo('view_own_bagian_only');
+$user->givePermissionTo('lihat_bagian_sendiri');
 
 // Untuk admin role
 $user->givePermissionTo('view_all_bagian');
@@ -193,7 +193,7 @@ php artisan permission:cache-reset
 | super_admin | All permissions     | Lihat semua data (bypass filter)               |
 | admin       | view_all_bagian     | Lihat data dari semua bagian                   |
 | keuangan    | view_all_bagian     | Lihat data dari semua bagian                   |
-| user        | view_own_bagian_only | Hanya lihat data dari bagiannya sendiri        |
+| user        | lihat_bagian_sendiri | Hanya lihat data dari bagiannya sendiri        |
 
 ## Check Permission via Query
 

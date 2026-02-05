@@ -149,8 +149,8 @@ php artisan migrate:refresh --seed
 3. **Role Keuangan**: Sekarang sudah punya akses ke Roles menu dengan permission `manage_roles`
 4. **Permission System**: Menggunakan Spatie Permission + Filament Shield
 5. **Bagian Scope**: 
-   - `view_all_bagian`: Keuangan, Admin (bisa lihat semua)
-   - `view_own_bagian_only`: User (hanya lihat bagiannya)
+   - `lihat_semua_bagian`: Keuangan, Admin (bisa lihat semua)
+   - `lihat_bagian_sendiri`: User (hanya lihat bagiannya)
 
 ---
 

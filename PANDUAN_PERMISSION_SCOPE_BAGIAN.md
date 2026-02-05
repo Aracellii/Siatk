@@ -5,12 +5,12 @@ Sistem permission untuk membatasi akses data berdasarkan unit kerja/bagian. User
 
 ## Permission Baru
 
-### 1. `view_own_bagian_only`
+### 1. `lihat_bagian_sendiri`
 **Deskripsi**: User hanya bisa melihat data dari bagiannya sendiri
 - User dengan permission ini akan difilter hanya melihat data dengan bagian_id yang sama
 - Cocok untuk role: **user**, **staff bagian**
 
-### 2. `view_all_bagian`
+### 2. `lihat_semua_bagian`
 **Deskripsi**: User bisa melihat data dari semua bagian
 - User dengan permission ini bisa akses semua data tanpa filter
 - Cocok untuk role: **admin**, **keuangan**, **manager**
@@ -24,19 +24,19 @@ $superAdmin->syncPermissions(array_keys($permissions));
 
 // Admin - Bisa lihat semua bagian
 $admin->syncPermissions([
-    'view_all_bagian',
+    'lihat_semua_bagian',
     // ... permissions lain
 ]);
 
 // Keuangan - Bisa lihat semua bagian
 $keuangan->syncPermissions([
-    'view_all_bagian',
+    'lihat_semua_bagian',
     // ... permissions lain
 ]);
 
 // User - Hanya lihat bagian sendiri
 $user->syncPermissions([
-    'view_own_bagian_only',
+    'lihat_bagian_sendiri',
     // ... permissions lain
 ]);
 ```
@@ -134,13 +134,13 @@ Forms\Components\Select::make('bagian_id')
     ->options(function () {
         $user = auth()->user();
         
-        // Super admin atau view_all_bagian bisa pilih semua
-        if ($user->hasRole('super_admin') || $user->can('view_all_bagian')) {
+        // Super admin atau lihat_semua_bagian bisa pilih semua
+        if ($user->hasRole('super_admin') || $user->can('lihat_semua_bagian')) {
             return \App\Models\Bagian::pluck('nama_bagian', 'id');
         }
         
-        // view_own_bagian_only hanya bisa pilih bagiannya
-        if ($user->can('view_own_bagian_only') && $user->bagian_id) {
+        // lihat_bagian_sendiri hanya bisa pilih bagiannya
+        if ($user->can('lihat_bagian_sendiri') && $user->bagian_id) {
             return \App\Models\Bagian::where('id', $user->bagian_id)
                 ->pluck('nama_bagian', 'id');
         }
@@ -155,12 +155,12 @@ Forms\Components\Select::make('bagian_id')
 ### ✅ GudangResource (Stok Barang)
 - Model: `Gudang` memiliki `bagian_id`
 - Implementasi: `applyBagianScope($query, 'bagian_id')`
-- User dengan `view_own_bagian_only` hanya lihat stok bagiannya
+- User dengan `lihat_bagian_sendiri` hanya lihat stok bagiannya
 
 ### ✅ PermintaanResource
 - Model: `Permintaan` memiliki `user_id` (relasi ke User -> Bagian)
 - Implementasi: `applyUserScope($query, 'user_id')`
-- User dengan `view_own_bagian_only` hanya lihat permintaan dari bagiannya
+- User dengan `lihat_bagian_sendiri` hanya lihat permintaan dari bagiannya
 - Admin role bisa lihat permintaan dari bagiannya
 - User biasa hanya lihat permintaannya sendiri
 
@@ -266,12 +266,12 @@ php artisan permission:cache-reset
 3. Pastikan user memiliki `bagian_id` yang valid
 
 ### User tidak bisa lihat data sama sekali?
-1. Cek apakah user punya permission `view_own_bagian_only` atau `view_all_bagian`
+1. Cek apakah user punya permission `lihat_bagian_sendiri` atau `lihat_semua_bagian`
 2. Cek apakah user punya `bagian_id`
 3. Cek di database apakah ada data dengan bagian_id yang sama
 
 ### Admin masih hanya lihat bagiannya sendiri?
-1. Pastikan role admin punya permission `view_all_bagian`
+1. Pastikan role admin punya permission `lihat_semua_bagian`
 2. Run: `php artisan permission:cache-reset`
 
 ## Catatan Penting
