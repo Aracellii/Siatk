@@ -1,5 +1,5 @@
 <?php
-$nama_file = 'data_barang_100.csv';
+$nama_file = 'data_barang_10k_unik_1k.csv';
 $header = ['kode_barang', 'nama_barang', 'stok', 'nama_bagian'];
 $bagian = [
     'Tata Usaha',
@@ -13,14 +13,25 @@ $bagian = [
 $file = fopen($nama_file, 'w');
 fputcsv($file, $header);
 
-for ($i = 1; $i <= 100; $i++) {
+// 1. Tentukan jumlah barang unik yang diinginkan
+$jumlahBarangUnik = 1000;
+$totalBaris = 10000;
+
+for ($i = 1; $i <= $totalBaris; $i++) {
+    // 2. Gunakan operator Modulo (%) agar angka kembali ke 1 setelah mencapai 1000
+    // (i-1) % 1000 akan menghasilkan 0 sampai 999. Ditambah 1 jadi 1 sampai 1000.
+    $idBarang = (($i - 1) % $jumlahBarangUnik) + 1;
+    
+    $kodeBarang = "BRG-" . str_pad($idBarang, 4, '0', STR_PAD_LEFT);
+    $namaBarang = "Barang Contoh Ke-" . $idBarang;
+    
     fputcsv($file, [
-        "BRG-" . str_pad($i, 4, '0', STR_PAD_LEFT), // BRG-0001, dst
-        "Barang Contoh Ke-" . $i,
-        rand(10, 500), // Stok acak 10-500
-        $bagian[array_rand($bagian)] // Pilih bagian acak dari list kamu
+        $kodeBarang,
+        $namaBarang,
+        rand(10, 500),
+        $bagian[array_rand($bagian)] // Bagian tetap acak
     ]);
 }
 
 fclose($file);
-echo "File $nama_file berhasil dibuat dengan 1000 baris!";
+echo "File $nama_file berhasil dibuat! Total 10.000 baris dengan 1.000 barang unik.";
